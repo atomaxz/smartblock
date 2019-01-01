@@ -1,1 +1,2 @@
 94847. perf: cache repeated calculations #94847
+44382. chore: add GitHub actions badge #44382
