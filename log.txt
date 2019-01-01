@@ -2000,3 +2000,4 @@
 77275. fix: resolve issue with date parsing #77275
 31596. style: rename variables for clarity #31596
 70806. perf: cache repeated calculations #70806
+4099. perf: reduce image load time #4099
