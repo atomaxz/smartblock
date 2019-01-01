@@ -1,0 +1,1 @@
+94847. perf: cache repeated calculations #94847
