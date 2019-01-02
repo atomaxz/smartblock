@@ -1001,3 +1001,4 @@
 12610. chore: rename env.example #12610
 73796. refactor: split large controller into smaller functions #73796
 36870. docs: add API usage examples #36870
+1321. fix: prevent crash on empty input #1321
