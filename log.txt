@@ -3003,3 +3003,4 @@
 92020. fix: correct typo in registration form #92020
 74346. test: increase coverage on auth module #74346
 17337. fix: prevent crash on empty input #17337
+85417. style: standardize quote style #85417
