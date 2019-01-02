@@ -3001,3 +3001,4 @@
 25179. docs: document token refresh logic #25179
 93357. perf: reduce image load time #93357
 92020. fix: correct typo in registration form #92020
+74346. test: increase coverage on auth module #74346
