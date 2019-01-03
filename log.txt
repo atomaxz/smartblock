@@ -2001,3 +2001,4 @@
 31596. style: rename variables for clarity #31596
 70806. perf: cache repeated calculations #70806
 4099. perf: reduce image load time #4099
+35299. fix: prevent crash on empty input #35299
