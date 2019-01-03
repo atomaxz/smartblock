@@ -1,3 +1,4 @@
 94847. perf: cache repeated calculations #94847
 44382. chore: add GitHub actions badge #44382
 40485. chore: update .gitignore #40485
+83483. test: mock database connection in test suite #83483
