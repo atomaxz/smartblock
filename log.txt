@@ -2003,3 +2003,4 @@
 4099. perf: reduce image load time #4099
 35299. fix: prevent crash on empty input #35299
 40631. refactor: organize models into subfolders #40631
+74021. chore: update .gitignore #74021
