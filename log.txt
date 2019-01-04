@@ -1005,3 +1005,4 @@
 32698. perf: cache repeated calculations #32698
 76372. chore: add GitHub actions badge #76372
 74160. fix: correct typo in registration form #74160
+52889. perf: optimize database query for quiz results #52889
