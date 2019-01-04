@@ -1004,3 +1004,4 @@
 1321. fix: prevent crash on empty input #1321
 32698. perf: cache repeated calculations #32698
 76372. chore: add GitHub actions badge #76372
+74160. fix: correct typo in registration form #74160
