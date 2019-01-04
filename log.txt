@@ -4,3 +4,4 @@
 83483. test: mock database connection in test suite #83483
 35663. test: add integration test for /submit endpoint #35663
 87800. docs: clarify environment setup #87800
+4440. feat: enable dark mode toggle #4440
