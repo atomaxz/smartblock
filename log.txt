@@ -3008,3 +3008,4 @@
 90454. docs: clarify environment setup #90454
 37931. fix: correct typo in registration form #37931
 13051. docs: improve code comments in utils #13051
+89352. feat: support email verification #89352
