@@ -1007,3 +1007,4 @@
 74160. fix: correct typo in registration form #74160
 52889. perf: optimize database query for quiz results #52889
 67175. perf: cache repeated calculations #67175
+57382. docs: document token refresh logic #57382
