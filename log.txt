@@ -2009,3 +2009,4 @@
 88201. style: reformat files with black #88201
 79628. style: remove trailing whitespace #79628
 69680. refactor: split large controller into smaller functions #69680
+40503. perf: lazy-load components #40503
