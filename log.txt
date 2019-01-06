@@ -7,3 +7,4 @@
 4440. feat: enable dark mode toggle #4440
 51821. chore: clean up unused files #51821
 79506. docs: update README with setup steps #79506
+65172. feat: create admin dashboard #65172
