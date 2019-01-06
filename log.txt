@@ -1012,3 +1012,4 @@
 10310. docs: clarify environment setup #10310
 32111. test: mock database connection in test suite #32111
 41322. docs: clarify environment setup #41322
+3674. docs: add API usage examples #3674
