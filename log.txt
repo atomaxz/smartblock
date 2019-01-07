@@ -3014,3 +3014,4 @@
 62227. perf: reduce image load time #62227
 44608. test: mock database connection in test suite #44608
 79245. docs: update README with setup steps #79245
+28481. docs: write FAQ section #28481
