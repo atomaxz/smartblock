@@ -1017,3 +1017,4 @@
 7985. test: add integration test for /submit endpoint #7985
 13972. chore: rename env.example #13972
 91970. feat: add export to CSV option #91970
+17879. docs: update README with setup steps #17879
