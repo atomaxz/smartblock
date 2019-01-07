@@ -1014,3 +1014,4 @@
 41322. docs: clarify environment setup #41322
 3674. docs: add API usage examples #3674
 2001. docs: update README with setup steps #2001
+7985. test: add integration test for /submit endpoint #7985
