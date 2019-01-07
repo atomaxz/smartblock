@@ -3012,3 +3012,4 @@
 15885. fix: fix broken CSS in mobile view #15885
 37358. style: remove trailing whitespace #37358
 62227. perf: reduce image load time #62227
+44608. test: mock database connection in test suite #44608
