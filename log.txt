@@ -1021,3 +1021,4 @@
 73496. test: add integration test for /submit endpoint #73496
 23913. test: increase coverage on auth module #23913
 79235. style: rename variables for clarity #79235
+18933. fix: prevent crash on empty input #18933
