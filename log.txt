@@ -12,3 +12,4 @@
 69600. perf: lazy-load components #69600
 10852. test: add integration test for /submit endpoint #10852
 40061. test: increase coverage on auth module #40061
+16530. chore: bump dependencies #16530
