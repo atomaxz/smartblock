@@ -2014,3 +2014,4 @@
 8196. test: add integration test for /submit endpoint #8196
 42273. refactor: remove redundant code blocks #42273
 18892. fix: correct typo in registration form #18892
+19625. test: increase coverage on auth module #19625
