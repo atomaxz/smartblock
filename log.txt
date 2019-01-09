@@ -13,3 +13,4 @@
 10852. test: add integration test for /submit endpoint #10852
 40061. test: increase coverage on auth module #40061
 16530. chore: bump dependencies #16530
+25539. test: add unit test for quiz service #25539
