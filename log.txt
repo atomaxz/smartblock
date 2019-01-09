@@ -2017,3 +2017,4 @@
 19625. test: increase coverage on auth module #19625
 94449. style: remove trailing whitespace #94449
 93999. refactor: split large controller into smaller functions #93999
+2682. docs: update README with setup steps #2682
