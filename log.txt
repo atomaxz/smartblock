@@ -18,3 +18,4 @@
 36454. refactor: split large controller into smaller functions #36454
 26687. test: mock database connection in test suite #26687
 85599. fix: fix broken CSS in mobile view #85599
+85121. chore: rename env.example #85121
