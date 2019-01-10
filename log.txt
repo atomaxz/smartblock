@@ -1026,3 +1026,4 @@
 84631. test: test user registration edge cases #84631
 92610. chore: update .gitignore #92610
 92362. docs: add API usage examples #92362
+59062. fix: fix broken CSS in mobile view #59062
