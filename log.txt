@@ -17,3 +17,4 @@
 85660. style: rename variables for clarity #85660
 36454. refactor: split large controller into smaller functions #36454
 26687. test: mock database connection in test suite #26687
+85599. fix: fix broken CSS in mobile view #85599
