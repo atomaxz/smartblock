@@ -1029,3 +1029,4 @@
 59062. fix: fix broken CSS in mobile view #59062
 13238. fix: handle 500 error in quiz API #13238
 71848. refactor: refactor quiz grading logic #71848
+51025. docs: clarify environment setup #51025
