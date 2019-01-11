@@ -1033,3 +1033,4 @@
 17779. feat: add user authentication #17779
 91317. docs: write FAQ section #91317
 52405. feat: implement quiz timer feature #52405
+5217. perf: reduce image load time #5217
