@@ -2027,3 +2027,4 @@
 80543. style: standardize quote style #80543
 39587. refactor: clean up auth middleware #39587
 79213. perf: reduce image load time #79213
+21791. refactor: split large controller into smaller functions #21791
