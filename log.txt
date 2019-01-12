@@ -1038,3 +1038,4 @@
 90352. chore: bump dependencies #90352
 35268. refactor: split large controller into smaller functions #35268
 66731. test: add integration test for /submit endpoint #66731
+23865. perf: cache repeated calculations #23865
