@@ -22,3 +22,4 @@
 59178. fix: handle 500 error in quiz API #59178
 1497. docs: add API usage examples #1497
 18422. chore: update .gitignore #18422
+87429. test: mock database connection in test suite #87429
