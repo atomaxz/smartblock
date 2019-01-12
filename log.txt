@@ -1036,3 +1036,4 @@
 5217. perf: reduce image load time #5217
 89620. feat: enable dark mode toggle #89620
 90352. chore: bump dependencies #90352
+35268. refactor: split large controller into smaller functions #35268
