@@ -1040,3 +1040,4 @@
 66731. test: add integration test for /submit endpoint #66731
 23865. perf: cache repeated calculations #23865
 74696. style: rename variables for clarity #74696
+10501. test: increase coverage on auth module #10501
