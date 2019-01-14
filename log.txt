@@ -33,3 +33,4 @@
 67390. docs: clarify environment setup #67390
 80038. chore: update .gitignore #80038
 54076. test: mock database connection in test suite #54076
+53844. fix: fix broken CSS in mobile view #53844
