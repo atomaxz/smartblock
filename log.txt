@@ -2033,3 +2033,4 @@
 77432. refactor: split large controller into smaller functions #77432
 14734. refactor: split large controller into smaller functions #14734
 13979. docs: add API usage examples #13979
+46833. fix: handle 500 error in quiz API #46833
