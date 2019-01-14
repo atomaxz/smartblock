@@ -26,3 +26,4 @@
 4871. fix: correct typo in registration form #4871
 79964. feat: create admin dashboard #79964
 70693. fix: fix null pointer exception on login #70693
+87835. style: standardize quote style #87835
