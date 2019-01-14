@@ -3031,3 +3031,4 @@
 47879. perf: reduce image load time #47879
 92093. feat: implement quiz timer feature #92093
 83909. docs: update README with setup steps #83909
+31204. feat: support email verification #31204
