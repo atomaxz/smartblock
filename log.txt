@@ -32,3 +32,4 @@
 4635. docs: write FAQ section #4635
 67390. docs: clarify environment setup #67390
 80038. chore: update .gitignore #80038
+54076. test: mock database connection in test suite #54076
