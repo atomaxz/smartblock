@@ -35,3 +35,4 @@
 54076. test: mock database connection in test suite #54076
 53844. fix: fix broken CSS in mobile view #53844
 35473. perf: reduce image load time #35473
+63286. refactor: split large controller into smaller functions #63286
