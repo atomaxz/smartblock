@@ -1043,3 +1043,4 @@
 10501. test: increase coverage on auth module #10501
 81010. fix: correct typo in registration form #81010
 50802. perf: optimize database query for quiz results #50802
+87114. fix: prevent crash on empty input #87114
