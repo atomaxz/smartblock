@@ -3035,3 +3035,4 @@
 18451. refactor: split large controller into smaller functions #18451
 86159. style: rename variables for clarity #86159
 77867. refactor: remove redundant code blocks #77867
+25404. feat: support email verification #25404
