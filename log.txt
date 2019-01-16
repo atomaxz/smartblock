@@ -2036,3 +2036,4 @@
 46833. fix: handle 500 error in quiz API #46833
 0283. refactor: split large controller into smaller functions #283
 67297. perf: optimize database query for quiz results #67297
+19172. chore: bump dependencies #19172
