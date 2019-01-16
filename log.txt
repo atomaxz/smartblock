@@ -2035,3 +2035,4 @@
 13979. docs: add API usage examples #13979
 46833. fix: handle 500 error in quiz API #46833
 0283. refactor: split large controller into smaller functions #283
+67297. perf: optimize database query for quiz results #67297
