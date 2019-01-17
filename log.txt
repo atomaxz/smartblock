@@ -1047,3 +1047,4 @@
 86055. test: mock database connection in test suite #86055
 70800. style: rename variables for clarity #70800
 25559. fix: handle 500 error in quiz API #25559
+1501. style: standardize quote style #1501
