@@ -2042,3 +2042,4 @@
 42383. test: increase coverage on auth module #42383
 44075. feat: add export to CSV option #44075
 76733. style: remove trailing whitespace #76733
+18947. fix: correct typo in registration form #18947
