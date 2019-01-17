@@ -2039,3 +2039,4 @@
 19172. chore: bump dependencies #19172
 68262. perf: lazy-load components #68262
 79421. feat: create admin dashboard #79421
+42383. test: increase coverage on auth module #42383
