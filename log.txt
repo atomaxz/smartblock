@@ -49,3 +49,4 @@
 77400. docs: document token refresh logic #77400
 7592. chore: bump dependencies #7592
 46204. fix: fix broken CSS in mobile view #46204
+66310. feat: support email verification #66310
