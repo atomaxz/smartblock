@@ -2047,3 +2047,4 @@
 74826. test: test user registration edge cases #74826
 89768. perf: lazy-load components #89768
 9125. style: apply consistent indentation #9125
+15442. fix: fix broken CSS in mobile view #15442
