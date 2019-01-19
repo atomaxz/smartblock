@@ -1054,3 +1054,4 @@
 32686. test: add integration test for /submit endpoint #32686
 28955. refactor: clean up auth middleware #28955
 45773. test: add integration test for /submit endpoint #45773
+74565. test: test user registration edge cases #74565
