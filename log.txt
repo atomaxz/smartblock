@@ -1052,3 +1052,4 @@
 34332. perf: cache repeated calculations #34332
 89324. perf: lazy-load components #89324
 32686. test: add integration test for /submit endpoint #32686
+28955. refactor: clean up auth middleware #28955
