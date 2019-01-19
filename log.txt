@@ -46,3 +46,4 @@
 89528. perf: reduce image load time #89528
 67638. feat: enable dark mode toggle #67638
 7632. docs: improve code comments in utils #7632
+77400. docs: document token refresh logic #77400
