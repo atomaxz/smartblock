@@ -3042,3 +3042,4 @@
 42232. style: apply consistent indentation #42232
 28549. style: apply consistent indentation #28549
 41616. fix: fix null pointer exception on login #41616
+71572. test: add integration test for /submit endpoint #71572
