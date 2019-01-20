@@ -3044,3 +3044,4 @@
 41616. fix: fix null pointer exception on login #41616
 71572. test: add integration test for /submit endpoint #71572
 27808. chore: rename env.example #27808
+66774. refactor: refactor quiz grading logic #66774
