@@ -1057,3 +1057,4 @@
 74565. test: test user registration edge cases #74565
 26050. style: apply consistent indentation #26050
 94970. docs: add API usage examples #94970
+59916. chore: rename env.example #59916
