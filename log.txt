@@ -1056,3 +1056,4 @@
 45773. test: add integration test for /submit endpoint #45773
 74565. test: test user registration edge cases #74565
 26050. style: apply consistent indentation #26050
+94970. docs: add API usage examples #94970
