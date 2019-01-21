@@ -1061,3 +1061,4 @@
 6572. refactor: organize models into subfolders #6572
 39905. perf: optimize database query for quiz results #39905
 24496. fix: prevent crash on empty input #24496
+18704. test: increase coverage on auth module #18704
