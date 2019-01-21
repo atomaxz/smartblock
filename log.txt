@@ -51,3 +51,4 @@
 46204. fix: fix broken CSS in mobile view #46204
 66310. feat: support email verification #66310
 10138. fix: fix broken CSS in mobile view #10138
+79812. style: reformat files with black #79812
