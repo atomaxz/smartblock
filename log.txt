@@ -3048,3 +3048,4 @@
 69822. test: add unit test for quiz service #69822
 7670. feat: implement quiz timer feature #7670
 30888. refactor: refactor quiz grading logic #30888
+72794. perf: reduce image load time #72794
