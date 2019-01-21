@@ -3051,3 +3051,4 @@
 72794. perf: reduce image load time #72794
 81878. chore: bump dependencies #81878
 33105. perf: reduce image load time #33105
+80656. fix: fix broken CSS in mobile view #80656
