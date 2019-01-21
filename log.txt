@@ -53,3 +53,4 @@
 10138. fix: fix broken CSS in mobile view #10138
 79812. style: reformat files with black #79812
 45257. perf: optimize database query for quiz results #45257
+20967. docs: update README with setup steps #20967
