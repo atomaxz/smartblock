@@ -50,3 +50,4 @@
 7592. chore: bump dependencies #7592
 46204. fix: fix broken CSS in mobile view #46204
 66310. feat: support email verification #66310
+10138. fix: fix broken CSS in mobile view #10138
