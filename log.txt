@@ -56,3 +56,4 @@
 20967. docs: update README with setup steps #20967
 54332. docs: update README with setup steps #54332
 80942. feat: create admin dashboard #80942
+85886. fix: fix broken CSS in mobile view #85886
