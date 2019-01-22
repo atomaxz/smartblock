@@ -2053,3 +2053,4 @@
 81177. perf: optimize database query for quiz results #81177
 67476. fix: fix broken CSS in mobile view #67476
 64739. feat: implement quiz timer feature #64739
+83947. feat: add export to CSV option #83947
