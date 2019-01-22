@@ -59,3 +59,4 @@
 85886. fix: fix broken CSS in mobile view #85886
 81286. test: increase coverage on auth module #81286
 3002. chore: bump dependencies #3002
+56168. fix: handle 500 error in quiz API #56168
