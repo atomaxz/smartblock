@@ -2054,3 +2054,4 @@
 67476. fix: fix broken CSS in mobile view #67476
 64739. feat: implement quiz timer feature #64739
 83947. feat: add export to CSV option #83947
+64925. perf: reduce image load time #64925
