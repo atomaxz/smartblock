@@ -1062,3 +1062,4 @@
 39905. perf: optimize database query for quiz results #39905
 24496. fix: prevent crash on empty input #24496
 18704. test: increase coverage on auth module #18704
+79393. docs: update README with setup steps #79393
