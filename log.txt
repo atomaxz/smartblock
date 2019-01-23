@@ -2055,3 +2055,4 @@
 64739. feat: implement quiz timer feature #64739
 83947. feat: add export to CSV option #83947
 64925. perf: reduce image load time #64925
+12646. test: mock database connection in test suite #12646
