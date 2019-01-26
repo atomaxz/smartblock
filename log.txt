@@ -2060,3 +2060,4 @@
 45471. feat: create admin dashboard #45471
 75806. test: add unit test for quiz service #75806
 95813. test: mock database connection in test suite #95813
+73189. test: test user registration edge cases #73189
