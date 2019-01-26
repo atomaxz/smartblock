@@ -2061,3 +2061,4 @@
 75806. test: add unit test for quiz service #75806
 95813. test: mock database connection in test suite #95813
 73189. test: test user registration edge cases #73189
+1542. feat: add export to CSV option #1542
