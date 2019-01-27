@@ -1077,3 +1077,4 @@
 82034. chore: bump dependencies #82034
 12784. perf: cache repeated calculations #12784
 18793. docs: improve code comments in utils #18793
+49039. docs: add API usage examples #49039
