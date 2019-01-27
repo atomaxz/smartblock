@@ -68,3 +68,4 @@
 13004. refactor: refactor quiz grading logic #13004
 38547. chore: clean up unused files #38547
 86071. refactor: split large controller into smaller functions #86071
+7132. fix: handle 500 error in quiz API #7132
