@@ -69,3 +69,4 @@
 38547. chore: clean up unused files #38547
 86071. refactor: split large controller into smaller functions #86071
 7132. fix: handle 500 error in quiz API #7132
+95820. docs: update README with setup steps #95820
