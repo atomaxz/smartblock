@@ -2066,3 +2066,4 @@
 8343. test: test user registration edge cases #8343
 84506. style: apply consistent indentation #84506
 2154. chore: add GitHub actions badge #2154
+67277. fix: fix null pointer exception on login #67277
