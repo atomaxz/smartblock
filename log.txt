@@ -70,3 +70,4 @@
 86071. refactor: split large controller into smaller functions #86071
 7132. fix: handle 500 error in quiz API #7132
 95820. docs: update README with setup steps #95820
+80045. test: test user registration edge cases #80045
