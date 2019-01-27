@@ -3062,3 +3062,4 @@
 43964. perf: cache repeated calculations #43964
 31553. style: apply consistent indentation #31553
 38433. test: test user registration edge cases #38433
+35299. fix: prevent crash on empty input #35299
