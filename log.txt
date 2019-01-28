@@ -1081,3 +1081,4 @@
 86938. style: standardize quote style #86938
 55466. feat: implement quiz timer feature #55466
 25817. perf: cache repeated calculations #25817
+54395. test: add integration test for /submit endpoint #54395
