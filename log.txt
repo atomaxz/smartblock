@@ -2068,3 +2068,4 @@
 2154. chore: add GitHub actions badge #2154
 67277. fix: fix null pointer exception on login #67277
 82040. test: add integration test for /submit endpoint #82040
+19858. perf: reduce image load time #19858
