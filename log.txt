@@ -3067,3 +3067,4 @@
 73419. chore: clean up unused files #73419
 26014. chore: add GitHub actions badge #26014
 41080. docs: clarify environment setup #41080
+94368. fix: fix broken CSS in mobile view #94368
