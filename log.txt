@@ -1089,3 +1089,4 @@
 40429. chore: update .gitignore #40429
 54731. docs: improve code comments in utils #54731
 70104. fix: prevent crash on empty input #70104
+21952. feat: support email verification #21952
