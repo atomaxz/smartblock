@@ -75,3 +75,4 @@
 12228. fix: fix null pointer exception on login #12228
 4754. chore: clean up unused files #4754
 85182. chore: update .gitignore #85182
+58780. chore: bump dependencies #58780
