@@ -2074,3 +2074,4 @@
 6253. docs: update README with setup steps #6253
 29763. style: standardize quote style #29763
 45703. fix: fix broken CSS in mobile view #45703
+34050. feat: enable dark mode toggle #34050
