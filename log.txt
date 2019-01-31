@@ -1091,3 +1091,4 @@
 70104. fix: prevent crash on empty input #70104
 21952. feat: support email verification #21952
 98045. refactor: refactor quiz grading logic #98045
+67007. refactor: clean up auth middleware #67007
