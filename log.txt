@@ -77,3 +77,4 @@
 85182. chore: update .gitignore #85182
 58780. chore: bump dependencies #58780
 85194. perf: reduce image load time #85194
+47240. chore: rename env.example #47240
