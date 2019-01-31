@@ -1092,3 +1092,4 @@
 21952. feat: support email verification #21952
 98045. refactor: refactor quiz grading logic #98045
 67007. refactor: clean up auth middleware #67007
+34010. fix: handle 500 error in quiz API #34010
