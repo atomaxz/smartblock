@@ -83,3 +83,4 @@
 10770. fix: prevent crash on empty input #10770
 49192. feat: create admin dashboard #49192
 22323. refactor: remove redundant code blocks #22323
+79864. test: add unit test for quiz service #79864
