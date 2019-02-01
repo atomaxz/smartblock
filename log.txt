@@ -82,3 +82,4 @@
 4955. style: reformat files with black #4955
 10770. fix: prevent crash on empty input #10770
 49192. feat: create admin dashboard #49192
+22323. refactor: remove redundant code blocks #22323
