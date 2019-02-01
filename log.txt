@@ -81,3 +81,4 @@
 67722. fix: correct typo in registration form #67722
 4955. style: reformat files with black #4955
 10770. fix: prevent crash on empty input #10770
+49192. feat: create admin dashboard #49192
