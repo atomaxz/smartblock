@@ -1100,3 +1100,4 @@
 43520. style: rename variables for clarity #43520
 13513. style: remove trailing whitespace #13513
 84874. docs: document token refresh logic #84874
+78626. test: test user registration edge cases #78626
