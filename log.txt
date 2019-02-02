@@ -87,3 +87,4 @@
 61732. docs: improve code comments in utils #61732
 79909. feat: add export to CSV option #79909
 46748. feat: create admin dashboard #46748
+21289. test: increase coverage on auth module #21289
