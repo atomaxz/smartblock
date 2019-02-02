@@ -3078,3 +3078,4 @@
 51934. test: add unit test for quiz service #51934
 53192. perf: lazy-load components #53192
 30304. fix: handle 500 error in quiz API #30304
+4954. test: mock database connection in test suite #4954
