@@ -2079,3 +2079,4 @@
 63256. refactor: clean up auth middleware #63256
 85923. chore: rename env.example #85923
 68121. feat: add user authentication #68121
+35088. feat: support email verification #35088
