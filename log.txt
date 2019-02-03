@@ -92,3 +92,4 @@
 15334. style: standardize quote style #15334
 44940. chore: bump dependencies #44940
 20519. fix: prevent crash on empty input #20519
+2399. refactor: clean up auth middleware #2399
