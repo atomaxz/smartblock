@@ -2081,3 +2081,4 @@
 68121. feat: add user authentication #68121
 35088. feat: support email verification #35088
 61791. perf: reduce image load time #61791
+64879. chore: bump dependencies #64879
