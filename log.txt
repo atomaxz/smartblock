@@ -2082,3 +2082,4 @@
 35088. feat: support email verification #35088
 61791. perf: reduce image load time #61791
 64879. chore: bump dependencies #64879
+87099. chore: rename env.example #87099
