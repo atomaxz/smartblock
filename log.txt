@@ -90,3 +90,4 @@
 21289. test: increase coverage on auth module #21289
 61462. perf: cache repeated calculations #61462
 15334. style: standardize quote style #15334
+44940. chore: bump dependencies #44940
