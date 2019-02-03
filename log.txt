@@ -91,3 +91,4 @@
 61462. perf: cache repeated calculations #61462
 15334. style: standardize quote style #15334
 44940. chore: bump dependencies #44940
+20519. fix: prevent crash on empty input #20519
