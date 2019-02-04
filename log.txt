@@ -3083,3 +3083,4 @@
 8418. feat: add export to CSV option #8418
 42399. feat: create admin dashboard #42399
 96849. fix: resolve issue with date parsing #96849
+75144. docs: update README with setup steps #75144
