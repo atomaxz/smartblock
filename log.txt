@@ -1103,3 +1103,4 @@
 78626. test: test user registration edge cases #78626
 76856. chore: add GitHub actions badge #76856
 60371. perf: cache repeated calculations #60371
+67613. fix: fix null pointer exception on login #67613
