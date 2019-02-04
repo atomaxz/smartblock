@@ -3082,3 +3082,4 @@
 78805. docs: add API usage examples #78805
 8418. feat: add export to CSV option #8418
 42399. feat: create admin dashboard #42399
+96849. fix: resolve issue with date parsing #96849
