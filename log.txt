@@ -95,3 +95,4 @@
 2399. refactor: clean up auth middleware #2399
 2549. chore: rename env.example #2549
 61944. style: apply consistent indentation #61944
+72968. feat: create admin dashboard #72968
