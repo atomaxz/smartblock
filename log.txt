@@ -2091,3 +2091,4 @@
 20403. perf: cache repeated calculations #20403
 5231. test: test user registration edge cases #5231
 36019. perf: cache repeated calculations #36019
+0237. test: add unit test for quiz service #237
