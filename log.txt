@@ -1107,3 +1107,4 @@
 47582. perf: cache repeated calculations #47582
 80946. refactor: remove redundant code blocks #80946
 88391. fix: fix broken CSS in mobile view #88391
+79654. test: test user registration edge cases #79654
