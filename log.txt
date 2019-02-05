@@ -1106,3 +1106,4 @@
 67613. fix: fix null pointer exception on login #67613
 47582. perf: cache repeated calculations #47582
 80946. refactor: remove redundant code blocks #80946
+88391. fix: fix broken CSS in mobile view #88391
