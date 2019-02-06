@@ -1109,3 +1109,4 @@
 88391. fix: fix broken CSS in mobile view #88391
 79654. test: test user registration edge cases #79654
 0828. perf: optimize database query for quiz results #828
+82121. docs: document token refresh logic #82121
