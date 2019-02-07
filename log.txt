@@ -1112,3 +1112,4 @@
 82121. docs: document token refresh logic #82121
 78008. perf: reduce image load time #78008
 13421. fix: correct typo in registration form #13421
+92496. fix: prevent crash on empty input #92496
