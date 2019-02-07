@@ -104,3 +104,4 @@
 16872. refactor: remove redundant code blocks #16872
 14273. feat: create admin dashboard #14273
 24187. test: increase coverage on auth module #24187
+79099. fix: handle 500 error in quiz API #79099
