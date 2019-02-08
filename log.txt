@@ -2097,3 +2097,4 @@
 59606. chore: update .gitignore #59606
 24026. docs: add API usage examples #24026
 72702. test: increase coverage on auth module #72702
+30487. test: mock database connection in test suite #30487
