@@ -3093,3 +3093,4 @@
 57222. docs: add API usage examples #57222
 11307. fix: correct typo in registration form #11307
 50603. refactor: clean up auth middleware #50603
+5330. perf: lazy-load components #5330
