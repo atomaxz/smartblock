@@ -2094,3 +2094,4 @@
 0237. test: add unit test for quiz service #237
 26730. refactor: split large controller into smaller functions #26730
 49098. refactor: organize models into subfolders #49098
+59606. chore: update .gitignore #59606
