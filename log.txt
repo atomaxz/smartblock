@@ -111,3 +111,4 @@
 77657. test: add unit test for quiz service #77657
 73576. test: mock database connection in test suite #73576
 76688. fix: resolve issue with date parsing #76688
+71971. chore: update .gitignore #71971
