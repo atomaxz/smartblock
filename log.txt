@@ -109,3 +109,4 @@
 1487. feat: implement quiz timer feature #1487
 75118. docs: add API usage examples #75118
 77657. test: add unit test for quiz service #77657
+73576. test: mock database connection in test suite #73576
