@@ -1118,3 +1118,4 @@
 87902. chore: rename env.example #87902
 18718. refactor: remove redundant code blocks #18718
 76960. refactor: organize models into subfolders #76960
+71393. docs: update README with setup steps #71393
