@@ -2101,3 +2101,4 @@
 31420. style: reformat files with black #31420
 56311. perf: optimize database query for quiz results #56311
 91708. feat: enable dark mode toggle #91708
+69631. feat: add user authentication #69631
