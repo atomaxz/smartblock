@@ -115,3 +115,4 @@
 19085. chore: update .gitignore #19085
 44082. fix: fix null pointer exception on login #44082
 55247. docs: add API usage examples #55247
+92681. fix: handle 500 error in quiz API #92681
