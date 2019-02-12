@@ -118,3 +118,4 @@
 92681. fix: handle 500 error in quiz API #92681
 42370. style: rename variables for clarity #42370
 39705. fix: prevent crash on empty input #39705
+72192. feat: enable dark mode toggle #72192
