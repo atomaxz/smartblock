@@ -1121,3 +1121,4 @@
 71393. docs: update README with setup steps #71393
 34633. docs: add API usage examples #34633
 85412. perf: cache repeated calculations #85412
+43536. refactor: clean up auth middleware #43536
