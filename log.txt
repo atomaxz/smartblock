@@ -3102,3 +3102,4 @@
 50679. docs: update README with setup steps #50679
 10037. chore: update .gitignore #10037
 44519. docs: clarify environment setup #44519
+5348. test: mock database connection in test suite #5348
