@@ -1122,3 +1122,4 @@
 34633. docs: add API usage examples #34633
 85412. perf: cache repeated calculations #85412
 43536. refactor: clean up auth middleware #43536
+82064. refactor: clean up auth middleware #82064
