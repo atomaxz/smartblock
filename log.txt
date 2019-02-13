@@ -1124,3 +1124,4 @@
 43536. refactor: clean up auth middleware #43536
 82064. refactor: clean up auth middleware #82064
 29206. refactor: refactor quiz grading logic #29206
+94462. chore: add GitHub actions badge #94462
