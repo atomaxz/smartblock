@@ -1126,3 +1126,4 @@
 29206. refactor: refactor quiz grading logic #29206
 94462. chore: add GitHub actions badge #94462
 27689. style: reformat files with black #27689
+65626. perf: reduce image load time #65626
