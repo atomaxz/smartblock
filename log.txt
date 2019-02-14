@@ -3108,3 +3108,4 @@
 56873. feat: add user authentication #56873
 4774. fix: handle 500 error in quiz API #4774
 29088. test: increase coverage on auth module #29088
+58621. feat: support email verification #58621
