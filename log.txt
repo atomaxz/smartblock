@@ -124,3 +124,4 @@
 2447. refactor: refactor quiz grading logic #2447
 50487. fix: prevent crash on empty input #50487
 53673. perf: cache repeated calculations #53673
+79857. style: reformat files with black #79857
