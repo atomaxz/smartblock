@@ -3110,3 +3110,4 @@
 29088. test: increase coverage on auth module #29088
 58621. feat: support email verification #58621
 6481. feat: enable dark mode toggle #6481
+52969. test: increase coverage on auth module #52969
