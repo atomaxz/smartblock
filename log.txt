@@ -2110,3 +2110,4 @@
 84380. test: add unit test for quiz service #84380
 64789. perf: cache repeated calculations #64789
 54828. style: apply consistent indentation #54828
+9563. refactor: refactor quiz grading logic #9563
