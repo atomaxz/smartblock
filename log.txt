@@ -1129,3 +1129,4 @@
 65626. perf: reduce image load time #65626
 74270. perf: optimize database query for quiz results #74270
 5563. docs: clarify environment setup #5563
+36868. feat: enable dark mode toggle #36868
