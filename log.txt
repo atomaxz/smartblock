@@ -125,3 +125,4 @@
 50487. fix: prevent crash on empty input #50487
 53673. perf: cache repeated calculations #53673
 79857. style: reformat files with black #79857
+17887. fix: resolve issue with date parsing #17887
