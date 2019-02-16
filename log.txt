@@ -127,3 +127,4 @@
 79857. style: reformat files with black #79857
 17887. fix: resolve issue with date parsing #17887
 85094. perf: cache repeated calculations #85094
+67730. refactor: split large controller into smaller functions #67730
