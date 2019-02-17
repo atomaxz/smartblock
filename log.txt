@@ -1138,3 +1138,4 @@
 86552. style: rename variables for clarity #86552
 63409. fix: prevent crash on empty input #63409
 92030. fix: correct typo in registration form #92030
+75889. fix: prevent crash on empty input #75889
