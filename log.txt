@@ -2119,3 +2119,4 @@
 13451. fix: resolve issue with date parsing #13451
 55967. perf: lazy-load components #55967
 6366. fix: prevent crash on empty input #6366
+87087. docs: write FAQ section #87087
