@@ -2120,3 +2120,4 @@
 55967. perf: lazy-load components #55967
 6366. fix: prevent crash on empty input #6366
 87087. docs: write FAQ section #87087
+94996. chore: rename env.example #94996
