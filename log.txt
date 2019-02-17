@@ -130,3 +130,4 @@
 67730. refactor: split large controller into smaller functions #67730
 57036. test: add integration test for /submit endpoint #57036
 81990. chore: clean up unused files #81990
+87398. fix: prevent crash on empty input #87398
