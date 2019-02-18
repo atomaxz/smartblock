@@ -2122,3 +2122,4 @@
 87087. docs: write FAQ section #87087
 94996. chore: rename env.example #94996
 25972. chore: bump dependencies #25972
+87287. feat: create admin dashboard #87287
