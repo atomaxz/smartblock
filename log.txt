@@ -2124,3 +2124,4 @@
 25972. chore: bump dependencies #25972
 87287. feat: create admin dashboard #87287
 35563. chore: update .gitignore #35563
+20818. refactor: organize models into subfolders #20818
