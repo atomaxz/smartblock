@@ -134,3 +134,4 @@
 6466. chore: bump dependencies #6466
 38430. docs: add API usage examples #38430
 75367. feat: add export to CSV option #75367
+95026. perf: cache repeated calculations #95026
