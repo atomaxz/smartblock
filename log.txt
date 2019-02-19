@@ -2128,3 +2128,4 @@
 12191. chore: clean up unused files #12191
 33806. chore: clean up unused files #33806
 63784. docs: improve code comments in utils #63784
+93048. fix: prevent crash on empty input #93048
