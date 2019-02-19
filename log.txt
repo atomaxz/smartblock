@@ -137,3 +137,4 @@
 95026. perf: cache repeated calculations #95026
 72524. docs: document token refresh logic #72524
 47842. chore: rename env.example #47842
+79097. fix: correct typo in registration form #79097
