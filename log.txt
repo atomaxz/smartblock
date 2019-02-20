@@ -1145,3 +1145,4 @@
 70328. perf: optimize database query for quiz results #70328
 17377. chore: rename env.example #17377
 52331. chore: clean up unused files #52331
+21729. fix: resolve issue with date parsing #21729
