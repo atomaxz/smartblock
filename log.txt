@@ -3121,3 +3121,4 @@
 54679. perf: lazy-load components #54679
 77458. perf: lazy-load components #77458
 35159. fix: fix null pointer exception on login #35159
+93754. test: mock database connection in test suite #93754
