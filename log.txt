@@ -147,3 +147,4 @@
 7426. style: standardize quote style #7426
 29523. chore: update .gitignore #29523
 95714. refactor: remove redundant code blocks #95714
+18776. fix: correct typo in registration form #18776
