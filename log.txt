@@ -2136,3 +2136,4 @@
 97336. test: add unit test for quiz service #97336
 89151. test: increase coverage on auth module #89151
 13410. refactor: remove redundant code blocks #13410
+96518. test: add integration test for /submit endpoint #96518
