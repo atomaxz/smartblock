@@ -2134,3 +2134,4 @@
 40266. docs: update README with setup steps #40266
 72940. test: add integration test for /submit endpoint #72940
 97336. test: add unit test for quiz service #97336
+89151. test: increase coverage on auth module #89151
