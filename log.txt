@@ -154,3 +154,4 @@
 77617. chore: clean up unused files #77617
 98923. docs: write FAQ section #98923
 84812. refactor: remove redundant code blocks #84812
+54167. chore: rename env.example #54167
