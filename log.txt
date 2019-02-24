@@ -2144,3 +2144,4 @@
 58462. refactor: refactor quiz grading logic #58462
 11604. fix: prevent crash on empty input #11604
 41405. docs: add API usage examples #41405
+74767. perf: lazy-load components #74767
