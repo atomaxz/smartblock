@@ -158,3 +158,4 @@
 17337. fix: prevent crash on empty input #17337
 86815. refactor: refactor quiz grading logic #86815
 4977. docs: document token refresh logic #4977
+53411. refactor: clean up auth middleware #53411
