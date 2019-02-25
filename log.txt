@@ -1158,3 +1158,4 @@
 65088. feat: implement quiz timer feature #65088
 80400. perf: lazy-load components #80400
 25218. refactor: clean up auth middleware #25218
+78334. perf: reduce image load time #78334
