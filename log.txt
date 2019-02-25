@@ -3134,3 +3134,4 @@
 20065. feat: create admin dashboard #20065
 43941. style: remove trailing whitespace #43941
 81003. perf: reduce image load time #81003
+68275. test: increase coverage on auth module #68275
