@@ -3135,3 +3135,4 @@
 43941. style: remove trailing whitespace #43941
 81003. perf: reduce image load time #81003
 68275. test: increase coverage on auth module #68275
+61541. feat: support email verification #61541
