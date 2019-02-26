@@ -2148,3 +2148,4 @@
 4316. feat: add export to CSV option #4316
 36643. feat: enable dark mode toggle #36643
 91736. fix: prevent crash on empty input #91736
+96476. feat: add user authentication #96476
