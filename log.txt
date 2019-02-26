@@ -2150,3 +2150,4 @@
 91736. fix: prevent crash on empty input #91736
 96476. feat: add user authentication #96476
 32714. fix: handle 500 error in quiz API #32714
+90120. perf: optimize database query for quiz results #90120
