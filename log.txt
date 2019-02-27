@@ -1162,3 +1162,4 @@
 54337. fix: resolve issue with date parsing #54337
 77518. fix: resolve issue with date parsing #77518
 17659. style: standardize quote style #17659
+41982. fix: fix broken CSS in mobile view #41982
