@@ -1165,3 +1165,4 @@
 41982. fix: fix broken CSS in mobile view #41982
 47057. docs: clarify environment setup #47057
 2974. fix: prevent crash on empty input #2974
+32652. fix: handle 500 error in quiz API #32652
