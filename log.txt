@@ -2153,3 +2153,4 @@
 90120. perf: optimize database query for quiz results #90120
 63266. test: increase coverage on auth module #63266
 41495. fix: fix broken CSS in mobile view #41495
+45580. style: standardize quote style #45580
