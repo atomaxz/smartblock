@@ -165,3 +165,4 @@
 13347. fix: fix null pointer exception on login #13347
 84274. refactor: refactor quiz grading logic #84274
 22651. chore: add GitHub actions badge #22651
+67217. docs: update README with setup steps #67217
