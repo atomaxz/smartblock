@@ -3140,3 +3140,4 @@
 46217. style: rename variables for clarity #46217
 11119. test: test user registration edge cases #11119
 60871. style: rename variables for clarity #60871
+5780. perf: lazy-load components #5780
