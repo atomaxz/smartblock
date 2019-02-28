@@ -1168,3 +1168,4 @@
 32652. fix: handle 500 error in quiz API #32652
 11427. style: standardize quote style #11427
 17290. style: rename variables for clarity #17290
+9131. fix: handle 500 error in quiz API #9131
