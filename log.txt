@@ -167,3 +167,4 @@
 22651. chore: add GitHub actions badge #22651
 67217. docs: update README with setup steps #67217
 1455. feat: create admin dashboard #1455
+22911. perf: reduce image load time #22911
