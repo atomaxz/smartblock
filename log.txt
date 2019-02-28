@@ -1166,3 +1166,4 @@
 47057. docs: clarify environment setup #47057
 2974. fix: prevent crash on empty input #2974
 32652. fix: handle 500 error in quiz API #32652
+11427. style: standardize quote style #11427
