@@ -169,3 +169,4 @@
 1455. feat: create admin dashboard #1455
 22911. perf: reduce image load time #22911
 9685. refactor: remove redundant code blocks #9685
+7556. fix: handle 500 error in quiz API #7556
