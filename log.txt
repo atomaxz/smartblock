@@ -171,3 +171,4 @@
 9685. refactor: remove redundant code blocks #9685
 7556. fix: handle 500 error in quiz API #7556
 93744. fix: correct typo in registration form #93744
+0178. chore: bump dependencies #178
