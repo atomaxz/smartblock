@@ -173,3 +173,4 @@
 93744. fix: correct typo in registration form #93744
 0178. chore: bump dependencies #178
 19904. docs: write FAQ section #19904
+55214. chore: rename env.example #55214
