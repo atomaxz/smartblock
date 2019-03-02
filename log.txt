@@ -1174,3 +1174,4 @@
 78306. refactor: split large controller into smaller functions #78306
 30661. test: add integration test for /submit endpoint #30661
 33478. refactor: refactor quiz grading logic #33478
+22376. fix: correct typo in registration form #22376
