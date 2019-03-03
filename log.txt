@@ -176,3 +176,4 @@
 55214. chore: rename env.example #55214
 66013. perf: cache repeated calculations #66013
 15029. test: add unit test for quiz service #15029
+52525. test: increase coverage on auth module #52525
