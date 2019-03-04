@@ -2164,3 +2164,4 @@
 27571. chore: bump dependencies #27571
 5081. chore: update .gitignore #5081
 90606. perf: cache repeated calculations #90606
+78445. perf: cache repeated calculations #78445
