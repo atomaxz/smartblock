@@ -180,3 +180,4 @@
 36677. docs: update README with setup steps #36677
 84373. refactor: refactor quiz grading logic #84373
 80164. perf: lazy-load components #80164
+54215. fix: prevent crash on empty input #54215
