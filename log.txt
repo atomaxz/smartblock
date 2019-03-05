@@ -3164,3 +3164,4 @@
 39693. test: increase coverage on auth module #39693
 94730. refactor: split large controller into smaller functions #94730
 77949. perf: reduce image load time #77949
+96926. test: mock database connection in test suite #96926
