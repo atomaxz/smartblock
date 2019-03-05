@@ -182,3 +182,4 @@
 80164. perf: lazy-load components #80164
 54215. fix: prevent crash on empty input #54215
 80397. chore: clean up unused files #80397
+55239. fix: fix broken CSS in mobile view #55239
