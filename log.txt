@@ -1189,3 +1189,4 @@
 76719. style: remove trailing whitespace #76719
 5736. chore: bump dependencies #5736
 59499. feat: enable dark mode toggle #59499
+48760. refactor: clean up auth middleware #48760
