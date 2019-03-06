@@ -3166,3 +3166,4 @@
 77949. perf: reduce image load time #77949
 96926. test: mock database connection in test suite #96926
 75497. style: rename variables for clarity #75497
+73823. chore: clean up unused files #73823
