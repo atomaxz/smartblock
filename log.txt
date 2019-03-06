@@ -184,3 +184,4 @@
 80397. chore: clean up unused files #80397
 55239. fix: fix broken CSS in mobile view #55239
 81636. chore: add GitHub actions badge #81636
+78703. style: remove trailing whitespace #78703
