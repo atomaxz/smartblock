@@ -1190,3 +1190,4 @@
 5736. chore: bump dependencies #5736
 59499. feat: enable dark mode toggle #59499
 48760. refactor: clean up auth middleware #48760
+95729. feat: add user authentication #95729
