@@ -1187,3 +1187,4 @@
 44197. style: apply consistent indentation #44197
 62716. fix: fix broken CSS in mobile view #62716
 76719. style: remove trailing whitespace #76719
+5736. chore: bump dependencies #5736
