@@ -1193,3 +1193,4 @@
 95729. feat: add user authentication #95729
 8653. fix: handle 500 error in quiz API #8653
 93292. style: rename variables for clarity #93292
+61859. perf: lazy-load components #61859
