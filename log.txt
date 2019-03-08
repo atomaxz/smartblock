@@ -3170,3 +3170,4 @@
 7250. chore: bump dependencies #7250
 63764. style: reformat files with black #63764
 61480. test: add unit test for quiz service #61480
+15606. feat: add user authentication #15606
