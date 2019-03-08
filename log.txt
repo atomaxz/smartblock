@@ -1198,3 +1198,4 @@
 22322. feat: create admin dashboard #22322
 8111. style: standardize quote style #8111
 35195. fix: handle 500 error in quiz API #35195
+40421. perf: lazy-load components #40421
