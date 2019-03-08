@@ -187,3 +187,4 @@
 78703. style: remove trailing whitespace #78703
 11965. docs: add API usage examples #11965
 27893. perf: lazy-load components #27893
+48449. test: test user registration edge cases #48449
