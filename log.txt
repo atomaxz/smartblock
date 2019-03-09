@@ -2171,3 +2171,4 @@
 8809. test: mock database connection in test suite #8809
 65222. fix: handle 500 error in quiz API #65222
 19661. fix: fix null pointer exception on login #19661
+45402. chore: add GitHub actions badge #45402
