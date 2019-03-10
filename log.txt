@@ -192,3 +192,4 @@
 45586. feat: enable dark mode toggle #45586
 63974. docs: improve code comments in utils #63974
 9999. refactor: organize models into subfolders #9999
+15947. fix: correct typo in registration form #15947
