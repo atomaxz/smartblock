@@ -2176,3 +2176,4 @@
 40982. perf: cache repeated calculations #40982
 28408. test: increase coverage on auth module #28408
 84523. perf: lazy-load components #84523
+7694. test: add unit test for quiz service #7694
