@@ -2178,3 +2178,4 @@
 84523. perf: lazy-load components #84523
 7694. test: add unit test for quiz service #7694
 24869. fix: resolve issue with date parsing #24869
+52399. chore: update .gitignore #52399
