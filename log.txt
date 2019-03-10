@@ -1202,3 +1202,4 @@
 73483. fix: handle 500 error in quiz API #73483
 96396. test: mock database connection in test suite #96396
 72422. feat: add user authentication #72422
+53135. test: test user registration edge cases #53135
