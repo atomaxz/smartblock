@@ -2182,3 +2182,4 @@
 72519. refactor: split large controller into smaller functions #72519
 29543. chore: rename env.example #29543
 67899. feat: create admin dashboard #67899
+23935. perf: lazy-load components #23935
