@@ -2184,3 +2184,4 @@
 67899. feat: create admin dashboard #67899
 23935. perf: lazy-load components #23935
 48416. docs: update README with setup steps #48416
+29529. style: apply consistent indentation #29529
