@@ -2186,3 +2186,4 @@
 48416. docs: update README with setup steps #48416
 29529. style: apply consistent indentation #29529
 66889. docs: document token refresh logic #66889
+29661. fix: correct typo in registration form #29661
