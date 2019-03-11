@@ -1206,3 +1206,4 @@
 78609. refactor: remove redundant code blocks #78609
 97644. refactor: organize models into subfolders #97644
 88504. perf: cache repeated calculations #88504
+94850. refactor: clean up auth middleware #94850
