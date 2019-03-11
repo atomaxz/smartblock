@@ -3181,3 +3181,4 @@
 32949. style: rename variables for clarity #32949
 95190. chore: add GitHub actions badge #95190
 47824. docs: document token refresh logic #47824
+42567. test: increase coverage on auth module #42567
