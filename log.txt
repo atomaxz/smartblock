@@ -196,3 +196,4 @@
 24933. perf: lazy-load components #24933
 46141. docs: add API usage examples #46141
 97112. style: standardize quote style #97112
+59304. docs: update README with setup steps #59304
