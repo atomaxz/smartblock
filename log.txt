@@ -2185,3 +2185,4 @@
 23935. perf: lazy-load components #23935
 48416. docs: update README with setup steps #48416
 29529. style: apply consistent indentation #29529
+66889. docs: document token refresh logic #66889
