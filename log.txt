@@ -198,3 +198,4 @@
 97112. style: standardize quote style #97112
 59304. docs: update README with setup steps #59304
 33503. style: rename variables for clarity #33503
+21657. perf: reduce image load time #21657
