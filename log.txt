@@ -201,3 +201,4 @@
 21657. perf: reduce image load time #21657
 6445. docs: write FAQ section #6445
 7739. feat: create admin dashboard #7739
+20529. feat: add user authentication #20529
