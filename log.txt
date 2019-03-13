@@ -2190,3 +2190,4 @@
 8912. test: add unit test for quiz service #8912
 12120. test: add unit test for quiz service #12120
 27612. feat: add export to CSV option #27612
+99329. fix: correct typo in registration form #99329
