@@ -200,3 +200,4 @@
 33503. style: rename variables for clarity #33503
 21657. perf: reduce image load time #21657
 6445. docs: write FAQ section #6445
+7739. feat: create admin dashboard #7739
