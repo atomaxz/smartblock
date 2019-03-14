@@ -3188,3 +3188,4 @@
 12142. feat: add export to CSV option #12142
 77207. test: add unit test for quiz service #77207
 30529. test: increase coverage on auth module #30529
+3160. test: test user registration edge cases #3160
