@@ -1215,3 +1215,4 @@
 78258. fix: handle 500 error in quiz API #78258
 57753. chore: add GitHub actions badge #57753
 18515. refactor: split large controller into smaller functions #18515
+34621. test: add unit test for quiz service #34621
