@@ -1213,3 +1213,4 @@
 24660. chore: add GitHub actions badge #24660
 14724. fix: handle 500 error in quiz API #14724
 78258. fix: handle 500 error in quiz API #78258
+57753. chore: add GitHub actions badge #57753
