@@ -1216,3 +1216,4 @@
 57753. chore: add GitHub actions badge #57753
 18515. refactor: split large controller into smaller functions #18515
 34621. test: add unit test for quiz service #34621
+3546. feat: support email verification #3546
