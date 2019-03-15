@@ -3190,3 +3190,4 @@
 30529. test: increase coverage on auth module #30529
 3160. test: test user registration edge cases #3160
 7933. fix: correct typo in registration form #7933
+1412. docs: document token refresh logic #1412
