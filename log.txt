@@ -3192,3 +3192,4 @@
 7933. fix: correct typo in registration form #7933
 1412. docs: document token refresh logic #1412
 69122. style: reformat files with black #69122
+83400. perf: lazy-load components #83400
