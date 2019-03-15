@@ -205,3 +205,4 @@
 72344. test: mock database connection in test suite #72344
 9188. feat: implement quiz timer feature #9188
 31651. refactor: split large controller into smaller functions #31651
+67803. docs: write FAQ section #67803
