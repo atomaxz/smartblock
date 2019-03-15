@@ -3193,3 +3193,4 @@
 1412. docs: document token refresh logic #1412
 69122. style: reformat files with black #69122
 83400. perf: lazy-load components #83400
+99464. refactor: clean up auth middleware #99464
