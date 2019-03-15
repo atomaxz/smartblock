@@ -3191,3 +3191,4 @@
 3160. test: test user registration edge cases #3160
 7933. fix: correct typo in registration form #7933
 1412. docs: document token refresh logic #1412
+69122. style: reformat files with black #69122
