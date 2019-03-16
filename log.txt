@@ -2200,3 +2200,4 @@
 97209. refactor: split large controller into smaller functions #97209
 12835. chore: rename env.example #12835
 12427. chore: add GitHub actions badge #12427
+33883. style: remove trailing whitespace #33883
