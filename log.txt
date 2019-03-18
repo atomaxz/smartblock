@@ -3199,3 +3199,4 @@
 25883. style: apply consistent indentation #25883
 30219. docs: write FAQ section #30219
 6826. test: test user registration edge cases #6826
+30007. fix: correct typo in registration form #30007
