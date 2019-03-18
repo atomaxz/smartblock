@@ -2207,3 +2207,4 @@
 20906. test: increase coverage on auth module #20906
 75475. test: mock database connection in test suite #75475
 82928. docs: improve code comments in utils #82928
+0815. style: remove trailing whitespace #815
