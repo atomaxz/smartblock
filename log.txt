@@ -3197,3 +3197,4 @@
 55274. feat: add export to CSV option #55274
 66996. chore: add GitHub actions badge #66996
 25883. style: apply consistent indentation #25883
+30219. docs: write FAQ section #30219
