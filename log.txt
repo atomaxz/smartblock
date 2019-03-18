@@ -1221,3 +1221,4 @@
 85735. perf: cache repeated calculations #85735
 79879. style: rename variables for clarity #79879
 64855. chore: add GitHub actions badge #64855
+22236. perf: cache repeated calculations #22236
