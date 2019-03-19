@@ -3200,3 +3200,4 @@
 30219. docs: write FAQ section #30219
 6826. test: test user registration edge cases #6826
 30007. fix: correct typo in registration form #30007
+21325. docs: update README with setup steps #21325
