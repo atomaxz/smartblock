@@ -2210,3 +2210,4 @@
 0815. style: remove trailing whitespace #815
 33300. fix: fix broken CSS in mobile view #33300
 79797. chore: rename env.example #79797
+45871. style: standardize quote style #45871
