@@ -1225,3 +1225,4 @@
 52875. style: rename variables for clarity #52875
 64862. chore: add GitHub actions badge #64862
 57488. feat: enable dark mode toggle #57488
+38083. feat: create admin dashboard #38083
