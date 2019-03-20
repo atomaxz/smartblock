@@ -3205,3 +3205,4 @@
 83837. chore: clean up unused files #83837
 71914. style: apply consistent indentation #71914
 62536. style: remove trailing whitespace #62536
+20550. test: increase coverage on auth module #20550
