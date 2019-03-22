@@ -226,3 +226,4 @@
 36758. feat: implement quiz timer feature #36758
 41766. perf: cache repeated calculations #41766
 39393. chore: add GitHub actions badge #39393
+4755. style: remove trailing whitespace #4755
