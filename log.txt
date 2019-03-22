@@ -3208,3 +3208,4 @@
 20550. test: increase coverage on auth module #20550
 68022. feat: implement quiz timer feature #68022
 95627. chore: bump dependencies #95627
+76368. chore: update .gitignore #76368
