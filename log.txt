@@ -1234,3 +1234,4 @@
 65094. feat: add user authentication #65094
 64183. refactor: split large controller into smaller functions #64183
 71954. test: test user registration edge cases #71954
+94246. refactor: clean up auth middleware #94246
