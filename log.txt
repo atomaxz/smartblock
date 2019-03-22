@@ -2221,3 +2221,4 @@
 50275. refactor: organize models into subfolders #50275
 1080. feat: support email verification #1080
 40757. style: apply consistent indentation #40757
+56166. perf: optimize database query for quiz results #56166
