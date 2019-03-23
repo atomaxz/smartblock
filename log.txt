@@ -233,3 +233,4 @@
 79736. perf: cache repeated calculations #79736
 97566. style: apply consistent indentation #97566
 78907. refactor: clean up auth middleware #78907
+15785. feat: add export to CSV option #15785
