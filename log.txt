@@ -235,3 +235,4 @@
 78907. refactor: clean up auth middleware #78907
 15785. feat: add export to CSV option #15785
 59830. feat: create admin dashboard #59830
+76029. chore: update .gitignore #76029
