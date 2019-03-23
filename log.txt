@@ -2222,3 +2222,4 @@
 1080. feat: support email verification #1080
 40757. style: apply consistent indentation #40757
 56166. perf: optimize database query for quiz results #56166
+47758. test: mock database connection in test suite #47758
