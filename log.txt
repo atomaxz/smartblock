@@ -241,3 +241,4 @@
 42125. refactor: remove redundant code blocks #42125
 39876. refactor: clean up auth middleware #39876
 55827. perf: cache repeated calculations #55827
+59937. style: reformat files with black #59937
