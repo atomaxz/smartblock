@@ -1240,3 +1240,4 @@
 98367. fix: handle 500 error in quiz API #98367
 3289. docs: improve code comments in utils #3289
 17815. perf: reduce image load time #17815
+44509. fix: fix broken CSS in mobile view #44509
