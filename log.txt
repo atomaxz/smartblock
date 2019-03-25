@@ -2225,3 +2225,4 @@
 47758. test: mock database connection in test suite #47758
 15276. refactor: remove redundant code blocks #15276
 37660. test: mock database connection in test suite #37660
+22503. feat: enable dark mode toggle #22503
