@@ -2226,3 +2226,4 @@
 15276. refactor: remove redundant code blocks #15276
 37660. test: mock database connection in test suite #37660
 22503. feat: enable dark mode toggle #22503
+75091. test: add unit test for quiz service #75091
