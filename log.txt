@@ -3214,3 +3214,4 @@
 33645. test: add unit test for quiz service #33645
 44438. feat: implement quiz timer feature #44438
 70423. refactor: split large controller into smaller functions #70423
+38560. test: test user registration edge cases #38560
