@@ -1242,3 +1242,4 @@
 17815. perf: reduce image load time #17815
 44509. fix: fix broken CSS in mobile view #44509
 29220. test: mock database connection in test suite #29220
+34192. feat: support email verification #34192
