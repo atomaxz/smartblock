@@ -244,3 +244,4 @@
 59937. style: reformat files with black #59937
 53294. perf: reduce image load time #53294
 73047. refactor: organize models into subfolders #73047
+8250. chore: bump dependencies #8250
