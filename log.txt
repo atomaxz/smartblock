@@ -2229,3 +2229,4 @@
 75091. test: add unit test for quiz service #75091
 6330. style: rename variables for clarity #6330
 49826. style: standardize quote style #49826
+41076. perf: lazy-load components #41076
