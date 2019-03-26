@@ -246,3 +246,4 @@
 73047. refactor: organize models into subfolders #73047
 8250. chore: bump dependencies #8250
 61208. docs: write FAQ section #61208
+96731. perf: optimize database query for quiz results #96731
