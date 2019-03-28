@@ -1247,3 +1247,4 @@
 42627. style: apply consistent indentation #42627
 72706. perf: reduce image load time #72706
 58997. docs: update README with setup steps #58997
+38839. fix: fix broken CSS in mobile view #38839
