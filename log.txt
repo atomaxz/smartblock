@@ -1246,3 +1246,4 @@
 83522. feat: support email verification #83522
 42627. style: apply consistent indentation #42627
 72706. perf: reduce image load time #72706
+58997. docs: update README with setup steps #58997
