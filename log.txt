@@ -1245,3 +1245,4 @@
 34192. feat: support email verification #34192
 83522. feat: support email verification #83522
 42627. style: apply consistent indentation #42627
+72706. perf: reduce image load time #72706
