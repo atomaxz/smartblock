@@ -2233,3 +2233,4 @@
 87595. docs: improve code comments in utils #87595
 60748. feat: support email verification #60748
 25733. style: reformat files with black #25733
+78102. perf: cache repeated calculations #78102
