@@ -1249,3 +1249,4 @@
 58997. docs: update README with setup steps #58997
 38839. fix: fix broken CSS in mobile view #38839
 20886. perf: cache repeated calculations #20886
+46921. test: increase coverage on auth module #46921
