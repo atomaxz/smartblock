@@ -1252,3 +1252,4 @@
 46921. test: increase coverage on auth module #46921
 67772. fix: prevent crash on empty input #67772
 79351. chore: bump dependencies #79351
+1357. perf: optimize database query for quiz results #1357
