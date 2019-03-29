@@ -2235,3 +2235,4 @@
 25733. style: reformat files with black #25733
 78102. perf: cache repeated calculations #78102
 99507. fix: handle 500 error in quiz API #99507
+19226. test: add unit test for quiz service #19226
