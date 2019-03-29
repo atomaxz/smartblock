@@ -1251,3 +1251,4 @@
 20886. perf: cache repeated calculations #20886
 46921. test: increase coverage on auth module #46921
 67772. fix: prevent crash on empty input #67772
+79351. chore: bump dependencies #79351
