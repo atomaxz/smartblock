@@ -251,3 +251,4 @@
 50082. fix: fix broken CSS in mobile view #50082
 7159. fix: handle 500 error in quiz API #7159
 77794. chore: add GitHub actions badge #77794
+58789. chore: clean up unused files #58789
