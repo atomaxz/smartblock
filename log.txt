@@ -256,3 +256,4 @@
 16984. fix: fix broken CSS in mobile view #16984
 75593. chore: clean up unused files #75593
 74999. chore: add GitHub actions badge #74999
+19981. refactor: clean up auth middleware #19981
