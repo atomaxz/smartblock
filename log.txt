@@ -1257,3 +1257,4 @@
 79321. feat: implement quiz timer feature #79321
 36254. refactor: organize models into subfolders #36254
 96988. fix: correct typo in registration form #96988
+24957. refactor: clean up auth middleware #24957
