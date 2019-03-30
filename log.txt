@@ -257,3 +257,4 @@
 75593. chore: clean up unused files #75593
 74999. chore: add GitHub actions badge #74999
 19981. refactor: clean up auth middleware #19981
+40935. fix: resolve issue with date parsing #40935
