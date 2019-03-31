@@ -1259,3 +1259,4 @@
 96988. fix: correct typo in registration form #96988
 24957. refactor: clean up auth middleware #24957
 15697. perf: lazy-load components #15697
+49368. chore: add GitHub actions badge #49368
