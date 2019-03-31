@@ -262,3 +262,4 @@
 97272. perf: cache repeated calculations #97272
 87797. style: standardize quote style #87797
 62415. chore: add GitHub actions badge #62415
+92305. test: increase coverage on auth module #92305
