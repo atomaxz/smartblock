@@ -261,3 +261,4 @@
 45477. perf: reduce image load time #45477
 97272. perf: cache repeated calculations #97272
 87797. style: standardize quote style #87797
+62415. chore: add GitHub actions badge #62415
