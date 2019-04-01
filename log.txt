@@ -1261,3 +1261,4 @@
 15697. perf: lazy-load components #15697
 49368. chore: add GitHub actions badge #49368
 69037. refactor: clean up auth middleware #69037
+9810. perf: reduce image load time #9810
