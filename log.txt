@@ -1264,3 +1264,4 @@
 9810. perf: reduce image load time #9810
 89650. docs: document token refresh logic #89650
 74390. test: increase coverage on auth module #74390
+43563. docs: update README with setup steps #43563
