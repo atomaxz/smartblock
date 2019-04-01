@@ -265,3 +265,4 @@
 92305. test: increase coverage on auth module #92305
 32194. docs: improve code comments in utils #32194
 70957. fix: correct typo in registration form #70957
+88050. docs: clarify environment setup #88050
