@@ -268,3 +268,4 @@
 88050. docs: clarify environment setup #88050
 44109. docs: improve code comments in utils #44109
 76252. fix: resolve issue with date parsing #76252
+25873. feat: support email verification #25873
