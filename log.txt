@@ -2249,3 +2249,4 @@
 91951. fix: resolve issue with date parsing #91951
 83174. test: mock database connection in test suite #83174
 81908. refactor: refactor quiz grading logic #81908
+20825. feat: add user authentication #20825
