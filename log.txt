@@ -2247,3 +2247,4 @@
 70766. docs: add API usage examples #70766
 38854. chore: rename env.example #38854
 91951. fix: resolve issue with date parsing #91951
+83174. test: mock database connection in test suite #83174
