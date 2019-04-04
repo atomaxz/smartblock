@@ -2253,3 +2253,4 @@
 71579. style: rename variables for clarity #71579
 11695. chore: rename env.example #11695
 46110. style: apply consistent indentation #46110
+40831. perf: optimize database query for quiz results #40831
