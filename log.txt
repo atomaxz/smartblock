@@ -1273,3 +1273,4 @@
 33781. feat: create admin dashboard #33781
 90285. feat: enable dark mode toggle #90285
 29892. refactor: remove redundant code blocks #29892
+98343. perf: optimize database query for quiz results #98343
