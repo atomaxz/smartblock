@@ -275,3 +275,4 @@
 69514. perf: cache repeated calculations #69514
 54606. style: reformat files with black #54606
 40933. perf: optimize database query for quiz results #40933
+12090. chore: bump dependencies #12090
