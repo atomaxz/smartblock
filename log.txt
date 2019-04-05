@@ -2255,3 +2255,4 @@
 46110. style: apply consistent indentation #46110
 40831. perf: optimize database query for quiz results #40831
 70754. refactor: split large controller into smaller functions #70754
+37584. fix: fix null pointer exception on login #37584
