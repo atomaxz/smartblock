@@ -2257,3 +2257,4 @@
 70754. refactor: split large controller into smaller functions #70754
 37584. fix: fix null pointer exception on login #37584
 31653. docs: clarify environment setup #31653
+50185. fix: handle 500 error in quiz API #50185
