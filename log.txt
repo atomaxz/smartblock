@@ -3239,3 +3239,4 @@
 61344. docs: write FAQ section #61344
 41464. style: reformat files with black #41464
 4281. fix: fix broken CSS in mobile view #4281
+9900. test: add integration test for /submit endpoint #9900
