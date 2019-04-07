@@ -2260,3 +2260,4 @@
 50185. fix: handle 500 error in quiz API #50185
 52858. fix: fix null pointer exception on login #52858
 52386. chore: rename env.example #52386
+46023. fix: prevent crash on empty input #46023
