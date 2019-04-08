@@ -3241,3 +3241,4 @@
 4281. fix: fix broken CSS in mobile view #4281
 9900. test: add integration test for /submit endpoint #9900
 78638. test: mock database connection in test suite #78638
+45540. fix: fix broken CSS in mobile view #45540
