@@ -3240,3 +3240,4 @@
 41464. style: reformat files with black #41464
 4281. fix: fix broken CSS in mobile view #4281
 9900. test: add integration test for /submit endpoint #9900
+78638. test: mock database connection in test suite #78638
