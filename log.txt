@@ -1285,3 +1285,4 @@
 66863. style: standardize quote style #66863
 27535. test: increase coverage on auth module #27535
 88614. refactor: clean up auth middleware #88614
+35840. test: test user registration edge cases #35840
