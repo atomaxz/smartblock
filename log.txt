@@ -3243,3 +3243,4 @@
 78638. test: mock database connection in test suite #78638
 45540. fix: fix broken CSS in mobile view #45540
 18079. chore: bump dependencies #18079
+1018. fix: correct typo in registration form #1018
