@@ -282,3 +282,4 @@
 87106. refactor: organize models into subfolders #87106
 94082. refactor: refactor quiz grading logic #94082
 29424. docs: update README with setup steps #29424
+66434. perf: reduce image load time #66434
