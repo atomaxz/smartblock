@@ -2266,3 +2266,4 @@
 64098. chore: clean up unused files #64098
 77329. feat: add export to CSV option #77329
 86658. chore: add GitHub actions badge #86658
+92629. fix: fix broken CSS in mobile view #92629
