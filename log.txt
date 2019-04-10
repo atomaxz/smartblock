@@ -3247,3 +3247,4 @@
 29166. feat: add user authentication #29166
 62942. perf: lazy-load components #62942
 47032. style: rename variables for clarity #47032
+99172. docs: clarify environment setup #99172
