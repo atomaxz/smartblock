@@ -3250,3 +3250,4 @@
 99172. docs: clarify environment setup #99172
 16537. refactor: split large controller into smaller functions #16537
 0500. feat: support email verification #500
+19744. perf: lazy-load components #19744
