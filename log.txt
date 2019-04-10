@@ -1286,3 +1286,4 @@
 27535. test: increase coverage on auth module #27535
 88614. refactor: clean up auth middleware #88614
 35840. test: test user registration edge cases #35840
+73727. feat: create admin dashboard #73727
