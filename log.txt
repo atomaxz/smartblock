@@ -2268,3 +2268,4 @@
 86658. chore: add GitHub actions badge #86658
 92629. fix: fix broken CSS in mobile view #92629
 14054. docs: clarify environment setup #14054
+30925. test: mock database connection in test suite #30925
