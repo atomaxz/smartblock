@@ -287,3 +287,4 @@
 91126. feat: support email verification #91126
 82929. feat: add export to CSV option #82929
 21086. style: apply consistent indentation #21086
+40852. test: mock database connection in test suite #40852
