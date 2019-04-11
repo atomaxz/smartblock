@@ -3253,3 +3253,4 @@
 19744. perf: lazy-load components #19744
 16605. style: apply consistent indentation #16605
 64404. feat: create admin dashboard #64404
+39476. chore: add GitHub actions badge #39476
