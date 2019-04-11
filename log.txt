@@ -3254,3 +3254,4 @@
 16605. style: apply consistent indentation #16605
 64404. feat: create admin dashboard #64404
 39476. chore: add GitHub actions badge #39476
+44909. perf: optimize database query for quiz results #44909
