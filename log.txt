@@ -1287,3 +1287,4 @@
 88614. refactor: clean up auth middleware #88614
 35840. test: test user registration edge cases #35840
 73727. feat: create admin dashboard #73727
+10017. fix: fix null pointer exception on login #10017
