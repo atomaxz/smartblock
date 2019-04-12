@@ -1289,3 +1289,4 @@
 73727. feat: create admin dashboard #73727
 10017. fix: fix null pointer exception on login #10017
 74726. perf: reduce image load time #74726
+65867. chore: update .gitignore #65867
