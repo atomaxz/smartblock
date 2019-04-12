@@ -3257,3 +3257,4 @@
 44909. perf: optimize database query for quiz results #44909
 6794. docs: write FAQ section #6794
 73587. docs: clarify environment setup #73587
+60826. fix: prevent crash on empty input #60826
