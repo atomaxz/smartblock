@@ -3256,3 +3256,4 @@
 39476. chore: add GitHub actions badge #39476
 44909. perf: optimize database query for quiz results #44909
 6794. docs: write FAQ section #6794
+73587. docs: clarify environment setup #73587
