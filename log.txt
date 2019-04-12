@@ -2272,3 +2272,4 @@
 76722. perf: reduce image load time #76722
 60246. feat: support email verification #60246
 45972. docs: write FAQ section #45972
+25012. perf: lazy-load components #25012
