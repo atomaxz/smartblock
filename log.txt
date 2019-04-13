@@ -1291,3 +1291,4 @@
 74726. perf: reduce image load time #74726
 65867. chore: update .gitignore #65867
 36052. chore: rename env.example #36052
+91394. fix: correct typo in registration form #91394
