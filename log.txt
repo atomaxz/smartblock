@@ -1293,3 +1293,4 @@
 36052. chore: rename env.example #36052
 91394. fix: correct typo in registration form #91394
 99870. style: rename variables for clarity #99870
+42349. feat: enable dark mode toggle #42349
