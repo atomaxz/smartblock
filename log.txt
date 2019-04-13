@@ -1292,3 +1292,4 @@
 65867. chore: update .gitignore #65867
 36052. chore: rename env.example #36052
 91394. fix: correct typo in registration form #91394
+99870. style: rename variables for clarity #99870
