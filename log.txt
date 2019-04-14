@@ -2279,3 +2279,4 @@
 32389. test: mock database connection in test suite #32389
 14150. refactor: remove redundant code blocks #14150
 42561. feat: add export to CSV option #42561
+22257. chore: add GitHub actions badge #22257
