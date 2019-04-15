@@ -3267,3 +3267,4 @@
 66343. perf: reduce image load time #66343
 97636. feat: create admin dashboard #97636
 72951. perf: lazy-load components #72951
+84593. fix: correct typo in registration form #84593
