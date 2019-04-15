@@ -294,3 +294,4 @@
 53635. refactor: refactor quiz grading logic #53635
 78917. style: rename variables for clarity #78917
 41877. refactor: organize models into subfolders #41877
+5612. fix: fix broken CSS in mobile view #5612
