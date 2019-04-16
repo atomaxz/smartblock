@@ -3272,3 +3272,4 @@
 96630. perf: cache repeated calculations #96630
 41363. perf: lazy-load components #41363
 75551. style: standardize quote style #75551
+98451. feat: support email verification #98451
