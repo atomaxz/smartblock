@@ -299,3 +299,4 @@
 2407. chore: clean up unused files #2407
 4335. perf: lazy-load components #4335
 29797. feat: create admin dashboard #29797
+2974. fix: prevent crash on empty input #2974
