@@ -2289,3 +2289,4 @@
 49872. style: reformat files with black #49872
 69455. fix: fix null pointer exception on login #69455
 91879. test: mock database connection in test suite #91879
+28118. docs: update README with setup steps #28118
