@@ -3273,3 +3273,4 @@
 41363. perf: lazy-load components #41363
 75551. style: standardize quote style #75551
 98451. feat: support email verification #98451
+38390. chore: bump dependencies #38390
