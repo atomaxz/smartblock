@@ -1309,3 +1309,4 @@
 88483. chore: add GitHub actions badge #88483
 78318. feat: add user authentication #78318
 12517. perf: reduce image load time #12517
+92770. refactor: clean up auth middleware #92770
