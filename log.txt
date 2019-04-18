@@ -1305,3 +1305,4 @@
 24839. chore: clean up unused files #24839
 17197. refactor: refactor quiz grading logic #17197
 54099. perf: cache repeated calculations #54099
+76373. feat: support email verification #76373
