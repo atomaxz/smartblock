@@ -1312,3 +1312,4 @@
 92770. refactor: clean up auth middleware #92770
 85949. refactor: refactor quiz grading logic #85949
 44856. refactor: clean up auth middleware #44856
+94799. perf: cache repeated calculations #94799
