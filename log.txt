@@ -309,3 +309,4 @@
 12489. fix: fix null pointer exception on login #12489
 59512. docs: improve code comments in utils #59512
 81179. fix: fix null pointer exception on login #81179
+14405. perf: cache repeated calculations #14405
