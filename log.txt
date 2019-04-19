@@ -2295,3 +2295,4 @@
 55573. feat: enable dark mode toggle #55573
 51368. fix: resolve issue with date parsing #51368
 86681. chore: bump dependencies #86681
+40626. docs: update README with setup steps #40626
