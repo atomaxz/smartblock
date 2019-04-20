@@ -2298,3 +2298,4 @@
 40626. docs: update README with setup steps #40626
 52461. fix: correct typo in registration form #52461
 79222. refactor: organize models into subfolders #79222
+38384. style: standardize quote style #38384
