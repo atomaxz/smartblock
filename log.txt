@@ -3281,3 +3281,4 @@
 54055. perf: optimize database query for quiz results #54055
 72937. chore: bump dependencies #72937
 1939. style: apply consistent indentation #1939
+24371. fix: correct typo in registration form #24371
