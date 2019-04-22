@@ -3284,3 +3284,4 @@
 24371. fix: correct typo in registration form #24371
 9094. perf: cache repeated calculations #9094
 1900. style: remove trailing whitespace #1900
+78598. docs: clarify environment setup #78598
