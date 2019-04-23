@@ -2305,3 +2305,4 @@
 95148. test: add integration test for /submit endpoint #95148
 39965. style: remove trailing whitespace #39965
 33019. fix: resolve issue with date parsing #33019
+46213. perf: optimize database query for quiz results #46213
