@@ -315,3 +315,4 @@
 76162. style: reformat files with black #76162
 50198. refactor: remove redundant code blocks #50198
 91309. docs: write FAQ section #91309
+47518. style: remove trailing whitespace #47518
