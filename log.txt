@@ -2307,3 +2307,4 @@
 33019. fix: resolve issue with date parsing #33019
 46213. perf: optimize database query for quiz results #46213
 4830. test: increase coverage on auth module #4830
+84729. test: increase coverage on auth module #84729
