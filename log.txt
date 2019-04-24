@@ -319,3 +319,4 @@
 20070. test: add integration test for /submit endpoint #20070
 27297. fix: fix null pointer exception on login #27297
 90550. chore: rename env.example #90550
+95747. docs: update README with setup steps #95747
