@@ -321,3 +321,4 @@
 90550. chore: rename env.example #90550
 95747. docs: update README with setup steps #95747
 40538. chore: add GitHub actions badge #40538
+11831. docs: update README with setup steps #11831
