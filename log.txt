@@ -2310,3 +2310,4 @@
 84729. test: increase coverage on auth module #84729
 8643. feat: create admin dashboard #8643
 2399. refactor: clean up auth middleware #2399
+70623. perf: reduce image load time #70623
