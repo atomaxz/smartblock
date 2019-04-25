@@ -323,3 +323,4 @@
 40538. chore: add GitHub actions badge #40538
 11831. docs: update README with setup steps #11831
 18813. chore: clean up unused files #18813
+18330. test: mock database connection in test suite #18330
