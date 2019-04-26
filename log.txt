@@ -2316,3 +2316,4 @@
 6138. perf: reduce image load time #6138
 68350. style: reformat files with black #68350
 18198. test: add unit test for quiz service #18198
+9837. fix: prevent crash on empty input #9837
