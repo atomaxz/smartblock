@@ -3296,3 +3296,4 @@
 51054. fix: correct typo in registration form #51054
 78467. perf: lazy-load components #78467
 73505. fix: prevent crash on empty input #73505
+58724. perf: optimize database query for quiz results #58724
