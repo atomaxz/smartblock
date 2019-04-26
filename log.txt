@@ -3294,3 +3294,4 @@
 48565. refactor: split large controller into smaller functions #48565
 94332. docs: document token refresh logic #94332
 51054. fix: correct typo in registration form #51054
+78467. perf: lazy-load components #78467
