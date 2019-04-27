@@ -2319,3 +2319,4 @@
 9837. fix: prevent crash on empty input #9837
 72793. feat: implement quiz timer feature #72793
 19076. perf: reduce image load time #19076
+17603. chore: clean up unused files #17603
