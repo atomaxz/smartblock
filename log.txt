@@ -327,3 +327,4 @@
 56526. refactor: refactor quiz grading logic #56526
 68499. style: reformat files with black #68499
 38735. chore: rename env.example #38735
+59217. fix: prevent crash on empty input #59217
