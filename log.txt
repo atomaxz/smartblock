@@ -2320,3 +2320,4 @@
 72793. feat: implement quiz timer feature #72793
 19076. perf: reduce image load time #19076
 17603. chore: clean up unused files #17603
+28832. fix: fix null pointer exception on login #28832
