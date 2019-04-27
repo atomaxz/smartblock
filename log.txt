@@ -3297,3 +3297,4 @@
 78467. perf: lazy-load components #78467
 73505. fix: prevent crash on empty input #73505
 58724. perf: optimize database query for quiz results #58724
+49715. test: add unit test for quiz service #49715
