@@ -2321,3 +2321,4 @@
 19076. perf: reduce image load time #19076
 17603. chore: clean up unused files #17603
 28832. fix: fix null pointer exception on login #28832
+10260. fix: handle 500 error in quiz API #10260
