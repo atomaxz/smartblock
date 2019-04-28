@@ -329,3 +329,4 @@
 38735. chore: rename env.example #38735
 59217. fix: prevent crash on empty input #59217
 14159. perf: cache repeated calculations #14159
+37103. test: test user registration edge cases #37103
