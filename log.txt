@@ -2328,3 +2328,4 @@
 10579. style: apply consistent indentation #10579
 17990. fix: resolve issue with date parsing #17990
 19678. style: remove trailing whitespace #19678
+9976. chore: bump dependencies #9976
