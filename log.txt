@@ -3307,3 +3307,4 @@
 14106. test: add unit test for quiz service #14106
 60160. test: mock database connection in test suite #60160
 74322. refactor: remove redundant code blocks #74322
+65241. test: add integration test for /submit endpoint #65241
