@@ -2327,3 +2327,4 @@
 19225. docs: add API usage examples #19225
 10579. style: apply consistent indentation #10579
 17990. fix: resolve issue with date parsing #17990
+19678. style: remove trailing whitespace #19678
