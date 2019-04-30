@@ -332,3 +332,4 @@
 37103. test: test user registration edge cases #37103
 69723. perf: cache repeated calculations #69723
 95861. fix: fix broken CSS in mobile view #95861
+92323. feat: enable dark mode toggle #92323
