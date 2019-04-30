@@ -2332,3 +2332,4 @@
 70170. refactor: organize models into subfolders #70170
 41373. feat: create admin dashboard #41373
 26131. test: mock database connection in test suite #26131
+47742. test: increase coverage on auth module #47742
