@@ -335,3 +335,4 @@
 92323. feat: enable dark mode toggle #92323
 63403. style: reformat files with black #63403
 71484. perf: optimize database query for quiz results #71484
+54752. chore: bump dependencies #54752
