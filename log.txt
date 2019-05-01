@@ -2334,3 +2334,4 @@
 26131. test: mock database connection in test suite #26131
 47742. test: increase coverage on auth module #47742
 49952. chore: clean up unused files #49952
+10091. docs: write FAQ section #10091
