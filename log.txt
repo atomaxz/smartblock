@@ -1337,3 +1337,4 @@
 34845. refactor: remove redundant code blocks #34845
 3151. test: increase coverage on auth module #3151
 18130. feat: create admin dashboard #18130
+96425. test: add integration test for /submit endpoint #96425
