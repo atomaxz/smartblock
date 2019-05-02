@@ -3314,3 +3314,4 @@
 74873. style: standardize quote style #74873
 28323. refactor: split large controller into smaller functions #28323
 31037. docs: clarify environment setup #31037
+94985. fix: fix broken CSS in mobile view #94985
