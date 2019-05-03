@@ -1340,3 +1340,4 @@
 96425. test: add integration test for /submit endpoint #96425
 62566. chore: clean up unused files #62566
 35206. fix: correct typo in registration form #35206
+3842. test: increase coverage on auth module #3842
