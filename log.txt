@@ -340,3 +340,4 @@
 93519. style: reformat files with black #93519
 66394. perf: reduce image load time #66394
 99426. style: standardize quote style #99426
+79723. refactor: refactor quiz grading logic #79723
