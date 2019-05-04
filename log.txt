@@ -1343,3 +1343,4 @@
 3842. test: increase coverage on auth module #3842
 41480. style: rename variables for clarity #41480
 60335. docs: update README with setup steps #60335
+88351. feat: support email verification #88351
