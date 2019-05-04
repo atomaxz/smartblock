@@ -2340,3 +2340,4 @@
 7613. docs: document token refresh logic #7613
 52344. refactor: remove redundant code blocks #52344
 86180. style: rename variables for clarity #86180
+5217. perf: reduce image load time #5217
