@@ -1349,3 +1349,4 @@
 49012. refactor: refactor quiz grading logic #49012
 44051. style: apply consistent indentation #44051
 40330. feat: enable dark mode toggle #40330
+13074. test: increase coverage on auth module #13074
