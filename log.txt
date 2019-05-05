@@ -2344,3 +2344,4 @@
 78935. style: apply consistent indentation #78935
 0399. refactor: organize models into subfolders #399
 32987. refactor: remove redundant code blocks #32987
+2380. test: add unit test for quiz service #2380
