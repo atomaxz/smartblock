@@ -1351,3 +1351,4 @@
 40330. feat: enable dark mode toggle #40330
 13074. test: increase coverage on auth module #13074
 60886. feat: create admin dashboard #60886
+68877. refactor: refactor quiz grading logic #68877
