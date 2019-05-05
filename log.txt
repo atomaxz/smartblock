@@ -1348,3 +1348,4 @@
 74914. perf: lazy-load components #74914
 49012. refactor: refactor quiz grading logic #49012
 44051. style: apply consistent indentation #44051
+40330. feat: enable dark mode toggle #40330
