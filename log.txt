@@ -344,3 +344,4 @@
 96296. fix: correct typo in registration form #96296
 61570. docs: improve code comments in utils #61570
 31999. fix: prevent crash on empty input #31999
+31881. perf: optimize database query for quiz results #31881
