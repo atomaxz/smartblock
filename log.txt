@@ -3327,3 +3327,4 @@
 97747. fix: handle 500 error in quiz API #97747
 69919. refactor: remove redundant code blocks #69919
 67457. perf: optimize database query for quiz results #67457
+36240. style: reformat files with black #36240
