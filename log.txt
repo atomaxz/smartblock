@@ -1352,3 +1352,4 @@
 13074. test: increase coverage on auth module #13074
 60886. feat: create admin dashboard #60886
 68877. refactor: refactor quiz grading logic #68877
+63987. test: test user registration edge cases #63987
