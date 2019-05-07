@@ -2351,3 +2351,4 @@
 35474. docs: write FAQ section #35474
 98857. perf: reduce image load time #98857
 11942. feat: support email verification #11942
+20217. test: increase coverage on auth module #20217
