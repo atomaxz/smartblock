@@ -1354,3 +1354,4 @@
 68877. refactor: refactor quiz grading logic #68877
 63987. test: test user registration edge cases #63987
 5824. chore: bump dependencies #5824
+90831. test: add unit test for quiz service #90831
