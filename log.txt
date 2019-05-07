@@ -346,3 +346,4 @@
 31999. fix: prevent crash on empty input #31999
 31881. perf: optimize database query for quiz results #31881
 49185. fix: fix null pointer exception on login #49185
+33100. docs: clarify environment setup #33100
