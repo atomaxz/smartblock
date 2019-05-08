@@ -352,3 +352,4 @@
 91730. chore: add GitHub actions badge #91730
 12922. fix: correct typo in registration form #12922
 56949. feat: support email verification #56949
+28640. style: remove trailing whitespace #28640
