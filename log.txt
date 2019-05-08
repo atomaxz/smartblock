@@ -350,3 +350,4 @@
 27173. style: standardize quote style #27173
 22126. perf: reduce image load time #22126
 91730. chore: add GitHub actions badge #91730
+12922. fix: correct typo in registration form #12922
