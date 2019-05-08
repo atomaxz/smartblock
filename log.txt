@@ -354,3 +354,4 @@
 56949. feat: support email verification #56949
 28640. style: remove trailing whitespace #28640
 68520. docs: document token refresh logic #68520
+99320. chore: update .gitignore #99320
