@@ -1362,3 +1362,4 @@
 29914. test: test user registration edge cases #29914
 9749. fix: correct typo in registration form #9749
 40484. perf: reduce image load time #40484
+48592. feat: enable dark mode toggle #48592
