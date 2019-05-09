@@ -2354,3 +2354,4 @@
 20217. test: increase coverage on auth module #20217
 3118. test: test user registration edge cases #3118
 2909. fix: correct typo in registration form #2909
+71564. chore: bump dependencies #71564
