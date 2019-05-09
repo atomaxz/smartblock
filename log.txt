@@ -2353,3 +2353,4 @@
 11942. feat: support email verification #11942
 20217. test: increase coverage on auth module #20217
 3118. test: test user registration edge cases #3118
+2909. fix: correct typo in registration form #2909
