@@ -362,3 +362,4 @@
 42658. feat: create admin dashboard #42658
 12944. chore: bump dependencies #12944
 47757. test: test user registration edge cases #47757
+91334. chore: rename env.example #91334
