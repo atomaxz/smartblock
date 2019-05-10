@@ -1363,3 +1363,4 @@
 9749. fix: correct typo in registration form #9749
 40484. perf: reduce image load time #40484
 48592. feat: enable dark mode toggle #48592
+34245. fix: fix null pointer exception on login #34245
