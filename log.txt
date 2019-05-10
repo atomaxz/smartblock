@@ -1364,3 +1364,4 @@
 40484. perf: reduce image load time #40484
 48592. feat: enable dark mode toggle #48592
 34245. fix: fix null pointer exception on login #34245
+36722. chore: update .gitignore #36722
