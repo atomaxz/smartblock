@@ -364,3 +364,4 @@
 47757. test: test user registration edge cases #47757
 91334. chore: rename env.example #91334
 84159. feat: support email verification #84159
+33640. docs: add API usage examples #33640
