@@ -3340,3 +3340,4 @@
 20205. docs: write FAQ section #20205
 66075. fix: resolve issue with date parsing #66075
 1779. chore: update .gitignore #1779
+73017. fix: correct typo in registration form #73017
