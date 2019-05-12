@@ -3338,3 +3338,4 @@
 16406. feat: add export to CSV option #16406
 77793. feat: create admin dashboard #77793
 20205. docs: write FAQ section #20205
+66075. fix: resolve issue with date parsing #66075
