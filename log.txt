@@ -2364,3 +2364,4 @@
 67049. style: remove trailing whitespace #67049
 82620. chore: bump dependencies #82620
 34777. style: rename variables for clarity #34777
+42985. docs: clarify environment setup #42985
