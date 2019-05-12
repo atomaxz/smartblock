@@ -367,3 +367,4 @@
 33640. docs: add API usage examples #33640
 81468. test: increase coverage on auth module #81468
 60034. docs: write FAQ section #60034
+12044. perf: lazy-load components #12044
