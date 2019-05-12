@@ -1371,3 +1371,4 @@
 86747. docs: improve code comments in utils #86747
 61863. style: remove trailing whitespace #61863
 12628. chore: bump dependencies #12628
+95659. fix: fix null pointer exception on login #95659
