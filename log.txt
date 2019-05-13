@@ -371,3 +371,4 @@
 87425. test: mock database connection in test suite #87425
 92524. docs: improve code comments in utils #92524
 98028. test: test user registration edge cases #98028
+89343. chore: bump dependencies #89343
