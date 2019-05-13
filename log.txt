@@ -1372,3 +1372,4 @@
 61863. style: remove trailing whitespace #61863
 12628. chore: bump dependencies #12628
 95659. fix: fix null pointer exception on login #95659
+98177. perf: optimize database query for quiz results #98177
