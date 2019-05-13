@@ -3342,3 +3342,4 @@
 1779. chore: update .gitignore #1779
 73017. fix: correct typo in registration form #73017
 45492. feat: add user authentication #45492
+18230. docs: write FAQ section #18230
