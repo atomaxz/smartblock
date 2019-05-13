@@ -3344,3 +3344,4 @@
 45492. feat: add user authentication #45492
 18230. docs: write FAQ section #18230
 60084. feat: support email verification #60084
+10986. test: mock database connection in test suite #10986
