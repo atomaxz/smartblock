@@ -2370,3 +2370,4 @@
 73172. test: add integration test for /submit endpoint #73172
 79174. perf: cache repeated calculations #79174
 14500. style: remove trailing whitespace #14500
+5083. perf: lazy-load components #5083
