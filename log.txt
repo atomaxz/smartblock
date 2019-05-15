@@ -2373,3 +2373,4 @@
 5083. perf: lazy-load components #5083
 8947. feat: create admin dashboard #8947
 64895. chore: rename env.example #64895
+25255. perf: optimize database query for quiz results #25255
