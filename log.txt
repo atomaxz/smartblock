@@ -3351,3 +3351,4 @@
 34284. fix: correct typo in registration form #34284
 71162. refactor: remove redundant code blocks #71162
 59107. style: standardize quote style #59107
+70505. perf: reduce image load time #70505
