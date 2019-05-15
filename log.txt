@@ -1375,3 +1375,4 @@
 98177. perf: optimize database query for quiz results #98177
 72007. docs: add API usage examples #72007
 99483. refactor: remove redundant code blocks #99483
+82331. style: remove trailing whitespace #82331
