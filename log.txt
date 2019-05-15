@@ -374,3 +374,4 @@
 89343. chore: bump dependencies #89343
 62999. chore: rename env.example #62999
 82001. feat: add user authentication #82001
+11896. fix: fix broken CSS in mobile view #11896
