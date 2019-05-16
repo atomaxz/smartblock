@@ -3353,3 +3353,4 @@
 59107. style: standardize quote style #59107
 70505. perf: reduce image load time #70505
 22463. style: remove trailing whitespace #22463
+26002. docs: clarify environment setup #26002
