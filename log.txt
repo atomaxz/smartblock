@@ -3354,3 +3354,4 @@
 70505. perf: reduce image load time #70505
 22463. style: remove trailing whitespace #22463
 26002. docs: clarify environment setup #26002
+27788. chore: add GitHub actions badge #27788
