@@ -2386,3 +2386,4 @@
 88686. feat: add export to CSV option #88686
 29448. refactor: remove redundant code blocks #29448
 33965. perf: reduce image load time #33965
+75314. feat: add user authentication #75314
