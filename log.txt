@@ -1378,3 +1378,4 @@
 82331. style: remove trailing whitespace #82331
 74640. feat: add export to CSV option #74640
 78311. style: remove trailing whitespace #78311
+2949. test: mock database connection in test suite #2949
