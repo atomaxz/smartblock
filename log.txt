@@ -3357,3 +3357,4 @@
 27788. chore: add GitHub actions badge #27788
 81311. test: add unit test for quiz service #81311
 47609. docs: write FAQ section #47609
+28458. docs: update README with setup steps #28458
