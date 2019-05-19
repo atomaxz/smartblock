@@ -1386,3 +1386,4 @@
 54790. style: rename variables for clarity #54790
 82278. refactor: organize models into subfolders #82278
 25068. chore: bump dependencies #25068
+17570. test: test user registration edge cases #17570
