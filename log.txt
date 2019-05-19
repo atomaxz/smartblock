@@ -3361,3 +3361,4 @@
 65075. style: remove trailing whitespace #65075
 12077. docs: improve code comments in utils #12077
 48445. style: reformat files with black #48445
+46450. perf: cache repeated calculations #46450
