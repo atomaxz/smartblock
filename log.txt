@@ -2392,3 +2392,4 @@
 3273. refactor: remove redundant code blocks #3273
 8236. feat: add export to CSV option #8236
 52608. style: standardize quote style #52608
+39015. fix: fix null pointer exception on login #39015
