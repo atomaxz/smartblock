@@ -394,3 +394,4 @@
 65383. feat: enable dark mode toggle #65383
 93657. fix: fix broken CSS in mobile view #93657
 97324. feat: implement quiz timer feature #97324
+12119. style: reformat files with black #12119
