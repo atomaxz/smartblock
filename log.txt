@@ -2396,3 +2396,4 @@
 99193. fix: correct typo in registration form #99193
 21429. perf: optimize database query for quiz results #21429
 67076. feat: add user authentication #67076
+14497. perf: lazy-load components #14497
