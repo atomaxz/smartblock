@@ -395,3 +395,4 @@
 93657. fix: fix broken CSS in mobile view #93657
 97324. feat: implement quiz timer feature #97324
 12119. style: reformat files with black #12119
+8387. chore: rename env.example #8387
