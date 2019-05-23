@@ -1395,3 +1395,4 @@
 31425. refactor: organize models into subfolders #31425
 80238. test: add unit test for quiz service #80238
 78590. docs: document token refresh logic #78590
+65697. test: test user registration edge cases #65697
