@@ -3373,3 +3373,4 @@
 43051. feat: support email verification #43051
 91610. test: test user registration edge cases #91610
 3469. docs: clarify environment setup #3469
+73698. style: remove trailing whitespace #73698
