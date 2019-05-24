@@ -1398,3 +1398,4 @@
 65697. test: test user registration edge cases #65697
 72126. docs: write FAQ section #72126
 77998. perf: cache repeated calculations #77998
+36119. refactor: organize models into subfolders #36119
