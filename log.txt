@@ -398,3 +398,4 @@
 8387. chore: rename env.example #8387
 91509. docs: add API usage examples #91509
 44652. feat: support email verification #44652
+33740. chore: update .gitignore #33740
