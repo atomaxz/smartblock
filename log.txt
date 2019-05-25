@@ -1400,3 +1400,4 @@
 77998. perf: cache repeated calculations #77998
 36119. refactor: organize models into subfolders #36119
 83800. feat: support email verification #83800
+57938. refactor: clean up auth middleware #57938
