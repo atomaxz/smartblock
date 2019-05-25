@@ -399,3 +399,4 @@
 91509. docs: add API usage examples #91509
 44652. feat: support email verification #44652
 33740. chore: update .gitignore #33740
+4444. fix: handle 500 error in quiz API #4444
