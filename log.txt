@@ -3379,3 +3379,4 @@
 21512. perf: reduce image load time #21512
 20322. feat: support email verification #20322
 97316. feat: add export to CSV option #97316
+27601. fix: fix broken CSS in mobile view #27601
