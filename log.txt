@@ -402,3 +402,4 @@
 4444. fix: handle 500 error in quiz API #4444
 58638. feat: implement quiz timer feature #58638
 12258. style: apply consistent indentation #12258
+57659. perf: lazy-load components #57659
