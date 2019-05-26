@@ -2407,3 +2407,4 @@
 17708. perf: cache repeated calculations #17708
 26622. refactor: organize models into subfolders #26622
 44598. fix: handle 500 error in quiz API #44598
+72167. perf: optimize database query for quiz results #72167
