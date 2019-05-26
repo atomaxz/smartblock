@@ -2408,3 +2408,4 @@
 26622. refactor: organize models into subfolders #26622
 44598. fix: handle 500 error in quiz API #44598
 72167. perf: optimize database query for quiz results #72167
+76700. test: increase coverage on auth module #76700
