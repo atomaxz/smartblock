@@ -1401,3 +1401,4 @@
 36119. refactor: organize models into subfolders #36119
 83800. feat: support email verification #83800
 57938. refactor: clean up auth middleware #57938
+90819. style: standardize quote style #90819
