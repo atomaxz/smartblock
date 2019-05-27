@@ -2411,3 +2411,4 @@
 76700. test: increase coverage on auth module #76700
 14276. refactor: remove redundant code blocks #14276
 25734. feat: add user authentication #25734
+26151. test: add unit test for quiz service #26151
