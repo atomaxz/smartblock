@@ -404,3 +404,4 @@
 12258. style: apply consistent indentation #12258
 57659. perf: lazy-load components #57659
 59392. perf: lazy-load components #59392
+94387. docs: document token refresh logic #94387
