@@ -2416,3 +2416,4 @@
 16537. refactor: split large controller into smaller functions #16537
 77977. test: add unit test for quiz service #77977
 5897. perf: cache repeated calculations #5897
+45071. test: increase coverage on auth module #45071
