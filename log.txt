@@ -2421,3 +2421,4 @@
 43407. chore: update .gitignore #43407
 39727. fix: fix broken CSS in mobile view #39727
 52685. docs: improve code comments in utils #52685
+20715. test: test user registration edge cases #20715
