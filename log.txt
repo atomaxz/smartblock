@@ -3388,3 +3388,4 @@
 42090. perf: optimize database query for quiz results #42090
 72939. chore: clean up unused files #72939
 27960. docs: document token refresh logic #27960
+35982. test: increase coverage on auth module #35982
