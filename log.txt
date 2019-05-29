@@ -1409,3 +1409,4 @@
 38229. perf: optimize database query for quiz results #38229
 38633. refactor: refactor quiz grading logic #38633
 5782. chore: add GitHub actions badge #5782
+39291. test: increase coverage on auth module #39291
