@@ -413,3 +413,4 @@
 52030. style: reformat files with black #52030
 82588. feat: implement quiz timer feature #82588
 43716. perf: lazy-load components #43716
+81642. test: test user registration edge cases #81642
