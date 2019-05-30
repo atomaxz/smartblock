@@ -1412,3 +1412,4 @@
 39291. test: increase coverage on auth module #39291
 61035. docs: update README with setup steps #61035
 77139. chore: bump dependencies #77139
+12941. fix: handle 500 error in quiz API #12941
