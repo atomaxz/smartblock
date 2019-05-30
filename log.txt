@@ -415,3 +415,4 @@
 43716. perf: lazy-load components #43716
 81642. test: test user registration edge cases #81642
 53133. chore: clean up unused files #53133
+9751. chore: update .gitignore #9751
