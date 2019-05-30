@@ -3389,3 +3389,4 @@
 72939. chore: clean up unused files #72939
 27960. docs: document token refresh logic #27960
 35982. test: increase coverage on auth module #35982
+46637. test: mock database connection in test suite #46637
