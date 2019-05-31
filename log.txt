@@ -3391,3 +3391,4 @@
 35982. test: increase coverage on auth module #35982
 46637. test: mock database connection in test suite #46637
 17961. fix: fix broken CSS in mobile view #17961
+9578. perf: cache repeated calculations #9578
