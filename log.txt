@@ -1415,3 +1415,4 @@
 12941. fix: handle 500 error in quiz API #12941
 65168. refactor: remove redundant code blocks #65168
 40357. chore: clean up unused files #40357
+81796. test: add integration test for /submit endpoint #81796
