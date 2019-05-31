@@ -1417,3 +1417,4 @@
 40357. chore: clean up unused files #40357
 81796. test: add integration test for /submit endpoint #81796
 21904. perf: cache repeated calculations #21904
+8640. test: test user registration edge cases #8640
