@@ -3392,3 +3392,4 @@
 46637. test: mock database connection in test suite #46637
 17961. fix: fix broken CSS in mobile view #17961
 9578. perf: cache repeated calculations #9578
+61706. perf: optimize database query for quiz results #61706
