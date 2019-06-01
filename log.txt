@@ -3397,3 +3397,4 @@
 37091. style: reformat files with black #37091
 30986. test: increase coverage on auth module #30986
 67490. feat: enable dark mode toggle #67490
+10670. chore: rename env.example #10670
