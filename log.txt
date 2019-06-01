@@ -2430,3 +2430,4 @@
 56484. chore: add GitHub actions badge #56484
 84716. chore: add GitHub actions badge #84716
 80782. docs: improve code comments in utils #80782
+70027. perf: cache repeated calculations #70027
