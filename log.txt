@@ -3395,3 +3395,4 @@
 61706. perf: optimize database query for quiz results #61706
 44698. refactor: organize models into subfolders #44698
 37091. style: reformat files with black #37091
+30986. test: increase coverage on auth module #30986
