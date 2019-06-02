@@ -1421,3 +1421,4 @@
 67504. docs: improve code comments in utils #67504
 48386. style: reformat files with black #48386
 43526. fix: resolve issue with date parsing #43526
+94293. test: test user registration edge cases #94293
