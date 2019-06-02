@@ -3399,3 +3399,4 @@
 67490. feat: enable dark mode toggle #67490
 10670. chore: rename env.example #10670
 47650. feat: create admin dashboard #47650
+37057. refactor: remove redundant code blocks #37057
