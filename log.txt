@@ -3405,3 +3405,4 @@
 88862. test: increase coverage on auth module #88862
 13912. docs: update README with setup steps #13912
 2154. chore: add GitHub actions badge #2154
+69837. perf: optimize database query for quiz results #69837
