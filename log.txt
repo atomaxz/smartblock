@@ -424,3 +424,4 @@
 78544. style: reformat files with black #78544
 21682. chore: update .gitignore #21682
 68140. fix: resolve issue with date parsing #68140
+90742. feat: add export to CSV option #90742
