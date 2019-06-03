@@ -1422,3 +1422,4 @@
 48386. style: reformat files with black #48386
 43526. fix: resolve issue with date parsing #43526
 94293. test: test user registration edge cases #94293
+64616. test: test user registration edge cases #64616
