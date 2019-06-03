@@ -2434,3 +2434,4 @@
 5991. fix: fix broken CSS in mobile view #5991
 33802. docs: clarify environment setup #33802
 25911. test: add unit test for quiz service #25911
+90920. feat: support email verification #90920
