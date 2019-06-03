@@ -3403,3 +3403,4 @@
 96113. chore: clean up unused files #96113
 80262. feat: implement quiz timer feature #80262
 88862. test: increase coverage on auth module #88862
+13912. docs: update README with setup steps #13912
