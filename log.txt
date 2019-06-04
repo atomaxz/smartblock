@@ -3409,3 +3409,4 @@
 26615. perf: cache repeated calculations #26615
 34827. test: increase coverage on auth module #34827
 70843. fix: handle 500 error in quiz API #70843
+0180. fix: fix null pointer exception on login #180
