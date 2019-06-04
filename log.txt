@@ -3408,3 +3408,4 @@
 69837. perf: optimize database query for quiz results #69837
 26615. perf: cache repeated calculations #26615
 34827. test: increase coverage on auth module #34827
+70843. fix: handle 500 error in quiz API #70843
