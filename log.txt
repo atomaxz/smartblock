@@ -3411,3 +3411,4 @@
 70843. fix: handle 500 error in quiz API #70843
 0180. fix: fix null pointer exception on login #180
 59282. feat: support email verification #59282
+68641. style: reformat files with black #68641
