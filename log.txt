@@ -3410,3 +3410,4 @@
 34827. test: increase coverage on auth module #34827
 70843. fix: handle 500 error in quiz API #70843
 0180. fix: fix null pointer exception on login #180
+59282. feat: support email verification #59282
