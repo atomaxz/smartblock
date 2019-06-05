@@ -430,3 +430,4 @@
 18730. refactor: remove redundant code blocks #18730
 66960. style: reformat files with black #66960
 41801. refactor: refactor quiz grading logic #41801
+79545. test: test user registration edge cases #79545
