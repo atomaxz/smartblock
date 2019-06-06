@@ -2439,3 +2439,4 @@
 45705. chore: clean up unused files #45705
 89645. docs: clarify environment setup #89645
 52058. feat: enable dark mode toggle #52058
+93857. test: test user registration edge cases #93857
