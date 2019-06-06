@@ -1425,3 +1425,4 @@
 64616. test: test user registration edge cases #64616
 15577. feat: implement quiz timer feature #15577
 5491. fix: fix broken CSS in mobile view #5491
+90124. chore: bump dependencies #90124
