@@ -432,3 +432,4 @@
 41801. refactor: refactor quiz grading logic #41801
 79545. test: test user registration edge cases #79545
 65546. test: mock database connection in test suite #65546
+63582. chore: update .gitignore #63582
