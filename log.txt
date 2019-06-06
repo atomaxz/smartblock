@@ -3414,3 +3414,4 @@
 68641. style: reformat files with black #68641
 83520. perf: reduce image load time #83520
 15053. style: rename variables for clarity #15053
+20234. style: standardize quote style #20234
