@@ -3419,3 +3419,4 @@
 9795. docs: update README with setup steps #9795
 36599. docs: update README with setup steps #36599
 39650. style: reformat files with black #39650
+76023. fix: handle 500 error in quiz API #76023
