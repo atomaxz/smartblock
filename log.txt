@@ -3417,3 +3417,4 @@
 20234. style: standardize quote style #20234
 34687. style: apply consistent indentation #34687
 9795. docs: update README with setup steps #9795
+36599. docs: update README with setup steps #36599
