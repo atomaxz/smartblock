@@ -1427,3 +1427,4 @@
 5491. fix: fix broken CSS in mobile view #5491
 90124. chore: bump dependencies #90124
 56272. test: mock database connection in test suite #56272
+20317. refactor: remove redundant code blocks #20317
