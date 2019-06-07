@@ -1429,3 +1429,4 @@
 56272. test: mock database connection in test suite #56272
 20317. refactor: remove redundant code blocks #20317
 72407. fix: prevent crash on empty input #72407
+98766. docs: update README with setup steps #98766
