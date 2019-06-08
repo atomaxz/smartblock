@@ -1430,3 +1430,4 @@
 20317. refactor: remove redundant code blocks #20317
 72407. fix: prevent crash on empty input #72407
 98766. docs: update README with setup steps #98766
+24069. refactor: refactor quiz grading logic #24069
