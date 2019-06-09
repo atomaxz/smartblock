@@ -3426,3 +3426,4 @@
 87582. chore: update .gitignore #87582
 57270. chore: bump dependencies #57270
 97898. style: apply consistent indentation #97898
+82402. perf: optimize database query for quiz results #82402
