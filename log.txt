@@ -1434,3 +1434,4 @@
 69255. style: remove trailing whitespace #69255
 86651. chore: rename env.example #86651
 55969. feat: add user authentication #55969
+42297. style: reformat files with black #42297
