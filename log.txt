@@ -3431,3 +3431,4 @@
 70223. docs: improve code comments in utils #70223
 63145. perf: reduce image load time #63145
 84940. style: apply consistent indentation #84940
+99008. chore: add GitHub actions badge #99008
