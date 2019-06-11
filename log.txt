@@ -1441,3 +1441,4 @@
 66669. style: reformat files with black #66669
 29047. fix: fix broken CSS in mobile view #29047
 30060. feat: add export to CSV option #30060
+81801. test: mock database connection in test suite #81801
