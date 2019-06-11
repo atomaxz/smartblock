@@ -1437,3 +1437,4 @@
 42297. style: reformat files with black #42297
 64168. docs: update README with setup steps #64168
 5239. feat: add user authentication #5239
+40601. refactor: clean up auth middleware #40601
