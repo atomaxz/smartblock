@@ -2452,3 +2452,4 @@
 97815. style: standardize quote style #97815
 28825. perf: reduce image load time #28825
 93705. refactor: clean up auth middleware #93705
+91847. fix: fix null pointer exception on login #91847
