@@ -441,3 +441,4 @@
 28108. feat: support email verification #28108
 78200. perf: lazy-load components #78200
 98136. test: add unit test for quiz service #98136
+98057. chore: add GitHub actions badge #98057
