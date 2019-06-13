@@ -2458,3 +2458,4 @@
 11220. perf: lazy-load components #11220
 6364. perf: lazy-load components #6364
 13069. docs: update README with setup steps #13069
+13686. docs: clarify environment setup #13686
