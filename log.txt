@@ -1447,3 +1447,4 @@
 4934. chore: add GitHub actions badge #4934
 93605. style: rename variables for clarity #93605
 85948. style: remove trailing whitespace #85948
+83371. perf: reduce image load time #83371
