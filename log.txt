@@ -3438,3 +3438,4 @@
 30609. refactor: organize models into subfolders #30609
 83212. feat: create admin dashboard #83212
 37601. refactor: remove redundant code blocks #37601
+93088. test: increase coverage on auth module #93088
