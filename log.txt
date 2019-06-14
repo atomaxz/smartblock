@@ -2465,3 +2465,4 @@
 58883. perf: lazy-load components #58883
 50015. style: apply consistent indentation #50015
 75693. chore: clean up unused files #75693
+10945. docs: clarify environment setup #10945
