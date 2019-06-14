@@ -444,3 +444,4 @@
 98057. chore: add GitHub actions badge #98057
 63040. fix: correct typo in registration form #63040
 42570. docs: document token refresh logic #42570
+83406. test: test user registration edge cases #83406
