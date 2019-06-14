@@ -3436,3 +3436,4 @@
 20934. fix: fix broken CSS in mobile view #20934
 6955. feat: enable dark mode toggle #6955
 30609. refactor: organize models into subfolders #30609
+83212. feat: create admin dashboard #83212
