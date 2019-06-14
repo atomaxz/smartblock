@@ -2461,3 +2461,4 @@
 13686. docs: clarify environment setup #13686
 32705. feat: support email verification #32705
 44789. refactor: clean up auth middleware #44789
+1197. style: reformat files with black #1197
