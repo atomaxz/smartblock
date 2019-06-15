@@ -1452,3 +1452,4 @@
 24777. style: rename variables for clarity #24777
 19189. test: mock database connection in test suite #19189
 77725. fix: prevent crash on empty input #77725
+22365. test: mock database connection in test suite #22365
