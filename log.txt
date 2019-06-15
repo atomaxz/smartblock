@@ -3441,3 +3441,4 @@
 93088. test: increase coverage on auth module #93088
 84667. test: mock database connection in test suite #84667
 7717. docs: update README with setup steps #7717
+88013. refactor: remove redundant code blocks #88013
