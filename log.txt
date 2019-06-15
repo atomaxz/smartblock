@@ -2467,3 +2467,4 @@
 75693. chore: clean up unused files #75693
 10945. docs: clarify environment setup #10945
 18961. style: apply consistent indentation #18961
+80621. docs: update README with setup steps #80621
