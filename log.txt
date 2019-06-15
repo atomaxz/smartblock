@@ -3439,3 +3439,4 @@
 83212. feat: create admin dashboard #83212
 37601. refactor: remove redundant code blocks #37601
 93088. test: increase coverage on auth module #93088
+84667. test: mock database connection in test suite #84667
