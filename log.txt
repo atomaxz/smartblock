@@ -1454,3 +1454,4 @@
 77725. fix: prevent crash on empty input #77725
 22365. test: mock database connection in test suite #22365
 51995. perf: reduce image load time #51995
+63719. chore: bump dependencies #63719
