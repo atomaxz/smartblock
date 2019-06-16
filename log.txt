@@ -2470,3 +2470,4 @@
 80621. docs: update README with setup steps #80621
 81339. style: standardize quote style #81339
 90322. docs: write FAQ section #90322
+82194. feat: create admin dashboard #82194
