@@ -2471,3 +2471,4 @@
 81339. style: standardize quote style #81339
 90322. docs: write FAQ section #90322
 82194. feat: create admin dashboard #82194
+78160. perf: optimize database query for quiz results #78160
