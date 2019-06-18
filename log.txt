@@ -2477,3 +2477,4 @@
 35786. docs: document token refresh logic #35786
 25102. fix: prevent crash on empty input #25102
 50888. style: apply consistent indentation #50888
+31053. docs: write FAQ section #31053
