@@ -2475,3 +2475,4 @@
 9426. docs: write FAQ section #9426
 23268. refactor: organize models into subfolders #23268
 35786. docs: document token refresh logic #35786
+25102. fix: prevent crash on empty input #25102
