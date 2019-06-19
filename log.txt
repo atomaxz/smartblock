@@ -2488,3 +2488,4 @@
 12958. style: remove trailing whitespace #12958
 93695. refactor: clean up auth middleware #93695
 99259. chore: add GitHub actions badge #99259
+97426. perf: lazy-load components #97426
