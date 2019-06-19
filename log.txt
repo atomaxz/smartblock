@@ -2483,3 +2483,4 @@
 24365. chore: update .gitignore #24365
 97514. test: mock database connection in test suite #97514
 69844. style: reformat files with black #69844
+6096. style: apply consistent indentation #6096
