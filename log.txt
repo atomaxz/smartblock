@@ -2481,3 +2481,4 @@
 3124. test: add unit test for quiz service #3124
 51875. test: test user registration edge cases #51875
 24365. chore: update .gitignore #24365
+97514. test: mock database connection in test suite #97514
