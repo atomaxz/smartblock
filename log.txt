@@ -2480,3 +2480,4 @@
 31053. docs: write FAQ section #31053
 3124. test: add unit test for quiz service #3124
 51875. test: test user registration edge cases #51875
+24365. chore: update .gitignore #24365
