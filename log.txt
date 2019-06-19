@@ -2485,3 +2485,4 @@
 69844. style: reformat files with black #69844
 6096. style: apply consistent indentation #6096
 61940. style: rename variables for clarity #61940
+12958. style: remove trailing whitespace #12958
