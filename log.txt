@@ -2491,3 +2491,4 @@
 97426. perf: lazy-load components #97426
 67823. refactor: remove redundant code blocks #67823
 78167. docs: update README with setup steps #78167
+73712. fix: fix null pointer exception on login #73712
