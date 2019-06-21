@@ -3451,3 +3451,4 @@
 47026. chore: rename env.example #47026
 25259. test: add unit test for quiz service #25259
 68403. perf: cache repeated calculations #68403
+86758. fix: fix null pointer exception on login #86758
