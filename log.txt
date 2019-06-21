@@ -1470,3 +1470,4 @@
 63288. chore: rename env.example #63288
 94906. docs: write FAQ section #94906
 16041. style: reformat files with black #16041
+72439. perf: optimize database query for quiz results #72439
