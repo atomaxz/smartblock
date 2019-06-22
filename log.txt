@@ -1475,3 +1475,4 @@
 26627. feat: implement quiz timer feature #26627
 74071. style: standardize quote style #74071
 11388. test: add unit test for quiz service #11388
+12617. fix: fix broken CSS in mobile view #12617
