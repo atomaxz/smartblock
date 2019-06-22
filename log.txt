@@ -3453,3 +3453,4 @@
 68403. perf: cache repeated calculations #68403
 86758. fix: fix null pointer exception on login #86758
 78071. test: add integration test for /submit endpoint #78071
+87058. refactor: organize models into subfolders #87058
