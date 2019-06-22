@@ -460,3 +460,4 @@
 55172. refactor: refactor quiz grading logic #55172
 11704. fix: resolve issue with date parsing #11704
 32633. perf: lazy-load components #32633
+4693. perf: reduce image load time #4693
