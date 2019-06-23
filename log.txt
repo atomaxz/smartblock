@@ -3456,3 +3456,4 @@
 87058. refactor: organize models into subfolders #87058
 41468. style: rename variables for clarity #41468
 41816. fix: fix broken CSS in mobile view #41816
+47652. fix: fix null pointer exception on login #47652
