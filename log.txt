@@ -461,3 +461,4 @@
 11704. fix: resolve issue with date parsing #11704
 32633. perf: lazy-load components #32633
 4693. perf: reduce image load time #4693
+60749. fix: prevent crash on empty input #60749
