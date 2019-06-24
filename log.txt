@@ -3461,3 +3461,4 @@
 99567. docs: improve code comments in utils #99567
 6489. refactor: split large controller into smaller functions #6489
 78740. fix: fix null pointer exception on login #78740
+8685. chore: add GitHub actions badge #8685
