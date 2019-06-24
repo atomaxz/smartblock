@@ -1484,3 +1484,4 @@
 1885. perf: optimize database query for quiz results #1885
 57369. perf: cache repeated calculations #57369
 97445. feat: create admin dashboard #97445
+79821. docs: document token refresh logic #79821
