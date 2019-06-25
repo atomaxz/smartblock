@@ -467,3 +467,4 @@
 69909. test: test user registration edge cases #69909
 2315. chore: bump dependencies #2315
 19331. test: test user registration edge cases #19331
+35856. feat: enable dark mode toggle #35856
