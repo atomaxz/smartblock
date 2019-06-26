@@ -2510,3 +2510,4 @@
 16304. perf: cache repeated calculations #16304
 16429. refactor: clean up auth middleware #16429
 43176. refactor: clean up auth middleware #43176
+22958. chore: bump dependencies #22958
