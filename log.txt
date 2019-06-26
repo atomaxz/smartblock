@@ -469,3 +469,4 @@
 19331. test: test user registration edge cases #19331
 35856. feat: enable dark mode toggle #35856
 70390. docs: add API usage examples #70390
+34557. test: add integration test for /submit endpoint #34557
