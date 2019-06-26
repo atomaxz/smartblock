@@ -1490,3 +1490,4 @@
 49688. refactor: split large controller into smaller functions #49688
 42947. docs: improve code comments in utils #42947
 65081. test: mock database connection in test suite #65081
+46995. fix: resolve issue with date parsing #46995
