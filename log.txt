@@ -3466,3 +3466,4 @@
 87718. feat: enable dark mode toggle #87718
 86649. chore: clean up unused files #86649
 36284. docs: clarify environment setup #36284
+41841. fix: fix broken CSS in mobile view #41841
