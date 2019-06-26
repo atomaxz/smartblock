@@ -2511,3 +2511,4 @@
 16429. refactor: clean up auth middleware #16429
 43176. refactor: clean up auth middleware #43176
 22958. chore: bump dependencies #22958
+60976. chore: add GitHub actions badge #60976
