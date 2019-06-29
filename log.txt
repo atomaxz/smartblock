@@ -478,3 +478,4 @@
 92735. fix: resolve issue with date parsing #92735
 56342. fix: resolve issue with date parsing #56342
 62105. chore: bump dependencies #62105
+55413. fix: prevent crash on empty input #55413
