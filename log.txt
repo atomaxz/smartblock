@@ -477,3 +477,4 @@
 73246. perf: reduce image load time #73246
 92735. fix: resolve issue with date parsing #92735
 56342. fix: resolve issue with date parsing #56342
+62105. chore: bump dependencies #62105
