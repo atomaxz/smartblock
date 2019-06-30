@@ -483,3 +483,4 @@
 92159. docs: update README with setup steps #92159
 72417. test: add unit test for quiz service #72417
 57789. refactor: remove redundant code blocks #57789
+72771. feat: add user authentication #72771
