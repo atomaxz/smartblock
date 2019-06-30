@@ -2518,3 +2518,4 @@
 58330. chore: rename env.example #58330
 10484. perf: optimize database query for quiz results #10484
 74611. refactor: split large controller into smaller functions #74611
+1111. fix: correct typo in registration form #1111
