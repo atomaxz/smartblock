@@ -2516,3 +2516,4 @@
 42749. test: add unit test for quiz service #42749
 44071. docs: update README with setup steps #44071
 58330. chore: rename env.example #58330
+10484. perf: optimize database query for quiz results #10484
