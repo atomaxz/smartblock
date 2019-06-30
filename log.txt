@@ -1504,3 +1504,4 @@
 79986. style: remove trailing whitespace #79986
 35502. refactor: refactor quiz grading logic #35502
 24368. style: apply consistent indentation #24368
+43189. refactor: clean up auth middleware #43189
