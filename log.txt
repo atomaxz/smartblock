@@ -486,3 +486,4 @@
 72771. feat: add user authentication #72771
 26365. feat: create admin dashboard #26365
 67401. perf: optimize database query for quiz results #67401
+59355. style: standardize quote style #59355
