@@ -1513,3 +1513,4 @@
 11155. test: add unit test for quiz service #11155
 70060. style: reformat files with black #70060
 16353. chore: add GitHub actions badge #16353
+34377. perf: optimize database query for quiz results #34377
