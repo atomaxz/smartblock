@@ -3482,3 +3482,4 @@
 53907. style: remove trailing whitespace #53907
 55879. test: mock database connection in test suite #55879
 38202. refactor: split large controller into smaller functions #38202
+2852. feat: create admin dashboard #2852
