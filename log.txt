@@ -490,3 +490,4 @@
 47364. test: test user registration edge cases #47364
 52663. test: test user registration edge cases #52663
 58213. refactor: split large controller into smaller functions #58213
+85054. fix: correct typo in registration form #85054
