@@ -492,3 +492,4 @@
 58213. refactor: split large controller into smaller functions #58213
 85054. fix: correct typo in registration form #85054
 46688. test: add unit test for quiz service #46688
+37159. fix: prevent crash on empty input #37159
