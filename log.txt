@@ -496,3 +496,4 @@
 67009. docs: improve code comments in utils #67009
 90662. refactor: organize models into subfolders #90662
 4075. fix: fix broken CSS in mobile view #4075
+45408. fix: fix broken CSS in mobile view #45408
