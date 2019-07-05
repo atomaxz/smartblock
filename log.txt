@@ -3496,3 +3496,4 @@
 64377. fix: correct typo in registration form #64377
 11555. fix: prevent crash on empty input #11555
 78756. style: rename variables for clarity #78756
+43470. test: increase coverage on auth module #43470
