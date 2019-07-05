@@ -2533,3 +2533,4 @@
 21882. perf: reduce image load time #21882
 82954. chore: add GitHub actions badge #82954
 90878. chore: rename env.example #90878
+38921. style: apply consistent indentation #38921
