@@ -498,3 +498,4 @@
 4075. fix: fix broken CSS in mobile view #4075
 45408. fix: fix broken CSS in mobile view #45408
 29943. chore: clean up unused files #29943
+69281. feat: add export to CSV option #69281
