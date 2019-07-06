@@ -500,3 +500,4 @@
 29943. chore: clean up unused files #29943
 69281. feat: add export to CSV option #69281
 54097. style: apply consistent indentation #54097
+27649. test: increase coverage on auth module #27649
