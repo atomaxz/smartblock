@@ -1524,3 +1524,4 @@
 87644. feat: implement quiz timer feature #87644
 79772. feat: create admin dashboard #79772
 58947. feat: support email verification #58947
+94343. fix: correct typo in registration form #94343
