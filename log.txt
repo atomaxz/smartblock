@@ -503,3 +503,4 @@
 27649. test: increase coverage on auth module #27649
 20627. fix: correct typo in registration form #20627
 14408. style: remove trailing whitespace #14408
+31632. perf: lazy-load components #31632
