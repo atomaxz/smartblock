@@ -1525,3 +1525,4 @@
 79772. feat: create admin dashboard #79772
 58947. feat: support email verification #58947
 94343. fix: correct typo in registration form #94343
+67663. feat: add export to CSV option #67663
