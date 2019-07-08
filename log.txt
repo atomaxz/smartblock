@@ -504,3 +504,4 @@
 20627. fix: correct typo in registration form #20627
 14408. style: remove trailing whitespace #14408
 31632. perf: lazy-load components #31632
+76530. feat: support email verification #76530
