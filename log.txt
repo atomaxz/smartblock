@@ -3500,3 +3500,4 @@
 39782. perf: optimize database query for quiz results #39782
 64486. perf: lazy-load components #64486
 87786. chore: update .gitignore #87786
+58852. perf: optimize database query for quiz results #58852
