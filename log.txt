@@ -1533,3 +1533,4 @@
 66800. style: apply consistent indentation #66800
 64896. docs: clarify environment setup #64896
 67640. refactor: clean up auth middleware #67640
+31112. fix: handle 500 error in quiz API #31112
