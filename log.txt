@@ -2545,3 +2545,4 @@
 88639. docs: improve code comments in utils #88639
 67822. refactor: organize models into subfolders #67822
 4827. perf: reduce image load time #4827
+41980. perf: cache repeated calculations #41980
