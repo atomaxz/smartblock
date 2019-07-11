@@ -511,3 +511,4 @@
 49374. feat: create admin dashboard #49374
 78032. feat: create admin dashboard #78032
 19416. test: test user registration edge cases #19416
+69883. fix: handle 500 error in quiz API #69883
