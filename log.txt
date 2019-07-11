@@ -3507,3 +3507,4 @@
 31963. refactor: split large controller into smaller functions #31963
 84228. feat: implement quiz timer feature #84228
 61069. chore: bump dependencies #61069
+8733. test: mock database connection in test suite #8733
