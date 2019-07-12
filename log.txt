@@ -2548,3 +2548,4 @@
 41980. perf: cache repeated calculations #41980
 3763. refactor: organize models into subfolders #3763
 64961. docs: improve code comments in utils #64961
+68966. refactor: clean up auth middleware #68966
