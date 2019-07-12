@@ -1539,3 +1539,4 @@
 37915. feat: add user authentication #37915
 65586. chore: add GitHub actions badge #65586
 74454. test: mock database connection in test suite #74454
+4893. docs: document token refresh logic #4893
