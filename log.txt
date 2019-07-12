@@ -515,3 +515,4 @@
 85589. feat: support email verification #85589
 18939. perf: optimize database query for quiz results #18939
 36668. style: remove trailing whitespace #36668
+48136. chore: add GitHub actions badge #48136
