@@ -2553,3 +2553,4 @@
 65547. fix: resolve issue with date parsing #65547
 10533. feat: add export to CSV option #10533
 1551. feat: support email verification #1551
+38962. fix: resolve issue with date parsing #38962
