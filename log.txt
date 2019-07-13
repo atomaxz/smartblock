@@ -3512,3 +3512,4 @@
 86271. feat: enable dark mode toggle #86271
 69474. refactor: refactor quiz grading logic #69474
 78917. style: rename variables for clarity #78917
+95500. test: add integration test for /submit endpoint #95500
