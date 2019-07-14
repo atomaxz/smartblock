@@ -520,3 +520,4 @@
 83509. style: apply consistent indentation #83509
 63828. perf: reduce image load time #63828
 67465. fix: prevent crash on empty input #67465
+54863. refactor: organize models into subfolders #54863
