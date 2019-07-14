@@ -2555,3 +2555,4 @@
 1551. feat: support email verification #1551
 38962. fix: resolve issue with date parsing #38962
 34006. refactor: split large controller into smaller functions #34006
+2124. perf: lazy-load components #2124
