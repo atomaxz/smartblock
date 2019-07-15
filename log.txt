@@ -1548,3 +1548,4 @@
 33042. fix: resolve issue with date parsing #33042
 18010. feat: enable dark mode toggle #18010
 40562. style: reformat files with black #40562
+49183. feat: support email verification #49183
