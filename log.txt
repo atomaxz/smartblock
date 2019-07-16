@@ -1549,3 +1549,4 @@
 18010. feat: enable dark mode toggle #18010
 40562. style: reformat files with black #40562
 49183. feat: support email verification #49183
+19686. perf: lazy-load components #19686
