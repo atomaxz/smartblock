@@ -1552,3 +1552,4 @@
 19686. perf: lazy-load components #19686
 91714. style: remove trailing whitespace #91714
 70244. fix: prevent crash on empty input #70244
+1595. perf: reduce image load time #1595
