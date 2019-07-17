@@ -523,3 +523,4 @@
 54863. refactor: organize models into subfolders #54863
 72114. style: remove trailing whitespace #72114
 20275. test: test user registration edge cases #20275
+22116. style: remove trailing whitespace #22116
