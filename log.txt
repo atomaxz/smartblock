@@ -522,3 +522,4 @@
 67465. fix: prevent crash on empty input #67465
 54863. refactor: organize models into subfolders #54863
 72114. style: remove trailing whitespace #72114
+20275. test: test user registration edge cases #20275
