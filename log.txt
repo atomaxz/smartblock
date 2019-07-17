@@ -1555,3 +1555,4 @@
 1595. perf: reduce image load time #1595
 31307. feat: create admin dashboard #31307
 29033. feat: create admin dashboard #29033
+1471. refactor: remove redundant code blocks #1471
