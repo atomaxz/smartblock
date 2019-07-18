@@ -2564,3 +2564,4 @@
 11673. chore: bump dependencies #11673
 51457. refactor: split large controller into smaller functions #51457
 85321. feat: enable dark mode toggle #85321
+30004. refactor: clean up auth middleware #30004
