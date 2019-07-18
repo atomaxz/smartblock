@@ -525,3 +525,4 @@
 20275. test: test user registration edge cases #20275
 22116. style: remove trailing whitespace #22116
 89353. test: increase coverage on auth module #89353
+58319. fix: fix null pointer exception on login #58319
