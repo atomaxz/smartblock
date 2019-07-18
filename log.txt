@@ -3526,3 +3526,4 @@
 48073. test: add unit test for quiz service #48073
 89616. fix: prevent crash on empty input #89616
 57357. fix: prevent crash on empty input #57357
+27840. fix: fix null pointer exception on login #27840
