@@ -3528,3 +3528,4 @@
 57357. fix: prevent crash on empty input #57357
 27840. fix: fix null pointer exception on login #27840
 34017. docs: add API usage examples #34017
+9301. feat: add export to CSV option #9301
