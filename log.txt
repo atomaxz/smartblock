@@ -1561,3 +1561,4 @@
 61631. feat: implement quiz timer feature #61631
 99108. fix: handle 500 error in quiz API #99108
 92996. fix: correct typo in registration form #92996
+97487. test: increase coverage on auth module #97487
