@@ -2566,3 +2566,4 @@
 85321. feat: enable dark mode toggle #85321
 30004. refactor: clean up auth middleware #30004
 28259. feat: add export to CSV option #28259
+40168. feat: support email verification #40168
