@@ -3536,3 +3536,4 @@
 82247. feat: add export to CSV option #82247
 10049. chore: bump dependencies #10049
 92003. fix: prevent crash on empty input #92003
+99514. fix: handle 500 error in quiz API #99514
