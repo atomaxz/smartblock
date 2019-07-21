@@ -3535,3 +3535,4 @@
 96508. refactor: refactor quiz grading logic #96508
 82247. feat: add export to CSV option #82247
 10049. chore: bump dependencies #10049
+92003. fix: prevent crash on empty input #92003
