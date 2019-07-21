@@ -1566,3 +1566,4 @@
 53331. refactor: organize models into subfolders #53331
 90111. style: remove trailing whitespace #90111
 41086. docs: clarify environment setup #41086
+26647. feat: add user authentication #26647
