@@ -535,3 +535,4 @@
 4336. feat: enable dark mode toggle #4336
 11694. perf: reduce image load time #11694
 39814. perf: cache repeated calculations #39814
+81810. docs: add API usage examples #81810
