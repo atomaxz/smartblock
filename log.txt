@@ -1577,3 +1577,4 @@
 3582. docs: improve code comments in utils #3582
 84250. feat: add export to CSV option #84250
 96518. test: add integration test for /submit endpoint #96518
+46332. feat: enable dark mode toggle #46332
