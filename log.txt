@@ -2572,3 +2572,4 @@
 9860. feat: add export to CSV option #9860
 85986. test: increase coverage on auth module #85986
 19166. style: rename variables for clarity #19166
+0693. feat: implement quiz timer feature #693
