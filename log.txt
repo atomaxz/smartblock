@@ -2575,3 +2575,4 @@
 0693. feat: implement quiz timer feature #693
 10246. perf: optimize database query for quiz results #10246
 63973. test: test user registration edge cases #63973
+88874. test: mock database connection in test suite #88874
