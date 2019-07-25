@@ -2573,3 +2573,4 @@
 85986. test: increase coverage on auth module #85986
 19166. style: rename variables for clarity #19166
 0693. feat: implement quiz timer feature #693
+10246. perf: optimize database query for quiz results #10246
