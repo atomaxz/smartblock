@@ -1580,3 +1580,4 @@
 46332. feat: enable dark mode toggle #46332
 75101. style: remove trailing whitespace #75101
 22075. chore: rename env.example #22075
+31269. fix: handle 500 error in quiz API #31269
