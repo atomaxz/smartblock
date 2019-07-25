@@ -1578,3 +1578,4 @@
 84250. feat: add export to CSV option #84250
 96518. test: add integration test for /submit endpoint #96518
 46332. feat: enable dark mode toggle #46332
+75101. style: remove trailing whitespace #75101
