@@ -550,3 +550,4 @@
 58797. test: add unit test for quiz service #58797
 25764. refactor: remove redundant code blocks #25764
 83547. fix: resolve issue with date parsing #83547
+95688. test: mock database connection in test suite #95688
