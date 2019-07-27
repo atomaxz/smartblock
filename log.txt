@@ -2580,3 +2580,4 @@
 46112. style: remove trailing whitespace #46112
 59950. test: test user registration edge cases #59950
 46627. chore: clean up unused files #46627
+57494. fix: handle 500 error in quiz API #57494
