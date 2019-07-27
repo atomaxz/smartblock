@@ -3547,3 +3547,4 @@
 39615. test: add unit test for quiz service #39615
 56941. refactor: clean up auth middleware #56941
 19783. test: add unit test for quiz service #19783
+77852. test: increase coverage on auth module #77852
