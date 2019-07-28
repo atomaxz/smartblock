@@ -557,3 +557,4 @@
 82818. perf: reduce image load time #82818
 47610. perf: cache repeated calculations #47610
 97989. fix: resolve issue with date parsing #97989
+39682. feat: support email verification #39682
