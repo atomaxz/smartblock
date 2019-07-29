@@ -2583,3 +2583,4 @@
 57494. fix: handle 500 error in quiz API #57494
 99317. refactor: remove redundant code blocks #99317
 93748. feat: implement quiz timer feature #93748
+30807. fix: fix broken CSS in mobile view #30807
