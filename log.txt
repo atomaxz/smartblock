@@ -565,3 +565,4 @@
 38500. perf: cache repeated calculations #38500
 3009. chore: add GitHub actions badge #3009
 34018. chore: clean up unused files #34018
+87045. perf: lazy-load components #87045
