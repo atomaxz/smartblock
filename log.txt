@@ -2587,3 +2587,4 @@
 86830. style: reformat files with black #86830
 68697. test: add integration test for /submit endpoint #68697
 62773. chore: update .gitignore #62773
+59236. test: mock database connection in test suite #59236
