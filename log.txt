@@ -1598,3 +1598,4 @@
 93463. chore: clean up unused files #93463
 25762. perf: optimize database query for quiz results #25762
 94738. feat: create admin dashboard #94738
+19467. fix: prevent crash on empty input #19467
