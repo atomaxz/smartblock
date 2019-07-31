@@ -3556,3 +3556,4 @@
 42626. test: add integration test for /submit endpoint #42626
 82774. test: add integration test for /submit endpoint #82774
 21612. perf: cache repeated calculations #21612
+80877. feat: add user authentication #80877
