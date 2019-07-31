@@ -1596,3 +1596,4 @@
 33581. style: rename variables for clarity #33581
 78442. refactor: split large controller into smaller functions #78442
 93463. chore: clean up unused files #93463
+25762. perf: optimize database query for quiz results #25762
