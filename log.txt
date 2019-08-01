@@ -568,3 +568,4 @@
 87045. perf: lazy-load components #87045
 62620. chore: clean up unused files #62620
 41039. perf: reduce image load time #41039
+83628. refactor: clean up auth middleware #83628
