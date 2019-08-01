@@ -1600,3 +1600,4 @@
 94738. feat: create admin dashboard #94738
 19467. fix: prevent crash on empty input #19467
 73669. style: remove trailing whitespace #73669
+75016. docs: document token refresh logic #75016
