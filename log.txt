@@ -1605,3 +1605,4 @@
 7575. refactor: refactor quiz grading logic #7575
 47155. fix: handle 500 error in quiz API #47155
 90597. docs: update README with setup steps #90597
+57283. test: increase coverage on auth module #57283
