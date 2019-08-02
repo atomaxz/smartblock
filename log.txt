@@ -3560,3 +3560,4 @@
 68968. refactor: refactor quiz grading logic #68968
 29810. fix: correct typo in registration form #29810
 25192. fix: correct typo in registration form #25192
+31367. test: test user registration edge cases #31367
