@@ -1601,3 +1601,4 @@
 19467. fix: prevent crash on empty input #19467
 73669. style: remove trailing whitespace #73669
 75016. docs: document token refresh logic #75016
+48755. chore: bump dependencies #48755
