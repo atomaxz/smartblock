@@ -1607,3 +1607,4 @@
 90597. docs: update README with setup steps #90597
 57283. test: increase coverage on auth module #57283
 94317. feat: add export to CSV option #94317
+2735. feat: enable dark mode toggle #2735
