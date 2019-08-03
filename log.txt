@@ -575,3 +575,4 @@
 70040. feat: add export to CSV option #70040
 56762. perf: reduce image load time #56762
 33962. fix: fix null pointer exception on login #33962
+78029. feat: create admin dashboard #78029
