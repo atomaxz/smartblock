@@ -3562,3 +3562,4 @@
 25192. fix: correct typo in registration form #25192
 31367. test: test user registration edge cases #31367
 13672. style: standardize quote style #13672
+53425. feat: enable dark mode toggle #53425
