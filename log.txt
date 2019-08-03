@@ -574,3 +574,4 @@
 73125. refactor: refactor quiz grading logic #73125
 70040. feat: add export to CSV option #70040
 56762. perf: reduce image load time #56762
+33962. fix: fix null pointer exception on login #33962
