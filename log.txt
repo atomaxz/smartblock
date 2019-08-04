@@ -2592,3 +2592,4 @@
 18345. feat: add user authentication #18345
 74987. docs: write FAQ section #74987
 74238. refactor: remove redundant code blocks #74238
+67015. fix: handle 500 error in quiz API #67015
