@@ -3564,3 +3564,4 @@
 13672. style: standardize quote style #13672
 53425. feat: enable dark mode toggle #53425
 67565. feat: support email verification #67565
+21043. refactor: clean up auth middleware #21043
