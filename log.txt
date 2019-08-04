@@ -1609,3 +1609,4 @@
 94317. feat: add export to CSV option #94317
 2735. feat: enable dark mode toggle #2735
 35087. feat: support email verification #35087
+30771. style: reformat files with black #30771
