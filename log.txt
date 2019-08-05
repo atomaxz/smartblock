@@ -3565,3 +3565,4 @@
 53425. feat: enable dark mode toggle #53425
 67565. feat: support email verification #67565
 21043. refactor: clean up auth middleware #21043
+43491. refactor: organize models into subfolders #43491
