@@ -579,3 +579,4 @@
 98353. docs: add API usage examples #98353
 37153. docs: improve code comments in utils #37153
 27725. fix: prevent crash on empty input #27725
+14427. chore: bump dependencies #14427
