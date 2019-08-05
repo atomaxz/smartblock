@@ -578,3 +578,4 @@
 78029. feat: create admin dashboard #78029
 98353. docs: add API usage examples #98353
 37153. docs: improve code comments in utils #37153
+27725. fix: prevent crash on empty input #27725
