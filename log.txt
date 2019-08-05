@@ -1610,3 +1610,4 @@
 2735. feat: enable dark mode toggle #2735
 35087. feat: support email verification #35087
 30771. style: reformat files with black #30771
+54417. perf: optimize database query for quiz results #54417
