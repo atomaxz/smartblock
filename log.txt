@@ -2597,3 +2597,4 @@
 13290. refactor: refactor quiz grading logic #13290
 14393. chore: add GitHub actions badge #14393
 60690. feat: add export to CSV option #60690
+65552. feat: support email verification #65552
