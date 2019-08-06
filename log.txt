@@ -585,3 +585,4 @@
 52978. docs: update README with setup steps #52978
 23491. style: reformat files with black #23491
 67825. test: add integration test for /submit endpoint #67825
+86215. feat: support email verification #86215
