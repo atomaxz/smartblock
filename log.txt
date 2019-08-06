@@ -1612,3 +1612,4 @@
 30771. style: reformat files with black #30771
 54417. perf: optimize database query for quiz results #54417
 77637. chore: add GitHub actions badge #77637
+39142. style: standardize quote style #39142
