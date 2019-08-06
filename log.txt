@@ -2596,3 +2596,4 @@
 98740. test: increase coverage on auth module #98740
 13290. refactor: refactor quiz grading logic #13290
 14393. chore: add GitHub actions badge #14393
+60690. feat: add export to CSV option #60690
