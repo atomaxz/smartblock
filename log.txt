@@ -583,3 +583,4 @@
 62618. chore: add GitHub actions badge #62618
 9790. refactor: refactor quiz grading logic #9790
 52978. docs: update README with setup steps #52978
+23491. style: reformat files with black #23491
