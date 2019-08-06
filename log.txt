@@ -580,3 +580,4 @@
 37153. docs: improve code comments in utils #37153
 27725. fix: prevent crash on empty input #27725
 14427. chore: bump dependencies #14427
+62618. chore: add GitHub actions badge #62618
