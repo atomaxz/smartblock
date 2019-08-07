@@ -3569,3 +3569,4 @@
 15109. chore: rename env.example #15109
 21810. feat: create admin dashboard #21810
 42552. refactor: organize models into subfolders #42552
+39726. test: test user registration edge cases #39726
