@@ -587,3 +587,4 @@
 67825. test: add integration test for /submit endpoint #67825
 86215. feat: support email verification #86215
 84842. docs: clarify environment setup #84842
+26835. feat: support email verification #26835
