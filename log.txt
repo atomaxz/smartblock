@@ -2599,3 +2599,4 @@
 60690. feat: add export to CSV option #60690
 65552. feat: support email verification #65552
 31597. test: increase coverage on auth module #31597
+53489. fix: prevent crash on empty input #53489
