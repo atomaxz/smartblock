@@ -1617,3 +1617,4 @@
 67782. test: test user registration edge cases #67782
 67138. refactor: split large controller into smaller functions #67138
 89033. refactor: clean up auth middleware #89033
+55095. feat: add export to CSV option #55095
