@@ -588,3 +588,4 @@
 86215. feat: support email verification #86215
 84842. docs: clarify environment setup #84842
 26835. feat: support email verification #26835
+64919. feat: add user authentication #64919
