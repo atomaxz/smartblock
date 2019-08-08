@@ -1623,3 +1623,4 @@
 83921. fix: correct typo in registration form #83921
 83346. docs: clarify environment setup #83346
 75595. test: add integration test for /submit endpoint #75595
+69326. style: standardize quote style #69326
