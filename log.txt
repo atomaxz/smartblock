@@ -1621,3 +1621,4 @@
 25929. fix: prevent crash on empty input #25929
 79037. perf: reduce image load time #79037
 83921. fix: correct typo in registration form #83921
+83346. docs: clarify environment setup #83346
