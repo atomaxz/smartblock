@@ -3572,3 +3572,4 @@
 39726. test: test user registration edge cases #39726
 8010. style: rename variables for clarity #8010
 80286. style: rename variables for clarity #80286
+99513. perf: optimize database query for quiz results #99513
