@@ -3577,3 +3577,4 @@
 94957. perf: reduce image load time #94957
 20121. perf: reduce image load time #20121
 41785. refactor: split large controller into smaller functions #41785
+8873. refactor: clean up auth middleware #8873
