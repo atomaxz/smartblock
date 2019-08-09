@@ -595,3 +595,4 @@
 91472. chore: bump dependencies #91472
 59610. refactor: split large controller into smaller functions #59610
 12664. fix: correct typo in registration form #12664
+63730. style: remove trailing whitespace #63730
