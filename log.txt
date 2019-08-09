@@ -1625,3 +1625,4 @@
 75595. test: add integration test for /submit endpoint #75595
 69326. style: standardize quote style #69326
 44689. fix: fix null pointer exception on login #44689
+65155. style: remove trailing whitespace #65155
