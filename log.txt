@@ -3582,3 +3582,4 @@
 98528. style: apply consistent indentation #98528
 80264. chore: update .gitignore #80264
 95231. chore: update .gitignore #95231
+74775. fix: fix broken CSS in mobile view #74775
