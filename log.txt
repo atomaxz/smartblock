@@ -3580,3 +3580,4 @@
 8873. refactor: clean up auth middleware #8873
 69062. fix: fix broken CSS in mobile view #69062
 98528. style: apply consistent indentation #98528
+80264. chore: update .gitignore #80264
