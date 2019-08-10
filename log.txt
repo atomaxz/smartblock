@@ -3579,3 +3579,4 @@
 41785. refactor: split large controller into smaller functions #41785
 8873. refactor: clean up auth middleware #8873
 69062. fix: fix broken CSS in mobile view #69062
+98528. style: apply consistent indentation #98528
