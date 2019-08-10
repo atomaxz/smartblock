@@ -600,3 +600,4 @@
 9359. chore: clean up unused files #9359
 52635. test: increase coverage on auth module #52635
 17793. refactor: refactor quiz grading logic #17793
+7396. test: add unit test for quiz service #7396
