@@ -3585,3 +3585,4 @@
 74775. fix: fix broken CSS in mobile view #74775
 2518. docs: add API usage examples #2518
 73077. docs: add API usage examples #73077
+45055. chore: update .gitignore #45055
