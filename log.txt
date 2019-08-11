@@ -608,3 +608,4 @@
 98375. feat: create admin dashboard #98375
 56542. feat: enable dark mode toggle #56542
 11288. fix: fix broken CSS in mobile view #11288
+38367. style: apply consistent indentation #38367
