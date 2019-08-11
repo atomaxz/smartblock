@@ -1633,3 +1633,4 @@
 12981. style: rename variables for clarity #12981
 53371. perf: cache repeated calculations #53371
 9252. test: increase coverage on auth module #9252
+97303. perf: optimize database query for quiz results #97303
