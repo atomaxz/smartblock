@@ -604,3 +604,4 @@
 42420. perf: lazy-load components #42420
 58264. docs: write FAQ section #58264
 16004. refactor: refactor quiz grading logic #16004
+46551. perf: reduce image load time #46551
