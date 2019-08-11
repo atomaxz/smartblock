@@ -606,3 +606,4 @@
 16004. refactor: refactor quiz grading logic #16004
 46551. perf: reduce image load time #46551
 98375. feat: create admin dashboard #98375
+56542. feat: enable dark mode toggle #56542
