@@ -2612,3 +2612,4 @@
 85327. refactor: remove redundant code blocks #85327
 38655. fix: prevent crash on empty input #38655
 84318. style: remove trailing whitespace #84318
+88588. chore: update .gitignore #88588
