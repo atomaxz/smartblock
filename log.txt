@@ -3588,3 +3588,4 @@
 45055. chore: update .gitignore #45055
 25820. feat: implement quiz timer feature #25820
 31938. style: reformat files with black #31938
+37720. test: mock database connection in test suite #37720
