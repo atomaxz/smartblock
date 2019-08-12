@@ -2613,3 +2613,4 @@
 38655. fix: prevent crash on empty input #38655
 84318. style: remove trailing whitespace #84318
 88588. chore: update .gitignore #88588
+35817. perf: optimize database query for quiz results #35817
