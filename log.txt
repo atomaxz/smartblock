@@ -610,3 +610,4 @@
 11288. fix: fix broken CSS in mobile view #11288
 38367. style: apply consistent indentation #38367
 0284. fix: prevent crash on empty input #284
+30761. docs: document token refresh logic #30761
