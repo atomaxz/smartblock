@@ -1635,3 +1635,4 @@
 9252. test: increase coverage on auth module #9252
 97303. perf: optimize database query for quiz results #97303
 24705. feat: add user authentication #24705
+0983. chore: rename env.example #983
