@@ -2620,3 +2620,4 @@
 10308. feat: create admin dashboard #10308
 55147. chore: clean up unused files #55147
 81052. style: apply consistent indentation #81052
+4802. fix: resolve issue with date parsing #4802
