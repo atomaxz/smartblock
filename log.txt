@@ -1640,3 +1640,4 @@
 30825. docs: improve code comments in utils #30825
 42636. feat: add user authentication #42636
 89564. style: remove trailing whitespace #89564
+18341. fix: handle 500 error in quiz API #18341
