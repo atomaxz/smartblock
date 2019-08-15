@@ -620,3 +620,4 @@
 8159. feat: implement quiz timer feature #8159
 57252. docs: write FAQ section #57252
 86545. fix: prevent crash on empty input #86545
+66858. perf: optimize database query for quiz results #66858
