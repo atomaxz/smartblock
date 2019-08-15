@@ -619,3 +619,4 @@
 35405. chore: add GitHub actions badge #35405
 8159. feat: implement quiz timer feature #8159
 57252. docs: write FAQ section #57252
+86545. fix: prevent crash on empty input #86545
