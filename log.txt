@@ -2625,3 +2625,4 @@
 2950. refactor: split large controller into smaller functions #2950
 0070. perf: optimize database query for quiz results #70
 52711. fix: fix null pointer exception on login #52711
+69549. fix: fix null pointer exception on login #69549
