@@ -2624,3 +2624,4 @@
 84934. feat: add export to CSV option #84934
 2950. refactor: split large controller into smaller functions #2950
 0070. perf: optimize database query for quiz results #70
+52711. fix: fix null pointer exception on login #52711
