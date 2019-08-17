@@ -630,3 +630,4 @@
 27703. perf: cache repeated calculations #27703
 29052. fix: resolve issue with date parsing #29052
 93794. style: reformat files with black #93794
+44003. chore: bump dependencies #44003
