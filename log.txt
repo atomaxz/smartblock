@@ -626,3 +626,4 @@
 8557. style: remove trailing whitespace #8557
 26749. style: rename variables for clarity #26749
 31019. perf: lazy-load components #31019
+57119. test: increase coverage on auth module #57119
