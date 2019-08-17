@@ -3599,3 +3599,4 @@
 8868. perf: optimize database query for quiz results #8868
 48542. fix: resolve issue with date parsing #48542
 41780. style: apply consistent indentation #41780
+49380. feat: support email verification #49380
