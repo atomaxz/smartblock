@@ -1645,3 +1645,4 @@
 86098. perf: optimize database query for quiz results #86098
 96667. chore: add GitHub actions badge #96667
 29498. test: mock database connection in test suite #29498
+3732. style: reformat files with black #3732
