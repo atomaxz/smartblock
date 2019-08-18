@@ -2631,3 +2631,4 @@
 49282. fix: correct typo in registration form #49282
 24013. fix: handle 500 error in quiz API #24013
 30759. feat: support email verification #30759
+8110. docs: document token refresh logic #8110
