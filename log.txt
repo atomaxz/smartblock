@@ -634,3 +634,4 @@
 65627. perf: cache repeated calculations #65627
 84286. refactor: refactor quiz grading logic #84286
 84633. refactor: clean up auth middleware #84633
+15821. test: test user registration edge cases #15821
