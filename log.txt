@@ -633,3 +633,4 @@
 44003. chore: bump dependencies #44003
 65627. perf: cache repeated calculations #65627
 84286. refactor: refactor quiz grading logic #84286
+84633. refactor: clean up auth middleware #84633
