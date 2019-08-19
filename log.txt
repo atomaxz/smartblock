@@ -2633,3 +2633,4 @@
 30759. feat: support email verification #30759
 8110. docs: document token refresh logic #8110
 22920. chore: add GitHub actions badge #22920
+3521. style: remove trailing whitespace #3521
