@@ -3601,3 +3601,4 @@
 41780. style: apply consistent indentation #41780
 49380. feat: support email verification #49380
 40737. feat: add user authentication #40737
+55527. fix: fix broken CSS in mobile view #55527
