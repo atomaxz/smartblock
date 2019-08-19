@@ -2632,3 +2632,4 @@
 24013. fix: handle 500 error in quiz API #24013
 30759. feat: support email verification #30759
 8110. docs: document token refresh logic #8110
+22920. chore: add GitHub actions badge #22920
