@@ -1651,3 +1651,4 @@
 38214. chore: add GitHub actions badge #38214
 95982. feat: enable dark mode toggle #95982
 65339. feat: enable dark mode toggle #65339
+76315. style: remove trailing whitespace #76315
