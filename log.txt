@@ -638,3 +638,4 @@
 62711. refactor: refactor quiz grading logic #62711
 81239. style: remove trailing whitespace #81239
 2167. test: increase coverage on auth module #2167
+7249. docs: update README with setup steps #7249
