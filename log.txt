@@ -1662,3 +1662,4 @@
 72692. feat: add user authentication #72692
 7096. chore: rename env.example #7096
 23365. refactor: split large controller into smaller functions #23365
+33724. fix: fix broken CSS in mobile view #33724
