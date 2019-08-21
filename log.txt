@@ -3608,3 +3608,4 @@
 47347. docs: write FAQ section #47347
 80912. docs: write FAQ section #80912
 41376. feat: add export to CSV option #41376
+47883. perf: cache repeated calculations #47883
