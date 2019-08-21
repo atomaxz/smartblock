@@ -2638,3 +2638,4 @@
 78717. fix: resolve issue with date parsing #78717
 94930. chore: rename env.example #94930
 90390. chore: add GitHub actions badge #90390
+13552. perf: reduce image load time #13552
