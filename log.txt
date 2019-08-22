@@ -643,3 +643,4 @@
 24427. perf: cache repeated calculations #24427
 24051. test: add integration test for /submit endpoint #24051
 46555. fix: prevent crash on empty input #46555
+30066. feat: create admin dashboard #30066
