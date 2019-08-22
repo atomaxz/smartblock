@@ -3609,3 +3609,4 @@
 80912. docs: write FAQ section #80912
 41376. feat: add export to CSV option #41376
 47883. perf: cache repeated calculations #47883
+70684. test: test user registration edge cases #70684
