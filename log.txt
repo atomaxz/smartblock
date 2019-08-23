@@ -645,3 +645,4 @@
 46555. fix: prevent crash on empty input #46555
 30066. feat: create admin dashboard #30066
 39153. style: standardize quote style #39153
+25278. test: add unit test for quiz service #25278
