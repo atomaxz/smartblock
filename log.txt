@@ -2645,3 +2645,4 @@
 99367. style: standardize quote style #99367
 93789. perf: optimize database query for quiz results #93789
 83414. test: test user registration edge cases #83414
+39079. test: increase coverage on auth module #39079
