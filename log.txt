@@ -3618,3 +3618,4 @@
 51478. chore: rename env.example #51478
 54961. perf: lazy-load components #54961
 66411. perf: cache repeated calculations #66411
+7837. chore: clean up unused files #7837
