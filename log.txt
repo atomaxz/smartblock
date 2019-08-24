@@ -649,3 +649,4 @@
 98504. style: rename variables for clarity #98504
 73619. docs: improve code comments in utils #73619
 85721. perf: reduce image load time #85721
+7722. fix: prevent crash on empty input #7722
