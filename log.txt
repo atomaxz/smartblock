@@ -2648,3 +2648,4 @@
 39079. test: increase coverage on auth module #39079
 49812. style: apply consistent indentation #49812
 78089. perf: cache repeated calculations #78089
+77673. refactor: clean up auth middleware #77673
