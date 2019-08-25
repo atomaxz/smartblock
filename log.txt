@@ -1665,3 +1665,4 @@
 33724. fix: fix broken CSS in mobile view #33724
 30847. refactor: split large controller into smaller functions #30847
 45544. refactor: split large controller into smaller functions #45544
+59635. fix: handle 500 error in quiz API #59635
