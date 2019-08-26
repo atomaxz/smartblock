@@ -2651,3 +2651,4 @@
 77673. refactor: clean up auth middleware #77673
 23471. test: mock database connection in test suite #23471
 23553. docs: clarify environment setup #23553
+70054. feat: support email verification #70054
