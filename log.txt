@@ -1667,3 +1667,4 @@
 45544. refactor: split large controller into smaller functions #45544
 59635. fix: handle 500 error in quiz API #59635
 59592. chore: add GitHub actions badge #59592
+33014. test: test user registration edge cases #33014
