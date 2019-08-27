@@ -657,3 +657,4 @@
 41916. refactor: clean up auth middleware #41916
 32888. test: add integration test for /submit endpoint #32888
 13194. feat: create admin dashboard #13194
+56400. perf: optimize database query for quiz results #56400
