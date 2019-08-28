@@ -662,3 +662,4 @@
 87391. refactor: refactor quiz grading logic #87391
 57755. docs: write FAQ section #57755
 52860. perf: lazy-load components #52860
+93131. test: mock database connection in test suite #93131
