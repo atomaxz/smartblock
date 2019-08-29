@@ -3625,3 +3625,4 @@
 65404. perf: cache repeated calculations #65404
 28563. style: apply consistent indentation #28563
 38117. feat: support email verification #38117
+61811. docs: write FAQ section #61811
