@@ -3628,3 +3628,4 @@
 61811. docs: write FAQ section #61811
 16389. perf: optimize database query for quiz results #16389
 79943. perf: cache repeated calculations #79943
+89429. feat: enable dark mode toggle #89429
