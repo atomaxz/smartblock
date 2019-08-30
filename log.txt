@@ -3630,3 +3630,4 @@
 79943. perf: cache repeated calculations #79943
 89429. feat: enable dark mode toggle #89429
 55462. refactor: organize models into subfolders #55462
+58169. perf: lazy-load components #58169
