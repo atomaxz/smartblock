@@ -1684,3 +1684,4 @@
 36390. docs: improve code comments in utils #36390
 13301. fix: resolve issue with date parsing #13301
 68416. chore: rename env.example #68416
+17277. perf: optimize database query for quiz results #17277
