@@ -3632,3 +3632,4 @@
 55462. refactor: organize models into subfolders #55462
 58169. perf: lazy-load components #58169
 44989. refactor: refactor quiz grading logic #44989
+33336. fix: handle 500 error in quiz API #33336
