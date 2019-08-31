@@ -3634,3 +3634,4 @@
 44989. refactor: refactor quiz grading logic #44989
 33336. fix: handle 500 error in quiz API #33336
 57933. fix: correct typo in registration form #57933
+64776. fix: handle 500 error in quiz API #64776
