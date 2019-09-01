@@ -668,3 +668,4 @@
 30086. test: mock database connection in test suite #30086
 62927. refactor: remove redundant code blocks #62927
 99357. style: apply consistent indentation #99357
+94863. docs: write FAQ section #94863
