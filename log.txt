@@ -670,3 +670,4 @@
 99357. style: apply consistent indentation #99357
 94863. docs: write FAQ section #94863
 87335. test: add unit test for quiz service #87335
+6395. chore: add GitHub actions badge #6395
