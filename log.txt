@@ -2668,3 +2668,4 @@
 65182. feat: add export to CSV option #65182
 61504. style: remove trailing whitespace #61504
 56223. refactor: organize models into subfolders #56223
+90497. test: increase coverage on auth module #90497
