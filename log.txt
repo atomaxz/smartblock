@@ -2670,3 +2670,4 @@
 56223. refactor: organize models into subfolders #56223
 90497. test: increase coverage on auth module #90497
 97174. perf: cache repeated calculations #97174
+9761. test: test user registration edge cases #9761
