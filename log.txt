@@ -3645,3 +3645,4 @@
 69367. style: apply consistent indentation #69367
 89844. docs: document token refresh logic #89844
 11515. test: test user registration edge cases #11515
+25484. refactor: split large controller into smaller functions #25484
