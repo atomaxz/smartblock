@@ -673,3 +673,4 @@
 6395. chore: add GitHub actions badge #6395
 89022. refactor: organize models into subfolders #89022
 75555. chore: clean up unused files #75555
+46149. feat: enable dark mode toggle #46149
