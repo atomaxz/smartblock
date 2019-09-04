@@ -675,3 +675,4 @@
 75555. chore: clean up unused files #75555
 46149. feat: enable dark mode toggle #46149
 93300. chore: update .gitignore #93300
+86862. test: test user registration edge cases #86862
