@@ -671,3 +671,4 @@
 94863. docs: write FAQ section #94863
 87335. test: add unit test for quiz service #87335
 6395. chore: add GitHub actions badge #6395
+89022. refactor: organize models into subfolders #89022
