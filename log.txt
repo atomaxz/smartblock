@@ -2675,3 +2675,4 @@
 51527. style: remove trailing whitespace #51527
 2100. fix: fix broken CSS in mobile view #2100
 41649. test: add unit test for quiz service #41649
+2556. fix: fix null pointer exception on login #2556
