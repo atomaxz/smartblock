@@ -1696,3 +1696,4 @@
 56718. fix: correct typo in registration form #56718
 49516. style: remove trailing whitespace #49516
 31769. chore: bump dependencies #31769
+98936. style: standardize quote style #98936
