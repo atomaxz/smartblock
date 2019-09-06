@@ -3654,3 +3654,4 @@
 54525. docs: clarify environment setup #54525
 2750. chore: clean up unused files #2750
 38644. feat: add user authentication #38644
+84490. refactor: organize models into subfolders #84490
