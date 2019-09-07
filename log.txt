@@ -678,3 +678,4 @@
 86862. test: test user registration edge cases #86862
 18314. docs: improve code comments in utils #18314
 29346. chore: add GitHub actions badge #29346
+94991. test: test user registration edge cases #94991
