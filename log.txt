@@ -2681,3 +2681,4 @@
 17513. fix: prevent crash on empty input #17513
 27412. style: apply consistent indentation #27412
 3912. chore: bump dependencies #3912
+88889. style: standardize quote style #88889
