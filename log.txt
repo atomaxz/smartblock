@@ -3656,3 +3656,4 @@
 38644. feat: add user authentication #38644
 84490. refactor: organize models into subfolders #84490
 14742. chore: add GitHub actions badge #14742
+47949. fix: fix null pointer exception on login #47949
