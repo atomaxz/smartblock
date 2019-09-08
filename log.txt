@@ -680,3 +680,4 @@
 29346. chore: add GitHub actions badge #29346
 94991. test: test user registration edge cases #94991
 43843. fix: fix null pointer exception on login #43843
+9427. refactor: clean up auth middleware #9427
