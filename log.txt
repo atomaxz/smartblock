@@ -2683,3 +2683,4 @@
 3912. chore: bump dependencies #3912
 88889. style: standardize quote style #88889
 81400. perf: reduce image load time #81400
+49089. feat: support email verification #49089
