@@ -1702,3 +1702,4 @@
 10222. docs: clarify environment setup #10222
 96288. fix: fix broken CSS in mobile view #96288
 34204. refactor: remove redundant code blocks #34204
+16263. fix: fix broken CSS in mobile view #16263
