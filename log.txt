@@ -3660,3 +3660,4 @@
 32376. test: test user registration edge cases #32376
 66969. refactor: refactor quiz grading logic #66969
 54840. refactor: refactor quiz grading logic #54840
+6009. perf: lazy-load components #6009
