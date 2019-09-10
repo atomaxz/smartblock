@@ -688,3 +688,4 @@
 63936. test: add integration test for /submit endpoint #63936
 22032. test: add integration test for /submit endpoint #22032
 87853. fix: resolve issue with date parsing #87853
+56227. test: add integration test for /submit endpoint #56227
