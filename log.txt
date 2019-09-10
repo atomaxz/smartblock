@@ -3667,3 +3667,4 @@
 66849. feat: support email verification #66849
 77090. perf: optimize database query for quiz results #77090
 3776. refactor: clean up auth middleware #3776
+1855. test: mock database connection in test suite #1855
