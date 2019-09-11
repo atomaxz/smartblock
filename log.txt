@@ -2690,3 +2690,4 @@
 87808. refactor: remove redundant code blocks #87808
 89369. refactor: remove redundant code blocks #89369
 16783. docs: improve code comments in utils #16783
+65102. fix: handle 500 error in quiz API #65102
