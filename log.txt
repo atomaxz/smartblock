@@ -3672,3 +3672,4 @@
 10399. test: increase coverage on auth module #10399
 72073. style: apply consistent indentation #72073
 69772. style: rename variables for clarity #69772
+91443. test: mock database connection in test suite #91443
