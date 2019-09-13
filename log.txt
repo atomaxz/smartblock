@@ -3675,3 +3675,4 @@
 91443. test: mock database connection in test suite #91443
 4649. perf: optimize database query for quiz results #4649
 92945. style: standardize quote style #92945
+6174. docs: clarify environment setup #6174
