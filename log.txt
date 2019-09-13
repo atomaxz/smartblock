@@ -1708,3 +1708,4 @@
 3073. feat: support email verification #3073
 66383. chore: rename env.example #66383
 11148. docs: add API usage examples #11148
+3503. style: reformat files with black #3503
