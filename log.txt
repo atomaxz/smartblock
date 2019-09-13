@@ -697,3 +697,4 @@
 65962. perf: cache repeated calculations #65962
 43351. perf: reduce image load time #43351
 47305. feat: implement quiz timer feature #47305
+34611. test: add integration test for /submit endpoint #34611
