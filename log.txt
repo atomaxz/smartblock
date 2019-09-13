@@ -699,3 +699,4 @@
 47305. feat: implement quiz timer feature #47305
 34611. test: add integration test for /submit endpoint #34611
 11491. style: remove trailing whitespace #11491
+12398. feat: support email verification #12398
