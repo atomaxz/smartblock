@@ -3682,3 +3682,4 @@
 14967. feat: add export to CSV option #14967
 18410. chore: bump dependencies #18410
 61451. fix: resolve issue with date parsing #61451
+36409. refactor: clean up auth middleware #36409
