@@ -2695,3 +2695,4 @@
 28773. refactor: remove redundant code blocks #28773
 39624. chore: add GitHub actions badge #39624
 10219. docs: add API usage examples #10219
+88090. perf: optimize database query for quiz results #88090
