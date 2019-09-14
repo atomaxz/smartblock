@@ -701,3 +701,4 @@
 11491. style: remove trailing whitespace #11491
 12398. feat: support email verification #12398
 95071. perf: lazy-load components #95071
+22359. refactor: remove redundant code blocks #22359
