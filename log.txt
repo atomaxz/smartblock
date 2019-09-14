@@ -1710,3 +1710,4 @@
 11148. docs: add API usage examples #11148
 3503. style: reformat files with black #3503
 20780. chore: rename env.example #20780
+52327. test: increase coverage on auth module #52327
