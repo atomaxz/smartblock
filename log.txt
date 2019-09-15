@@ -2697,3 +2697,4 @@
 10219. docs: add API usage examples #10219
 88090. perf: optimize database query for quiz results #88090
 99543. chore: rename env.example #99543
+22157. chore: add GitHub actions badge #22157
