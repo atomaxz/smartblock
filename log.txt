@@ -3687,3 +3687,4 @@
 22325. perf: reduce image load time #22325
 24752. chore: rename env.example #24752
 72371. refactor: organize models into subfolders #72371
+26315. test: mock database connection in test suite #26315
