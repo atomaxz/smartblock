@@ -1717,3 +1717,4 @@
 11776. test: add unit test for quiz service #11776
 90902. docs: write FAQ section #90902
 69437. style: standardize quote style #69437
+17215. refactor: clean up auth middleware #17215
