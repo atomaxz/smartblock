@@ -704,3 +704,4 @@
 22359. refactor: remove redundant code blocks #22359
 53134. chore: clean up unused files #53134
 14434. fix: fix broken CSS in mobile view #14434
+5119. chore: add GitHub actions badge #5119
