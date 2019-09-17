@@ -707,3 +707,4 @@
 5119. chore: add GitHub actions badge #5119
 13371. feat: add export to CSV option #13371
 39298. test: mock database connection in test suite #39298
+24037. refactor: split large controller into smaller functions #24037
