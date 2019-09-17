@@ -3693,3 +3693,4 @@
 52723. fix: prevent crash on empty input #52723
 93214. style: standardize quote style #93214
 79057. fix: fix broken CSS in mobile view #79057
+86548. style: remove trailing whitespace #86548
