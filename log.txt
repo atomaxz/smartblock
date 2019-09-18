@@ -1722,3 +1722,4 @@
 7623. docs: improve code comments in utils #7623
 72052. style: apply consistent indentation #72052
 43780. test: mock database connection in test suite #43780
+92561. fix: resolve issue with date parsing #92561
