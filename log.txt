@@ -3696,3 +3696,4 @@
 86548. style: remove trailing whitespace #86548
 65551. docs: document token refresh logic #65551
 66991. refactor: remove redundant code blocks #66991
+65054. perf: optimize database query for quiz results #65054
