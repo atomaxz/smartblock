@@ -1724,3 +1724,4 @@
 43780. test: mock database connection in test suite #43780
 92561. fix: resolve issue with date parsing #92561
 14491. docs: improve code comments in utils #14491
+91237. feat: enable dark mode toggle #91237
