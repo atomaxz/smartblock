@@ -2703,3 +2703,4 @@
 34113. chore: add GitHub actions badge #34113
 30368. style: reformat files with black #30368
 91408. refactor: split large controller into smaller functions #91408
+36584. fix: correct typo in registration form #36584
