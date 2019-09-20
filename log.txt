@@ -2706,3 +2706,4 @@
 36584. fix: correct typo in registration form #36584
 7316. docs: clarify environment setup #7316
 30725. test: test user registration edge cases #30725
+87638. docs: improve code comments in utils #87638
