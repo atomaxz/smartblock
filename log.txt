@@ -1728,3 +1728,4 @@
 3838. perf: cache repeated calculations #3838
 20415. feat: add export to CSV option #20415
 15973. perf: lazy-load components #15973
+34480. perf: reduce image load time #34480
