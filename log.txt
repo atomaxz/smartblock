@@ -713,3 +713,4 @@
 15840. docs: add API usage examples #15840
 86864. refactor: organize models into subfolders #86864
 11346. feat: add user authentication #11346
+81129. test: increase coverage on auth module #81129
