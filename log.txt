@@ -1729,3 +1729,4 @@
 20415. feat: add export to CSV option #20415
 15973. perf: lazy-load components #15973
 34480. perf: reduce image load time #34480
+94132. fix: fix broken CSS in mobile view #94132
