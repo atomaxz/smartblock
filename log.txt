@@ -715,3 +715,4 @@
 11346. feat: add user authentication #11346
 81129. test: increase coverage on auth module #81129
 74366. refactor: clean up auth middleware #74366
+10481. test: increase coverage on auth module #10481
