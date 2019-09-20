@@ -714,3 +714,4 @@
 86864. refactor: organize models into subfolders #86864
 11346. feat: add user authentication #11346
 81129. test: increase coverage on auth module #81129
+74366. refactor: clean up auth middleware #74366
