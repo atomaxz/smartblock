@@ -2715,3 +2715,4 @@
 72809. test: test user registration edge cases #72809
 88924. refactor: remove redundant code blocks #88924
 5347. style: standardize quote style #5347
+25871. refactor: clean up auth middleware #25871
