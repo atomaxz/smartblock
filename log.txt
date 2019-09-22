@@ -2718,3 +2718,4 @@
 25871. refactor: clean up auth middleware #25871
 72387. refactor: split large controller into smaller functions #72387
 63843. feat: add export to CSV option #63843
+10237. test: increase coverage on auth module #10237
