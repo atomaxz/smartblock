@@ -3712,3 +3712,4 @@
 68612. refactor: split large controller into smaller functions #68612
 65957. feat: add user authentication #65957
 42713. fix: prevent crash on empty input #42713
+59491. test: add integration test for /submit endpoint #59491
