@@ -2719,3 +2719,4 @@
 72387. refactor: split large controller into smaller functions #72387
 63843. feat: add export to CSV option #63843
 10237. test: increase coverage on auth module #10237
+54111. perf: reduce image load time #54111
