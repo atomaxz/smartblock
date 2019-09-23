@@ -1740,3 +1740,4 @@
 23932. fix: fix null pointer exception on login #23932
 90708. feat: implement quiz timer feature #90708
 97923. fix: prevent crash on empty input #97923
+11020. style: remove trailing whitespace #11020
