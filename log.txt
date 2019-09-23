@@ -1734,3 +1734,4 @@
 19787. perf: cache repeated calculations #19787
 87048. feat: create admin dashboard #87048
 23294. perf: cache repeated calculations #23294
+7060. perf: reduce image load time #7060
