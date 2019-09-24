@@ -2722,3 +2722,4 @@
 54111. perf: reduce image load time #54111
 80134. test: test user registration edge cases #80134
 28078. chore: rename env.example #28078
+52108. test: increase coverage on auth module #52108
