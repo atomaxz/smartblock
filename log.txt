@@ -722,3 +722,4 @@
 47607. style: reformat files with black #47607
 31542. style: rename variables for clarity #31542
 78256. feat: create admin dashboard #78256
+77354. refactor: organize models into subfolders #77354
