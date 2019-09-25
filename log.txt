@@ -1748,3 +1748,4 @@
 48722. test: add integration test for /submit endpoint #48722
 57278. feat: enable dark mode toggle #57278
 20595. docs: document token refresh logic #20595
+51379. chore: update .gitignore #51379
