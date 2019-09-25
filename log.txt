@@ -724,3 +724,4 @@
 78256. feat: create admin dashboard #78256
 77354. refactor: organize models into subfolders #77354
 9878. perf: optimize database query for quiz results #9878
+48250. feat: support email verification #48250
