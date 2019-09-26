@@ -728,3 +728,4 @@
 62453. docs: document token refresh logic #62453
 61803. fix: resolve issue with date parsing #61803
 93486. refactor: clean up auth middleware #93486
+36394. perf: optimize database query for quiz results #36394
