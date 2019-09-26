@@ -3719,3 +3719,4 @@
 43695. perf: optimize database query for quiz results #43695
 65556. perf: cache repeated calculations #65556
 10743. perf: optimize database query for quiz results #10743
+87037. style: standardize quote style #87037
