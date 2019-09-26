@@ -726,3 +726,4 @@
 9878. perf: optimize database query for quiz results #9878
 48250. feat: support email verification #48250
 62453. docs: document token refresh logic #62453
+61803. fix: resolve issue with date parsing #61803
