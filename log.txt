@@ -3718,3 +3718,4 @@
 40327. test: add unit test for quiz service #40327
 43695. perf: optimize database query for quiz results #43695
 65556. perf: cache repeated calculations #65556
+10743. perf: optimize database query for quiz results #10743
