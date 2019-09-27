@@ -1754,3 +1754,4 @@
 41279. fix: correct typo in registration form #41279
 63135. refactor: refactor quiz grading logic #63135
 74003. chore: update .gitignore #74003
+80450. feat: implement quiz timer feature #80450
