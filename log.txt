@@ -731,3 +731,4 @@
 36394. perf: optimize database query for quiz results #36394
 58402. feat: support email verification #58402
 71453. test: test user registration edge cases #71453
+44007. perf: lazy-load components #44007
