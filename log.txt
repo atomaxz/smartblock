@@ -3727,3 +3727,4 @@
 13953. perf: optimize database query for quiz results #13953
 9776. fix: handle 500 error in quiz API #9776
 62213. test: add unit test for quiz service #62213
+67622. chore: clean up unused files #67622
