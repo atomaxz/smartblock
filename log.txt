@@ -1757,3 +1757,4 @@
 80450. feat: implement quiz timer feature #80450
 27265. docs: update README with setup steps #27265
 96813. chore: update .gitignore #96813
+53119. chore: add GitHub actions badge #53119
