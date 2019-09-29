@@ -1761,3 +1761,4 @@
 11385. refactor: clean up auth middleware #11385
 63452. style: remove trailing whitespace #63452
 39750. test: mock database connection in test suite #39750
+49985. fix: fix broken CSS in mobile view #49985
