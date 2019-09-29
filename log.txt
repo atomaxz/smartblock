@@ -3729,3 +3729,4 @@
 62213. test: add unit test for quiz service #62213
 67622. chore: clean up unused files #67622
 52963. perf: cache repeated calculations #52963
+91795. feat: support email verification #91795
