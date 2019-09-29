@@ -3730,3 +3730,4 @@
 67622. chore: clean up unused files #67622
 52963. perf: cache repeated calculations #52963
 91795. feat: support email verification #91795
+48171. chore: update .gitignore #48171
