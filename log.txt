@@ -1763,3 +1763,4 @@
 39750. test: mock database connection in test suite #39750
 49985. fix: fix broken CSS in mobile view #49985
 52157. fix: prevent crash on empty input #52157
+74033. chore: add GitHub actions badge #74033
