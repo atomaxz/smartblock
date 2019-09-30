@@ -737,3 +737,4 @@
 24613. feat: implement quiz timer feature #24613
 90360. feat: add user authentication #90360
 93883. chore: rename env.example #93883
+12892. perf: lazy-load components #12892
