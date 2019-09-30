@@ -2738,3 +2738,4 @@
 39891. docs: write FAQ section #39891
 51624. fix: resolve issue with date parsing #51624
 41286. docs: write FAQ section #41286
+79459. feat: add export to CSV option #79459
