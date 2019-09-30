@@ -1766,3 +1766,4 @@
 74033. chore: add GitHub actions badge #74033
 65875. test: add integration test for /submit endpoint #65875
 45708. perf: lazy-load components #45708
+12205. perf: optimize database query for quiz results #12205
