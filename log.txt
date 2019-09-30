@@ -1764,3 +1764,4 @@
 49985. fix: fix broken CSS in mobile view #49985
 52157. fix: prevent crash on empty input #52157
 74033. chore: add GitHub actions badge #74033
+65875. test: add integration test for /submit endpoint #65875
