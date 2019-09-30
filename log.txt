@@ -2741,3 +2741,4 @@
 79459. feat: add export to CSV option #79459
 28054. docs: write FAQ section #28054
 70424. style: rename variables for clarity #70424
+35089. chore: update .gitignore #35089
