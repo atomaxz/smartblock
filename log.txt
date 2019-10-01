@@ -3739,3 +3739,4 @@
 84677. style: reformat files with black #84677
 90936. test: add unit test for quiz service #90936
 85890. chore: rename env.example #85890
+52248. refactor: clean up auth middleware #52248
