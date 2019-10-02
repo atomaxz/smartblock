@@ -1769,3 +1769,4 @@
 12205. perf: optimize database query for quiz results #12205
 91303. perf: cache repeated calculations #91303
 66428. perf: cache repeated calculations #66428
+89335. docs: update README with setup steps #89335
