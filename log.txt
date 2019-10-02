@@ -2745,3 +2745,4 @@
 82429. refactor: split large controller into smaller functions #82429
 21148. test: increase coverage on auth module #21148
 14894. docs: document token refresh logic #14894
+28545. perf: optimize database query for quiz results #28545
