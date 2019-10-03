@@ -744,3 +744,4 @@
 69211. chore: rename env.example #69211
 17747. docs: clarify environment setup #17747
 36492. docs: clarify environment setup #36492
+37442. fix: prevent crash on empty input #37442
