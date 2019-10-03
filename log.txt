@@ -3745,3 +3745,4 @@
 30995. docs: clarify environment setup #30995
 92718. chore: rename env.example #92718
 51042. test: test user registration edge cases #51042
+66869. style: remove trailing whitespace #66869
