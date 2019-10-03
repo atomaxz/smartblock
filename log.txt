@@ -1770,3 +1770,4 @@
 91303. perf: cache repeated calculations #91303
 66428. perf: cache repeated calculations #66428
 89335. docs: update README with setup steps #89335
+96482. refactor: organize models into subfolders #96482
