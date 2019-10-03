@@ -2748,3 +2748,4 @@
 28545. perf: optimize database query for quiz results #28545
 38772. refactor: split large controller into smaller functions #38772
 29534. perf: optimize database query for quiz results #29534
+51729. docs: write FAQ section #51729
