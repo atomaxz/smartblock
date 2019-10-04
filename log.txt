@@ -2750,3 +2750,4 @@
 29534. perf: optimize database query for quiz results #29534
 51729. docs: write FAQ section #51729
 58610. fix: resolve issue with date parsing #58610
+97490. chore: add GitHub actions badge #97490
