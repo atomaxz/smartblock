@@ -3747,3 +3747,4 @@
 51042. test: test user registration edge cases #51042
 66869. style: remove trailing whitespace #66869
 20709. refactor: split large controller into smaller functions #20709
+43747. fix: prevent crash on empty input #43747
