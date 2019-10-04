@@ -1771,3 +1771,4 @@
 66428. perf: cache repeated calculations #66428
 89335. docs: update README with setup steps #89335
 96482. refactor: organize models into subfolders #96482
+36997. test: increase coverage on auth module #36997
