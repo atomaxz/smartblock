@@ -2754,3 +2754,4 @@
 69392. perf: lazy-load components #69392
 81743. fix: fix broken CSS in mobile view #81743
 79152. fix: fix null pointer exception on login #79152
+56660. docs: update README with setup steps #56660
