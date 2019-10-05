@@ -3750,3 +3750,4 @@
 43747. fix: prevent crash on empty input #43747
 13632. refactor: clean up auth middleware #13632
 67689. docs: improve code comments in utils #67689
+43460. feat: add user authentication #43460
