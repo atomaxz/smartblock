@@ -2753,3 +2753,4 @@
 97490. chore: add GitHub actions badge #97490
 69392. perf: lazy-load components #69392
 81743. fix: fix broken CSS in mobile view #81743
+79152. fix: fix null pointer exception on login #79152
