@@ -2755,3 +2755,4 @@
 81743. fix: fix broken CSS in mobile view #81743
 79152. fix: fix null pointer exception on login #79152
 56660. docs: update README with setup steps #56660
+61564. test: add unit test for quiz service #61564
