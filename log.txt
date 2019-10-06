@@ -2756,3 +2756,4 @@
 79152. fix: fix null pointer exception on login #79152
 56660. docs: update README with setup steps #56660
 61564. test: add unit test for quiz service #61564
+3096. perf: optimize database query for quiz results #3096
