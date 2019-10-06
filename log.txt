@@ -747,3 +747,4 @@
 37442. fix: prevent crash on empty input #37442
 52169. style: remove trailing whitespace #52169
 43409. docs: clarify environment setup #43409
+59279. chore: update .gitignore #59279
