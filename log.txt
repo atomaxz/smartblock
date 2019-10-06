@@ -3751,3 +3751,4 @@
 13632. refactor: clean up auth middleware #13632
 67689. docs: improve code comments in utils #67689
 43460. feat: add user authentication #43460
+28299. test: increase coverage on auth module #28299
