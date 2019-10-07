@@ -3756,3 +3756,4 @@
 10439. perf: optimize database query for quiz results #10439
 66568. test: add integration test for /submit endpoint #66568
 45248. refactor: remove redundant code blocks #45248
+1830. feat: support email verification #1830
