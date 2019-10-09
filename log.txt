@@ -755,3 +755,4 @@
 68474. feat: enable dark mode toggle #68474
 45118. chore: rename env.example #45118
 64054. perf: reduce image load time #64054
+11063. feat: support email verification #11063
