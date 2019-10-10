@@ -3765,3 +3765,4 @@
 50627. docs: add API usage examples #50627
 60168. docs: update README with setup steps #60168
 56168. fix: handle 500 error in quiz API #56168
+90510. fix: correct typo in registration form #90510
