@@ -2765,3 +2765,4 @@
 38589. feat: add export to CSV option #38589
 31076. perf: reduce image load time #31076
 64351. refactor: clean up auth middleware #64351
+34309. chore: add GitHub actions badge #34309
