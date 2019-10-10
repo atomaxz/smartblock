@@ -3763,3 +3763,4 @@
 90914. chore: bump dependencies #90914
 90429. refactor: organize models into subfolders #90429
 50627. docs: add API usage examples #50627
+60168. docs: update README with setup steps #60168
