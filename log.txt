@@ -3764,3 +3764,4 @@
 90429. refactor: organize models into subfolders #90429
 50627. docs: add API usage examples #50627
 60168. docs: update README with setup steps #60168
+56168. fix: handle 500 error in quiz API #56168
