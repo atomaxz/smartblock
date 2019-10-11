@@ -2769,3 +2769,4 @@
 50572. refactor: clean up auth middleware #50572
 75443. docs: update README with setup steps #75443
 2855. test: mock database connection in test suite #2855
+66970. style: remove trailing whitespace #66970
