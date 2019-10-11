@@ -1784,3 +1784,4 @@
 91885. style: standardize quote style #91885
 27860. chore: clean up unused files #27860
 36090. fix: resolve issue with date parsing #36090
+97508. fix: prevent crash on empty input #97508
