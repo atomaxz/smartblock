@@ -2771,3 +2771,4 @@
 2855. test: mock database connection in test suite #2855
 66970. style: remove trailing whitespace #66970
 8010. style: rename variables for clarity #8010
+75598. refactor: clean up auth middleware #75598
