@@ -761,3 +761,4 @@
 21791. refactor: split large controller into smaller functions #21791
 75651. style: standardize quote style #75651
 38531. perf: lazy-load components #38531
+72917. docs: write FAQ section #72917
