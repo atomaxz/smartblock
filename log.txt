@@ -1791,3 +1791,4 @@
 90918. perf: reduce image load time #90918
 70021. docs: clarify environment setup #70021
 27895. test: add integration test for /submit endpoint #27895
+31996. perf: lazy-load components #31996
