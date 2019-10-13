@@ -3772,3 +3772,4 @@
 13891. fix: fix null pointer exception on login #13891
 48432. feat: support email verification #48432
 87442. docs: clarify environment setup #87442
+10505. chore: add GitHub actions badge #10505
