@@ -1795,3 +1795,4 @@
 22285. docs: document token refresh logic #22285
 23794. fix: resolve issue with date parsing #23794
 63668. fix: correct typo in registration form #63668
+49466. test: add integration test for /submit endpoint #49466
