@@ -3777,3 +3777,4 @@
 34122. feat: support email verification #34122
 34319. feat: enable dark mode toggle #34319
 38396. style: standardize quote style #38396
+0672. fix: fix broken CSS in mobile view #672
