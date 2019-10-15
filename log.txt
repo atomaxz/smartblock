@@ -773,3 +773,4 @@
 19785. style: apply consistent indentation #19785
 31224. feat: enable dark mode toggle #31224
 92452. feat: support email verification #92452
+81519. test: mock database connection in test suite #81519
