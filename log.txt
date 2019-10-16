@@ -1796,3 +1796,4 @@
 23794. fix: resolve issue with date parsing #23794
 63668. fix: correct typo in registration form #63668
 49466. test: add integration test for /submit endpoint #49466
+90287. docs: update README with setup steps #90287
