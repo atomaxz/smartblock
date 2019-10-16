@@ -3780,3 +3780,4 @@
 0672. fix: fix broken CSS in mobile view #672
 57979. docs: update README with setup steps #57979
 67601. docs: clarify environment setup #67601
+29819. perf: reduce image load time #29819
