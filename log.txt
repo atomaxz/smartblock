@@ -3781,3 +3781,4 @@
 57979. docs: update README with setup steps #57979
 67601. docs: clarify environment setup #67601
 29819. perf: reduce image load time #29819
+5751. feat: enable dark mode toggle #5751
