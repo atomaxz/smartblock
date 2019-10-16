@@ -775,3 +775,4 @@
 92452. feat: support email verification #92452
 81519. test: mock database connection in test suite #81519
 40535. docs: document token refresh logic #40535
+96565. test: mock database connection in test suite #96565
