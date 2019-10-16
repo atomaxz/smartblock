@@ -1797,3 +1797,4 @@
 63668. fix: correct typo in registration form #63668
 49466. test: add integration test for /submit endpoint #49466
 90287. docs: update README with setup steps #90287
+84580. feat: add user authentication #84580
