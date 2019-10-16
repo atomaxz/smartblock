@@ -3779,3 +3779,4 @@
 38396. style: standardize quote style #38396
 0672. fix: fix broken CSS in mobile view #672
 57979. docs: update README with setup steps #57979
+67601. docs: clarify environment setup #67601
