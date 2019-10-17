@@ -1799,3 +1799,4 @@
 90287. docs: update README with setup steps #90287
 84580. feat: add user authentication #84580
 46854. perf: lazy-load components #46854
+65700. perf: optimize database query for quiz results #65700
