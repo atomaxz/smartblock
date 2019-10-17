@@ -778,3 +778,4 @@
 96565. test: mock database connection in test suite #96565
 46448. perf: reduce image load time #46448
 17229. style: reformat files with black #17229
+60844. chore: rename env.example #60844
