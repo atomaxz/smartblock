@@ -781,3 +781,4 @@
 60844. chore: rename env.example #60844
 85831. refactor: clean up auth middleware #85831
 66049. refactor: split large controller into smaller functions #66049
+14365. fix: prevent crash on empty input #14365
