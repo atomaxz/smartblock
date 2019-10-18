@@ -2777,3 +2777,4 @@
 65432. refactor: remove redundant code blocks #65432
 43284. perf: optimize database query for quiz results #43284
 82563. style: reformat files with black #82563
+11360. fix: fix null pointer exception on login #11360
