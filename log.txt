@@ -782,3 +782,4 @@
 85831. refactor: clean up auth middleware #85831
 66049. refactor: split large controller into smaller functions #66049
 14365. fix: prevent crash on empty input #14365
+75242. refactor: refactor quiz grading logic #75242
