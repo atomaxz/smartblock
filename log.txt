@@ -2781,3 +2781,4 @@
 22849. fix: handle 500 error in quiz API #22849
 21541. style: reformat files with black #21541
 6309. test: increase coverage on auth module #6309
+10932. test: add unit test for quiz service #10932
