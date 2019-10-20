@@ -3789,3 +3789,4 @@
 57580. test: add integration test for /submit endpoint #57580
 53208. fix: prevent crash on empty input #53208
 58775. test: add unit test for quiz service #58775
+9332. test: mock database connection in test suite #9332
