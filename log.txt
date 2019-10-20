@@ -2784,3 +2784,4 @@
 10932. test: add unit test for quiz service #10932
 96120. fix: fix broken CSS in mobile view #96120
 14942. chore: add GitHub actions badge #14942
+81402. feat: enable dark mode toggle #81402
