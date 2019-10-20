@@ -3788,3 +3788,4 @@
 50374. docs: write FAQ section #50374
 57580. test: add integration test for /submit endpoint #57580
 53208. fix: prevent crash on empty input #53208
+58775. test: add unit test for quiz service #58775
