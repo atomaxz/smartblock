@@ -2787,3 +2787,4 @@
 81402. feat: enable dark mode toggle #81402
 31268. chore: update .gitignore #31268
 63157. test: test user registration edge cases #63157
+14751. chore: add GitHub actions badge #14751
