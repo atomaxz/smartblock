@@ -3791,3 +3791,4 @@
 58775. test: add unit test for quiz service #58775
 9332. test: mock database connection in test suite #9332
 22499. chore: bump dependencies #22499
+12169. style: reformat files with black #12169
