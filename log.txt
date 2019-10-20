@@ -2785,3 +2785,4 @@
 96120. fix: fix broken CSS in mobile view #96120
 14942. chore: add GitHub actions badge #14942
 81402. feat: enable dark mode toggle #81402
+31268. chore: update .gitignore #31268
