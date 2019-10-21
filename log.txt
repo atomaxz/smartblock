@@ -1816,3 +1816,4 @@
 12469. refactor: clean up auth middleware #12469
 63609. test: mock database connection in test suite #63609
 52262. chore: bump dependencies #52262
+96103. docs: write FAQ section #96103
