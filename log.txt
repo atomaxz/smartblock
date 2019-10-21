@@ -792,3 +792,4 @@
 84639. feat: add export to CSV option #84639
 83049. chore: add GitHub actions badge #83049
 81370. chore: bump dependencies #81370
+12304. perf: optimize database query for quiz results #12304
