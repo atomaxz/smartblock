@@ -791,3 +791,4 @@
 58694. style: apply consistent indentation #58694
 84639. feat: add export to CSV option #84639
 83049. chore: add GitHub actions badge #83049
+81370. chore: bump dependencies #81370
