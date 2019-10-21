@@ -2789,3 +2789,4 @@
 63157. test: test user registration edge cases #63157
 14751. chore: add GitHub actions badge #14751
 68261. fix: correct typo in registration form #68261
+27351. test: add unit test for quiz service #27351
