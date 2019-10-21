@@ -3793,3 +3793,4 @@
 22499. chore: bump dependencies #22499
 12169. style: reformat files with black #12169
 72058. fix: handle 500 error in quiz API #72058
+20406. test: mock database connection in test suite #20406
