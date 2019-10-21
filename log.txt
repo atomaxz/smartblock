@@ -1814,3 +1814,4 @@
 19287. docs: improve code comments in utils #19287
 12366. test: increase coverage on auth module #12366
 12469. refactor: clean up auth middleware #12469
+63609. test: mock database connection in test suite #63609
