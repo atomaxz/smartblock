@@ -797,3 +797,4 @@
 39112. style: apply consistent indentation #39112
 99234. perf: reduce image load time #99234
 19193. refactor: refactor quiz grading logic #19193
+47756. perf: optimize database query for quiz results #47756
