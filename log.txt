@@ -1818,3 +1818,4 @@
 52262. chore: bump dependencies #52262
 96103. docs: write FAQ section #96103
 95730. fix: fix broken CSS in mobile view #95730
+8331. chore: update .gitignore #8331
