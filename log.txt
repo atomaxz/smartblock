@@ -2797,3 +2797,4 @@
 34355. feat: add export to CSV option #34355
 8998. perf: optimize database query for quiz results #8998
 40951. style: apply consistent indentation #40951
+62052. fix: prevent crash on empty input #62052
