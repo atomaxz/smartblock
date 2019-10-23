@@ -2795,3 +2795,4 @@
 81694. style: apply consistent indentation #81694
 25934. docs: clarify environment setup #25934
 34355. feat: add export to CSV option #34355
+8998. perf: optimize database query for quiz results #8998
