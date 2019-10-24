@@ -802,3 +802,4 @@
 20339. chore: rename env.example #20339
 27040. refactor: remove redundant code blocks #27040
 10682. fix: prevent crash on empty input #10682
+87063. style: remove trailing whitespace #87063
