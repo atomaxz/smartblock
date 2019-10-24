@@ -2801,3 +2801,4 @@
 77779. style: standardize quote style #77779
 64506. docs: write FAQ section #64506
 10977. fix: fix null pointer exception on login #10977
+8529. test: mock database connection in test suite #8529
