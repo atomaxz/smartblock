@@ -800,3 +800,4 @@
 47756. perf: optimize database query for quiz results #47756
 6147. style: remove trailing whitespace #6147
 20339. chore: rename env.example #20339
+27040. refactor: remove redundant code blocks #27040
