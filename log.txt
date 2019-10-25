@@ -2805,3 +2805,4 @@
 98436. chore: rename env.example #98436
 9953. fix: resolve issue with date parsing #9953
 35320. docs: improve code comments in utils #35320
+7263. refactor: clean up auth middleware #7263
