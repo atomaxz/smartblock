@@ -2803,3 +2803,4 @@
 10977. fix: fix null pointer exception on login #10977
 8529. test: mock database connection in test suite #8529
 98436. chore: rename env.example #98436
+9953. fix: resolve issue with date parsing #9953
