@@ -3805,3 +3805,4 @@
 82470. test: add unit test for quiz service #82470
 57102. fix: resolve issue with date parsing #57102
 32906. perf: lazy-load components #32906
+19866. perf: optimize database query for quiz results #19866
