@@ -3802,3 +3802,4 @@
 43249. test: increase coverage on auth module #43249
 1666. feat: implement quiz timer feature #1666
 95510. fix: prevent crash on empty input #95510
+82470. test: add unit test for quiz service #82470
