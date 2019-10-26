@@ -3806,3 +3806,4 @@
 57102. fix: resolve issue with date parsing #57102
 32906. perf: lazy-load components #32906
 19866. perf: optimize database query for quiz results #19866
+20040. feat: support email verification #20040
