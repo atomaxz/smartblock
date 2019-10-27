@@ -1829,3 +1829,4 @@
 54804. style: reformat files with black #54804
 79563. refactor: refactor quiz grading logic #79563
 18470. test: mock database connection in test suite #18470
+79107. fix: prevent crash on empty input #79107
