@@ -2810,3 +2810,4 @@
 86513. style: reformat files with black #86513
 54419. chore: update .gitignore #54419
 77788. refactor: refactor quiz grading logic #77788
+86081. feat: support email verification #86081
