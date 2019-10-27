@@ -3810,3 +3810,4 @@
 75518. docs: write FAQ section #75518
 72162. feat: implement quiz timer feature #72162
 69092. chore: bump dependencies #69092
+13275. test: add integration test for /submit endpoint #13275
