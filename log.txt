@@ -810,3 +810,4 @@
 71621. test: mock database connection in test suite #71621
 28908. chore: bump dependencies #28908
 71757. style: reformat files with black #71757
+7660. test: mock database connection in test suite #7660
