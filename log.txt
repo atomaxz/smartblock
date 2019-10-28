@@ -813,3 +813,4 @@
 7660. test: mock database connection in test suite #7660
 93570. chore: rename env.example #93570
 51245. style: apply consistent indentation #51245
+58295. fix: fix broken CSS in mobile view #58295
