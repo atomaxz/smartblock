@@ -814,3 +814,4 @@
 93570. chore: rename env.example #93570
 51245. style: apply consistent indentation #51245
 58295. fix: fix broken CSS in mobile view #58295
+46270. perf: lazy-load components #46270
