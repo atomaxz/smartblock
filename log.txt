@@ -3816,3 +3816,4 @@
 6463. perf: lazy-load components #6463
 77005. fix: resolve issue with date parsing #77005
 31910. test: increase coverage on auth module #31910
+23220. perf: lazy-load components #23220
