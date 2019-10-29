@@ -1833,3 +1833,4 @@
 44982. chore: bump dependencies #44982
 9627. fix: resolve issue with date parsing #9627
 30566. refactor: refactor quiz grading logic #30566
+87563. test: mock database connection in test suite #87563
