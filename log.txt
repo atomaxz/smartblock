@@ -1840,3 +1840,4 @@
 47343. perf: reduce image load time #47343
 20528. fix: correct typo in registration form #20528
 81107. feat: implement quiz timer feature #81107
+36715. feat: add user authentication #36715
