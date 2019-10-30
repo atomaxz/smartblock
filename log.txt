@@ -818,3 +818,4 @@
 74560. fix: prevent crash on empty input #74560
 74082. fix: fix broken CSS in mobile view #74082
 17919. chore: add GitHub actions badge #17919
+94042. fix: handle 500 error in quiz API #94042
