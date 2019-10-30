@@ -2818,3 +2818,4 @@
 49191. perf: optimize database query for quiz results #49191
 99643. feat: add user authentication #99643
 84358. refactor: split large controller into smaller functions #84358
+40427. fix: handle 500 error in quiz API #40427
