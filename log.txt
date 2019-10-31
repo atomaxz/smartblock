@@ -821,3 +821,4 @@
 94042. fix: handle 500 error in quiz API #94042
 62396. refactor: refactor quiz grading logic #62396
 31370. fix: fix null pointer exception on login #31370
+81361. style: standardize quote style #81361
