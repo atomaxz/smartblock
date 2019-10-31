@@ -824,3 +824,4 @@
 81361. style: standardize quote style #81361
 87958. style: reformat files with black #87958
 15859. perf: optimize database query for quiz results #15859
+80778. test: test user registration edge cases #80778
