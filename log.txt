@@ -1843,3 +1843,4 @@
 36715. feat: add user authentication #36715
 71535. chore: update .gitignore #71535
 52756. style: reformat files with black #52756
+63102. refactor: organize models into subfolders #63102
