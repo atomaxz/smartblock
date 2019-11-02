@@ -2827,3 +2827,4 @@
 0351. perf: lazy-load components #351
 7759. feat: add export to CSV option #7759
 67433. feat: add export to CSV option #67433
+12813. fix: resolve issue with date parsing #12813
