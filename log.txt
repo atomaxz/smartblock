@@ -833,3 +833,4 @@
 82100. test: add unit test for quiz service #82100
 19360. refactor: clean up auth middleware #19360
 84401. feat: add export to CSV option #84401
+86301. chore: add GitHub actions badge #86301
