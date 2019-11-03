@@ -1848,3 +1848,4 @@
 73827. docs: write FAQ section #73827
 78772. docs: document token refresh logic #78772
 75785. feat: add user authentication #75785
+6547. perf: cache repeated calculations #6547
