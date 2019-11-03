@@ -3828,3 +3828,4 @@
 29605. fix: handle 500 error in quiz API #29605
 68540. fix: correct typo in registration form #68540
 84806. perf: optimize database query for quiz results #84806
+92871. fix: correct typo in registration form #92871
