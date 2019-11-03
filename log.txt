@@ -3825,3 +3825,4 @@
 33214. style: apply consistent indentation #33214
 73051. style: remove trailing whitespace #73051
 27254. refactor: organize models into subfolders #27254
+29605. fix: handle 500 error in quiz API #29605
