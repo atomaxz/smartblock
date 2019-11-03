@@ -836,3 +836,4 @@
 86301. chore: add GitHub actions badge #86301
 30288. chore: bump dependencies #30288
 39252. feat: add export to CSV option #39252
+12362. perf: reduce image load time #12362
