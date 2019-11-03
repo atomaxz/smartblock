@@ -1847,3 +1847,4 @@
 80161. perf: optimize database query for quiz results #80161
 73827. docs: write FAQ section #73827
 78772. docs: document token refresh logic #78772
+75785. feat: add user authentication #75785
