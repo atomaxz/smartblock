@@ -3829,3 +3829,4 @@
 68540. fix: correct typo in registration form #68540
 84806. perf: optimize database query for quiz results #84806
 92871. fix: correct typo in registration form #92871
+80872. perf: optimize database query for quiz results #80872
