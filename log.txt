@@ -2834,3 +2834,4 @@
 84110. docs: improve code comments in utils #84110
 81187. style: standardize quote style #81187
 40635. test: mock database connection in test suite #40635
+21561. refactor: clean up auth middleware #21561
