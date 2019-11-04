@@ -2835,3 +2835,4 @@
 81187. style: standardize quote style #81187
 40635. test: mock database connection in test suite #40635
 21561. refactor: clean up auth middleware #21561
+48105. fix: prevent crash on empty input #48105
