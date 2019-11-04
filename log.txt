@@ -3832,3 +3832,4 @@
 80872. perf: optimize database query for quiz results #80872
 97528. refactor: remove redundant code blocks #97528
 36296. perf: lazy-load components #36296
+99403. feat: add user authentication #99403
