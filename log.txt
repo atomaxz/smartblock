@@ -3834,3 +3834,4 @@
 36296. perf: lazy-load components #36296
 99403. feat: add user authentication #99403
 97842. fix: fix null pointer exception on login #97842
+54319. perf: reduce image load time #54319
