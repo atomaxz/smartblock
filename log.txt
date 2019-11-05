@@ -840,3 +840,4 @@
 64188. test: test user registration edge cases #64188
 48110. style: apply consistent indentation #48110
 43593. style: reformat files with black #43593
+93482. style: apply consistent indentation #93482
