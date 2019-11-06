@@ -3838,3 +3838,4 @@
 67073. fix: resolve issue with date parsing #67073
 47499. chore: rename env.example #47499
 35008. refactor: organize models into subfolders #35008
+56569. test: increase coverage on auth module #56569
