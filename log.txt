@@ -1857,3 +1857,4 @@
 56288. feat: add export to CSV option #56288
 75638. chore: add GitHub actions badge #75638
 34513. test: add integration test for /submit endpoint #34513
+37562. docs: write FAQ section #37562
