@@ -3840,3 +3840,4 @@
 35008. refactor: organize models into subfolders #35008
 56569. test: increase coverage on auth module #56569
 89375. docs: add API usage examples #89375
+50415. docs: update README with setup steps #50415
