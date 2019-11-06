@@ -3842,3 +3842,4 @@
 89375. docs: add API usage examples #89375
 50415. docs: update README with setup steps #50415
 47335. chore: add GitHub actions badge #47335
+81778. docs: document token refresh logic #81778
