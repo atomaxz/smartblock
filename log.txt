@@ -849,3 +849,4 @@
 63760. test: add unit test for quiz service #63760
 82720. docs: add API usage examples #82720
 76564. docs: add API usage examples #76564
+83323. fix: prevent crash on empty input #83323
