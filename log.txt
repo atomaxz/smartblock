@@ -1861,3 +1861,4 @@
 11869. feat: enable dark mode toggle #11869
 26362. docs: write FAQ section #26362
 17114. feat: create admin dashboard #17114
+82860. fix: handle 500 error in quiz API #82860
