@@ -1858,3 +1858,4 @@
 75638. chore: add GitHub actions badge #75638
 34513. test: add integration test for /submit endpoint #34513
 37562. docs: write FAQ section #37562
+11869. feat: enable dark mode toggle #11869
