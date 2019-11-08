@@ -1863,3 +1863,4 @@
 17114. feat: create admin dashboard #17114
 82860. fix: handle 500 error in quiz API #82860
 74429. chore: rename env.example #74429
+20975. perf: reduce image load time #20975
