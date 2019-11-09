@@ -852,3 +852,4 @@
 83323. fix: prevent crash on empty input #83323
 76042. feat: add user authentication #76042
 59796. docs: add API usage examples #59796
+52365. style: remove trailing whitespace #52365
