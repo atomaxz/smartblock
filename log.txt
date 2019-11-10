@@ -1868,3 +1868,4 @@
 4697. perf: lazy-load components #4697
 40963. chore: rename env.example #40963
 4171. style: rename variables for clarity #4171
+1789. style: remove trailing whitespace #1789
