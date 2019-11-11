@@ -2848,3 +2848,4 @@
 23089. refactor: organize models into subfolders #23089
 42512. test: add unit test for quiz service #42512
 4369. refactor: organize models into subfolders #4369
+25827. perf: optimize database query for quiz results #25827
