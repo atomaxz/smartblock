@@ -1875,3 +1875,4 @@
 87702. fix: correct typo in registration form #87702
 87786. chore: update .gitignore #87786
 49964. style: reformat files with black #49964
+25821. refactor: organize models into subfolders #25821
