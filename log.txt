@@ -1871,3 +1871,4 @@
 1789. style: remove trailing whitespace #1789
 39237. perf: cache repeated calculations #39237
 76588. fix: handle 500 error in quiz API #76588
+22487. docs: document token refresh logic #22487
