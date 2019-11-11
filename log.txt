@@ -2850,3 +2850,4 @@
 4369. refactor: organize models into subfolders #4369
 25827. perf: optimize database query for quiz results #25827
 99568. chore: clean up unused files #99568
+67331. test: test user registration edge cases #67331
