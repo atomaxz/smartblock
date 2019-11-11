@@ -3856,3 +3856,4 @@
 91403. docs: clarify environment setup #91403
 12855. style: apply consistent indentation #12855
 6568. fix: fix broken CSS in mobile view #6568
+12561. style: reformat files with black #12561
