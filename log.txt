@@ -1873,3 +1873,4 @@
 76588. fix: handle 500 error in quiz API #76588
 22487. docs: document token refresh logic #22487
 87702. fix: correct typo in registration form #87702
+87786. chore: update .gitignore #87786
