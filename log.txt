@@ -1874,3 +1874,4 @@
 22487. docs: document token refresh logic #22487
 87702. fix: correct typo in registration form #87702
 87786. chore: update .gitignore #87786
+49964. style: reformat files with black #49964
