@@ -855,3 +855,4 @@
 52365. style: remove trailing whitespace #52365
 78072. chore: rename env.example #78072
 8020. chore: rename env.example #8020
+59515. fix: prevent crash on empty input #59515
