@@ -3858,3 +3858,4 @@
 6568. fix: fix broken CSS in mobile view #6568
 12561. style: reformat files with black #12561
 96229. docs: update README with setup steps #96229
+36571. fix: fix null pointer exception on login #36571
