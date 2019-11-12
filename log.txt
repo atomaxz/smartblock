@@ -857,3 +857,4 @@
 8020. chore: rename env.example #8020
 59515. fix: prevent crash on empty input #59515
 78661. refactor: refactor quiz grading logic #78661
+21897. chore: add GitHub actions badge #21897
