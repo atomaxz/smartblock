@@ -3862,3 +3862,4 @@
 10581. test: increase coverage on auth module #10581
 88652. perf: cache repeated calculations #88652
 3538. chore: bump dependencies #3538
+56845. test: test user registration edge cases #56845
