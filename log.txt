@@ -861,3 +861,4 @@
 66538. test: mock database connection in test suite #66538
 12668. fix: fix null pointer exception on login #12668
 67566. feat: create admin dashboard #67566
+72416. fix: handle 500 error in quiz API #72416
