@@ -3864,3 +3864,4 @@
 3538. chore: bump dependencies #3538
 56845. test: test user registration edge cases #56845
 78856. refactor: split large controller into smaller functions #78856
+92819. chore: bump dependencies #92819
