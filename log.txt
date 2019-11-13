@@ -2857,3 +2857,4 @@
 28372. test: mock database connection in test suite #28372
 90146. feat: create admin dashboard #90146
 28931. refactor: split large controller into smaller functions #28931
+80625. refactor: clean up auth middleware #80625
