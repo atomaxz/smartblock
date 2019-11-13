@@ -3863,3 +3863,4 @@
 88652. perf: cache repeated calculations #88652
 3538. chore: bump dependencies #3538
 56845. test: test user registration edge cases #56845
+78856. refactor: split large controller into smaller functions #78856
