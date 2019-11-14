@@ -862,3 +862,4 @@
 12668. fix: fix null pointer exception on login #12668
 67566. feat: create admin dashboard #67566
 72416. fix: handle 500 error in quiz API #72416
+47019. style: rename variables for clarity #47019
