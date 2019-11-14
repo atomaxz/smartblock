@@ -2863,3 +2863,4 @@
 77744. refactor: clean up auth middleware #77744
 4901. test: add integration test for /submit endpoint #4901
 36527. test: test user registration edge cases #36527
+35435. test: mock database connection in test suite #35435
