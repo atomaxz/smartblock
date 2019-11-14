@@ -2864,3 +2864,4 @@
 4901. test: add integration test for /submit endpoint #4901
 36527. test: test user registration edge cases #36527
 35435. test: mock database connection in test suite #35435
+44433. chore: bump dependencies #44433
