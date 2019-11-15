@@ -2865,3 +2865,4 @@
 36527. test: test user registration edge cases #36527
 35435. test: mock database connection in test suite #35435
 44433. chore: bump dependencies #44433
+36868. feat: enable dark mode toggle #36868
