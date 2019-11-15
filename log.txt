@@ -3867,3 +3867,4 @@
 92819. chore: bump dependencies #92819
 75168. perf: reduce image load time #75168
 55172. refactor: refactor quiz grading logic #55172
+41089. test: mock database connection in test suite #41089
