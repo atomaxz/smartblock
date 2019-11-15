@@ -3868,3 +3868,4 @@
 75168. perf: reduce image load time #75168
 55172. refactor: refactor quiz grading logic #55172
 41089. test: mock database connection in test suite #41089
+23178. perf: lazy-load components #23178
