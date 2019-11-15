@@ -1878,3 +1878,4 @@
 25821. refactor: organize models into subfolders #25821
 44910. chore: add GitHub actions badge #44910
 75414. docs: write FAQ section #75414
+87046. feat: add user authentication #87046
