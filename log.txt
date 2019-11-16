@@ -3872,3 +3872,4 @@
 23719. chore: update .gitignore #23719
 7813. feat: enable dark mode toggle #7813
 17112. perf: reduce image load time #17112
+15407. chore: add GitHub actions badge #15407
