@@ -2869,3 +2869,4 @@
 80024. test: test user registration edge cases #80024
 55815. chore: bump dependencies #55815
 97156. chore: bump dependencies #97156
+38088. test: increase coverage on auth module #38088
