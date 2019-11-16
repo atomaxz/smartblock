@@ -3871,3 +3871,4 @@
 23178. perf: lazy-load components #23178
 23719. chore: update .gitignore #23719
 7813. feat: enable dark mode toggle #7813
+17112. perf: reduce image load time #17112
