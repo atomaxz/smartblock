@@ -868,3 +868,4 @@
 66746. refactor: clean up auth middleware #66746
 84498. docs: write FAQ section #84498
 89071. style: apply consistent indentation #89071
+17006. refactor: clean up auth middleware #17006
