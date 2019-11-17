@@ -1881,3 +1881,4 @@
 87046. feat: add user authentication #87046
 43038. refactor: split large controller into smaller functions #43038
 25509. chore: clean up unused files #25509
+28946. perf: reduce image load time #28946
