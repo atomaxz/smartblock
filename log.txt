@@ -2875,3 +2875,4 @@
 12728. docs: write FAQ section #12728
 1602. test: increase coverage on auth module #1602
 28892. feat: enable dark mode toggle #28892
+51787. test: add integration test for /submit endpoint #51787
