@@ -873,3 +873,4 @@
 42290. style: reformat files with black #42290
 11680. perf: cache repeated calculations #11680
 30907. docs: add API usage examples #30907
+51418. style: apply consistent indentation #51418
