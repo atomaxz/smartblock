@@ -3879,3 +3879,4 @@
 19172. chore: bump dependencies #19172
 12491. test: increase coverage on auth module #12491
 4018. docs: clarify environment setup #4018
+43393. test: add unit test for quiz service #43393
