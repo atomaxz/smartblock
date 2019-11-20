@@ -1891,3 +1891,4 @@
 61263. refactor: organize models into subfolders #61263
 13039. docs: document token refresh logic #13039
 82053. feat: support email verification #82053
+75762. test: increase coverage on auth module #75762
