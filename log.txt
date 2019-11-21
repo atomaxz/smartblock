@@ -3883,3 +3883,4 @@
 95577. docs: clarify environment setup #95577
 77994. docs: improve code comments in utils #77994
 95017. refactor: split large controller into smaller functions #95017
+52768. test: test user registration edge cases #52768
