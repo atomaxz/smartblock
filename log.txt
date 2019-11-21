@@ -2884,3 +2884,4 @@
 16134. docs: clarify environment setup #16134
 52077. perf: lazy-load components #52077
 40742. docs: clarify environment setup #40742
+35826. test: test user registration edge cases #35826
