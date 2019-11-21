@@ -3885,3 +3885,4 @@
 95017. refactor: split large controller into smaller functions #95017
 52768. test: test user registration edge cases #52768
 50182. feat: support email verification #50182
+73031. feat: add user authentication #73031
