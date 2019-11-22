@@ -881,3 +881,4 @@
 68485. docs: document token refresh logic #68485
 47735. test: increase coverage on auth module #47735
 50247. feat: create admin dashboard #50247
+33488. chore: add GitHub actions badge #33488
