@@ -1895,3 +1895,4 @@
 64675. chore: add GitHub actions badge #64675
 46160. chore: bump dependencies #46160
 82242. perf: cache repeated calculations #82242
+21863. perf: reduce image load time #21863
