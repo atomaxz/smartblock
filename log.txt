@@ -885,3 +885,4 @@
 79058. refactor: organize models into subfolders #79058
 71866. docs: document token refresh logic #71866
 58188. perf: cache repeated calculations #58188
+3953. feat: add user authentication #3953
