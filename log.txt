@@ -891,3 +891,4 @@
 49814. docs: document token refresh logic #49814
 67990. docs: improve code comments in utils #67990
 57896. chore: bump dependencies #57896
+31992. fix: fix broken CSS in mobile view #31992
