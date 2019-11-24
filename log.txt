@@ -888,3 +888,4 @@
 3953. feat: add user authentication #3953
 79072. perf: lazy-load components #79072
 75145. style: reformat files with black #75145
+49814. docs: document token refresh logic #49814
