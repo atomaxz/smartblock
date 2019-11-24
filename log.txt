@@ -892,3 +892,4 @@
 67990. docs: improve code comments in utils #67990
 57896. chore: bump dependencies #57896
 31992. fix: fix broken CSS in mobile view #31992
+41756. fix: prevent crash on empty input #41756
