@@ -2896,3 +2896,4 @@
 86228. style: apply consistent indentation #86228
 62663. feat: add export to CSV option #62663
 9534. feat: create admin dashboard #9534
+22933. feat: support email verification #22933
