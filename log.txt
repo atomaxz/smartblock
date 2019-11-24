@@ -3891,3 +3891,4 @@
 91984. refactor: organize models into subfolders #91984
 85706. chore: clean up unused files #85706
 43921. chore: clean up unused files #43921
+88547. test: test user registration edge cases #88547
