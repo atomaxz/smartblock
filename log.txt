@@ -2897,3 +2897,4 @@
 62663. feat: add export to CSV option #62663
 9534. feat: create admin dashboard #9534
 22933. feat: support email verification #22933
+32857. fix: fix null pointer exception on login #32857
