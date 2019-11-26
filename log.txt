@@ -2900,3 +2900,4 @@
 32857. fix: fix null pointer exception on login #32857
 80865. style: rename variables for clarity #80865
 63718. docs: write FAQ section #63718
+37183. refactor: clean up auth middleware #37183
