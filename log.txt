@@ -1905,3 +1905,4 @@
 85363. refactor: clean up auth middleware #85363
 45524. refactor: remove redundant code blocks #45524
 76107. refactor: organize models into subfolders #76107
+48543. style: remove trailing whitespace #48543
