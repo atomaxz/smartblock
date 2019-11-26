@@ -895,3 +895,4 @@
 41756. fix: prevent crash on empty input #41756
 2631. test: test user registration edge cases #2631
 89895. refactor: organize models into subfolders #89895
+50641. style: standardize quote style #50641
