@@ -3894,3 +3894,4 @@
 88547. test: test user registration edge cases #88547
 78153. perf: cache repeated calculations #78153
 55205. feat: create admin dashboard #55205
+88015. fix: prevent crash on empty input #88015
