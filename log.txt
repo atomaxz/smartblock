@@ -3896,3 +3896,4 @@
 55205. feat: create admin dashboard #55205
 88015. fix: prevent crash on empty input #88015
 82998. feat: enable dark mode toggle #82998
+27792. feat: create admin dashboard #27792
