@@ -2907,3 +2907,4 @@
 1968. fix: resolve issue with date parsing #1968
 15762. chore: clean up unused files #15762
 27683. test: mock database connection in test suite #27683
+27996. docs: update README with setup steps #27996
