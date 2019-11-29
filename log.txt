@@ -904,3 +904,4 @@
 30490. test: add unit test for quiz service #30490
 35727. perf: cache repeated calculations #35727
 22708. refactor: remove redundant code blocks #22708
+60146. fix: resolve issue with date parsing #60146
