@@ -2911,3 +2911,4 @@
 98958. refactor: organize models into subfolders #98958
 39376. test: test user registration edge cases #39376
 83167. docs: document token refresh logic #83167
+63984. fix: handle 500 error in quiz API #63984
