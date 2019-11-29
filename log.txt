@@ -1911,3 +1911,4 @@
 69743. docs: clarify environment setup #69743
 19360. refactor: clean up auth middleware #19360
 46433. test: increase coverage on auth module #46433
+59967. style: apply consistent indentation #59967
