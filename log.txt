@@ -1913,3 +1913,4 @@
 46433. test: increase coverage on auth module #46433
 59967. style: apply consistent indentation #59967
 44327. chore: add GitHub actions badge #44327
+37583. fix: fix null pointer exception on login #37583
