@@ -1915,3 +1915,4 @@
 44327. chore: add GitHub actions badge #44327
 37583. fix: fix null pointer exception on login #37583
 83392. style: standardize quote style #83392
+59776. refactor: clean up auth middleware #59776
