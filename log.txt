@@ -3907,3 +3907,4 @@
 53934. chore: clean up unused files #53934
 2097. style: rename variables for clarity #2097
 86379. docs: clarify environment setup #86379
+41117. fix: fix broken CSS in mobile view #41117
