@@ -909,3 +909,4 @@
 91352. refactor: clean up auth middleware #91352
 5429. docs: update README with setup steps #5429
 7119. perf: lazy-load components #7119
+2952. fix: fix null pointer exception on login #2952
