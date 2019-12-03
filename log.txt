@@ -915,3 +915,4 @@
 9376. docs: improve code comments in utils #9376
 46011. style: rename variables for clarity #46011
 31260. feat: support email verification #31260
+88862. test: increase coverage on auth module #88862
