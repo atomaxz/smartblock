@@ -2923,3 +2923,4 @@
 20480. feat: create admin dashboard #20480
 84391. refactor: split large controller into smaller functions #84391
 99418. chore: clean up unused files #99418
+88513. chore: bump dependencies #88513
