@@ -2927,3 +2927,4 @@
 23420. docs: document token refresh logic #23420
 4113. style: standardize quote style #4113
 43275. docs: write FAQ section #43275
+73473. chore: add GitHub actions badge #73473
