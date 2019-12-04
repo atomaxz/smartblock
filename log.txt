@@ -1921,3 +1921,4 @@
 43696. chore: update .gitignore #43696
 20483. perf: optimize database query for quiz results #20483
 1347. refactor: remove redundant code blocks #1347
+47972. style: standardize quote style #47972
