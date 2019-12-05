@@ -1924,3 +1924,4 @@
 47972. style: standardize quote style #47972
 27675. fix: fix broken CSS in mobile view #27675
 8023. perf: optimize database query for quiz results #8023
+80220. perf: cache repeated calculations #80220
