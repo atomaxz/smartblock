@@ -3914,3 +3914,4 @@
 81039. docs: clarify environment setup #81039
 63941. chore: bump dependencies #63941
 66940. docs: improve code comments in utils #66940
+10603. fix: prevent crash on empty input #10603
