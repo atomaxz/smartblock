@@ -2928,3 +2928,4 @@
 4113. style: standardize quote style #4113
 43275. docs: write FAQ section #43275
 73473. chore: add GitHub actions badge #73473
+17341. feat: support email verification #17341
