@@ -917,3 +917,4 @@
 31260. feat: support email verification #31260
 88862. test: increase coverage on auth module #88862
 57155. fix: correct typo in registration form #57155
+60763. fix: fix broken CSS in mobile view #60763
