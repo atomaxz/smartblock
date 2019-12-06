@@ -920,3 +920,4 @@
 60763. fix: fix broken CSS in mobile view #60763
 1668. fix: resolve issue with date parsing #1668
 83246. style: apply consistent indentation #83246
+44672. test: increase coverage on auth module #44672
