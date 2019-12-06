@@ -2929,3 +2929,4 @@
 43275. docs: write FAQ section #43275
 73473. chore: add GitHub actions badge #73473
 17341. feat: support email verification #17341
+55869. docs: update README with setup steps #55869
