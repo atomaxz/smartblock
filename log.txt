@@ -3919,3 +3919,4 @@
 9325. chore: update .gitignore #9325
 3902. docs: add API usage examples #3902
 39997. perf: lazy-load components #39997
+25419. refactor: organize models into subfolders #25419
