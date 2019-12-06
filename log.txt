@@ -921,3 +921,4 @@
 1668. fix: resolve issue with date parsing #1668
 83246. style: apply consistent indentation #83246
 44672. test: increase coverage on auth module #44672
+54620. test: increase coverage on auth module #54620
