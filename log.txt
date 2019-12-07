@@ -1931,3 +1931,4 @@
 22628. test: add unit test for quiz service #22628
 22309. chore: add GitHub actions badge #22309
 67555. chore: clean up unused files #67555
+15165. fix: prevent crash on empty input #15165
