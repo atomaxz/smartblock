@@ -3921,3 +3921,4 @@
 39997. perf: lazy-load components #39997
 25419. refactor: organize models into subfolders #25419
 94481. refactor: clean up auth middleware #94481
+55548. fix: fix null pointer exception on login #55548
