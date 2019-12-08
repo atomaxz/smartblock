@@ -3923,3 +3923,4 @@
 94481. refactor: clean up auth middleware #94481
 55548. fix: fix null pointer exception on login #55548
 34779. style: reformat files with black #34779
+65560. refactor: clean up auth middleware #65560
