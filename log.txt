@@ -1940,3 +1940,4 @@
 42484. test: add integration test for /submit endpoint #42484
 24739. fix: fix null pointer exception on login #24739
 50478. style: reformat files with black #50478
+88525. perf: cache repeated calculations #88525
