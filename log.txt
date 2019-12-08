@@ -3927,3 +3927,4 @@
 24761. fix: correct typo in registration form #24761
 42134. docs: clarify environment setup #42134
 59417. refactor: remove redundant code blocks #59417
+96795. style: remove trailing whitespace #96795
