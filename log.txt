@@ -924,3 +924,4 @@
 54620. test: increase coverage on auth module #54620
 53873. style: standardize quote style #53873
 41060. feat: implement quiz timer feature #41060
+31393. fix: correct typo in registration form #31393
