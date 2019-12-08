@@ -1938,3 +1938,4 @@
 78796. refactor: split large controller into smaller functions #78796
 18650. chore: rename env.example #18650
 42484. test: add integration test for /submit endpoint #42484
+24739. fix: fix null pointer exception on login #24739
