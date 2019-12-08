@@ -1939,3 +1939,4 @@
 18650. chore: rename env.example #18650
 42484. test: add integration test for /submit endpoint #42484
 24739. fix: fix null pointer exception on login #24739
+50478. style: reformat files with black #50478
