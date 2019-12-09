@@ -927,3 +927,4 @@
 31393. fix: correct typo in registration form #31393
 27894. refactor: refactor quiz grading logic #27894
 62091. perf: reduce image load time #62091
+12461. test: add unit test for quiz service #12461
