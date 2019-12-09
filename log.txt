@@ -1943,3 +1943,4 @@
 88525. perf: cache repeated calculations #88525
 29755. fix: resolve issue with date parsing #29755
 14180. docs: improve code comments in utils #14180
+52633. feat: support email verification #52633
