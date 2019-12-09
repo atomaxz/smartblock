@@ -926,3 +926,4 @@
 41060. feat: implement quiz timer feature #41060
 31393. fix: correct typo in registration form #31393
 27894. refactor: refactor quiz grading logic #27894
+62091. perf: reduce image load time #62091
