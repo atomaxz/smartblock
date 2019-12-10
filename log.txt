@@ -1945,3 +1945,4 @@
 14180. docs: improve code comments in utils #14180
 52633. feat: support email verification #52633
 69693. test: increase coverage on auth module #69693
+75912. docs: write FAQ section #75912
