@@ -932,3 +932,4 @@
 26292. test: add unit test for quiz service #26292
 11273. fix: correct typo in registration form #11273
 60162. chore: add GitHub actions badge #60162
+16987. test: increase coverage on auth module #16987
