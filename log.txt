@@ -3932,3 +3932,4 @@
 44179. docs: write FAQ section #44179
 74173. test: add integration test for /submit endpoint #74173
 89761. feat: add user authentication #89761
+35087. feat: support email verification #35087
