@@ -933,3 +933,4 @@
 11273. fix: correct typo in registration form #11273
 60162. chore: add GitHub actions badge #60162
 16987. test: increase coverage on auth module #16987
+39281. perf: optimize database query for quiz results #39281
