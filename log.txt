@@ -936,3 +936,4 @@
 39281. perf: optimize database query for quiz results #39281
 90583. chore: bump dependencies #90583
 51970. refactor: clean up auth middleware #51970
+96286. chore: add GitHub actions badge #96286
