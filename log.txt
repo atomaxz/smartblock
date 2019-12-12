@@ -2940,3 +2940,4 @@
 51419. style: reformat files with black #51419
 36798. style: reformat files with black #36798
 25320. chore: bump dependencies #25320
+71782. chore: add GitHub actions badge #71782
