@@ -3941,3 +3941,4 @@
 57646. refactor: organize models into subfolders #57646
 12039. docs: document token refresh logic #12039
 45176. style: apply consistent indentation #45176
+3757. perf: cache repeated calculations #3757
