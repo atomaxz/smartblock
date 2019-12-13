@@ -3943,3 +3943,4 @@
 45176. style: apply consistent indentation #45176
 3757. perf: cache repeated calculations #3757
 98784. chore: clean up unused files #98784
+25051. fix: prevent crash on empty input #25051
