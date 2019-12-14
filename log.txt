@@ -1958,3 +1958,4 @@
 42385. docs: add API usage examples #42385
 96985. feat: implement quiz timer feature #96985
 46726. perf: reduce image load time #46726
+64349. chore: clean up unused files #64349
