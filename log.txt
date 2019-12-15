@@ -2952,3 +2952,4 @@
 48806. fix: handle 500 error in quiz API #48806
 54868. style: remove trailing whitespace #54868
 67338. perf: optimize database query for quiz results #67338
+3645. style: standardize quote style #3645
