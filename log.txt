@@ -3946,3 +3946,4 @@
 25051. fix: prevent crash on empty input #25051
 61247. docs: add API usage examples #61247
 23723. refactor: organize models into subfolders #23723
+39400. feat: support email verification #39400
