@@ -1969,3 +1969,4 @@
 80717. fix: fix null pointer exception on login #80717
 71647. perf: reduce image load time #71647
 58388. perf: optimize database query for quiz results #58388
+57676. fix: resolve issue with date parsing #57676
