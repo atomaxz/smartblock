@@ -952,3 +952,4 @@
 8791. style: standardize quote style #8791
 12955. docs: clarify environment setup #12955
 57441. perf: optimize database query for quiz results #57441
+27494. feat: add user authentication #27494
