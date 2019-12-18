@@ -954,3 +954,4 @@
 57441. perf: optimize database query for quiz results #57441
 27494. feat: add user authentication #27494
 83722. feat: add export to CSV option #83722
+71375. test: test user registration edge cases #71375
