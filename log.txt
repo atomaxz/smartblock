@@ -3962,3 +3962,4 @@
 66118. style: standardize quote style #66118
 26156. docs: write FAQ section #26156
 40104. feat: enable dark mode toggle #40104
+81415. perf: reduce image load time #81415
