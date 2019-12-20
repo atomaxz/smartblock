@@ -1980,3 +1980,4 @@
 13645. fix: resolve issue with date parsing #13645
 75904. refactor: remove redundant code blocks #75904
 83520. perf: reduce image load time #83520
+72829. fix: prevent crash on empty input #72829
