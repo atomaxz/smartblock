@@ -960,3 +960,4 @@
 71367. style: apply consistent indentation #71367
 34915. chore: rename env.example #34915
 29866. perf: lazy-load components #29866
+83193. perf: lazy-load components #83193
