@@ -1979,3 +1979,4 @@
 7312. chore: update .gitignore #7312
 13645. fix: resolve issue with date parsing #13645
 75904. refactor: remove redundant code blocks #75904
+83520. perf: reduce image load time #83520
