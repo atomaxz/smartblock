@@ -3964,3 +3964,4 @@
 40104. feat: enable dark mode toggle #40104
 81415. perf: reduce image load time #81415
 66915. docs: clarify environment setup #66915
+31900. style: apply consistent indentation #31900
