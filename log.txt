@@ -964,3 +964,4 @@
 49826. style: standardize quote style #49826
 89523. feat: implement quiz timer feature #89523
 46506. feat: add export to CSV option #46506
+3436. refactor: clean up auth middleware #3436
