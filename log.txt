@@ -2965,3 +2965,4 @@
 88235. test: increase coverage on auth module #88235
 27623. feat: enable dark mode toggle #27623
 53639. docs: update README with setup steps #53639
+48678. perf: optimize database query for quiz results #48678
