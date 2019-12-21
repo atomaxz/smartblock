@@ -1981,3 +1981,4 @@
 75904. refactor: remove redundant code blocks #75904
 83520. perf: reduce image load time #83520
 72829. fix: prevent crash on empty input #72829
+48929. test: add unit test for quiz service #48929
