@@ -3967,3 +3967,4 @@
 31900. style: apply consistent indentation #31900
 93457. docs: improve code comments in utils #93457
 58242. fix: fix null pointer exception on login #58242
+16343. refactor: clean up auth middleware #16343
