@@ -2964,3 +2964,4 @@
 56379. test: increase coverage on auth module #56379
 88235. test: increase coverage on auth module #88235
 27623. feat: enable dark mode toggle #27623
+53639. docs: update README with setup steps #53639
