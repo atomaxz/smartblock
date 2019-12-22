@@ -968,3 +968,4 @@
 0578. chore: update .gitignore #578
 64158. chore: clean up unused files #64158
 64467. style: apply consistent indentation #64467
+82589. fix: prevent crash on empty input #82589
