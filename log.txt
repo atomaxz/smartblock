@@ -2970,3 +2970,4 @@
 53681. chore: rename env.example #53681
 41797. chore: update .gitignore #41797
 54686. fix: handle 500 error in quiz API #54686
+68624. test: increase coverage on auth module #68624
