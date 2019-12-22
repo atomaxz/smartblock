@@ -1982,3 +1982,4 @@
 83520. perf: reduce image load time #83520
 72829. fix: prevent crash on empty input #72829
 48929. test: add unit test for quiz service #48929
+31560. fix: fix broken CSS in mobile view #31560
