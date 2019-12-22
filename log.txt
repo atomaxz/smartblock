@@ -3970,3 +3970,4 @@
 16343. refactor: clean up auth middleware #16343
 68023. feat: create admin dashboard #68023
 27302. perf: cache repeated calculations #27302
+75496. refactor: split large controller into smaller functions #75496
