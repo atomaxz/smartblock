@@ -3976,3 +3976,4 @@
 98637. test: add unit test for quiz service #98637
 23818. chore: update .gitignore #23818
 13139. refactor: organize models into subfolders #13139
+0168. fix: prevent crash on empty input #168
