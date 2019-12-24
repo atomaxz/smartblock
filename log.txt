@@ -2974,3 +2974,4 @@
 93591. feat: enable dark mode toggle #93591
 15787. test: increase coverage on auth module #15787
 57373. refactor: split large controller into smaller functions #57373
+27917. test: test user registration edge cases #27917
