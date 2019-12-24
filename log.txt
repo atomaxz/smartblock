@@ -2977,3 +2977,4 @@
 27917. test: test user registration edge cases #27917
 68975. style: apply consistent indentation #68975
 89332. feat: support email verification #89332
+86776. refactor: refactor quiz grading logic #86776
