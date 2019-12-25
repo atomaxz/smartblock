@@ -3981,3 +3981,4 @@
 6966. refactor: split large controller into smaller functions #6966
 7678. refactor: organize models into subfolders #7678
 68511. refactor: organize models into subfolders #68511
+45411. fix: correct typo in registration form #45411
