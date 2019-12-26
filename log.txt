@@ -1988,3 +1988,4 @@
 17007. feat: add export to CSV option #17007
 46584. perf: optimize database query for quiz results #46584
 92206. style: remove trailing whitespace #92206
+70827. feat: enable dark mode toggle #70827
