@@ -3984,3 +3984,4 @@
 45411. fix: correct typo in registration form #45411
 79258. test: add integration test for /submit endpoint #79258
 18101. perf: lazy-load components #18101
+8371. fix: handle 500 error in quiz API #8371
