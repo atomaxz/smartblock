@@ -982,3 +982,4 @@
 74650. style: reformat files with black #74650
 70740. refactor: remove redundant code blocks #70740
 11890. docs: write FAQ section #11890
+35611. test: test user registration edge cases #35611
