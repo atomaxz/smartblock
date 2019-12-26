@@ -980,3 +980,4 @@
 67082. test: add integration test for /submit endpoint #67082
 73302. refactor: remove redundant code blocks #73302
 74650. style: reformat files with black #74650
+70740. refactor: remove redundant code blocks #70740
