@@ -3982,3 +3982,4 @@
 7678. refactor: organize models into subfolders #7678
 68511. refactor: organize models into subfolders #68511
 45411. fix: correct typo in registration form #45411
+79258. test: add integration test for /submit endpoint #79258
