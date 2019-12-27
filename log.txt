@@ -984,3 +984,4 @@
 11890. docs: write FAQ section #11890
 35611. test: test user registration edge cases #35611
 84681. fix: fix null pointer exception on login #84681
+10837. refactor: remove redundant code blocks #10837
