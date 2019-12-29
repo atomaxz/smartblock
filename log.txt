@@ -1994,3 +1994,4 @@
 51449. perf: lazy-load components #51449
 90960. style: apply consistent indentation #90960
 63352. perf: lazy-load components #63352
+47606. feat: create admin dashboard #47606
