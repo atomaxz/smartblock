@@ -3993,3 +3993,4 @@
 22919. perf: reduce image load time #22919
 20479. refactor: refactor quiz grading logic #20479
 79840. fix: fix null pointer exception on login #79840
+28657. perf: lazy-load components #28657
