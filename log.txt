@@ -989,3 +989,4 @@
 88252. perf: reduce image load time #88252
 71748. style: rename variables for clarity #71748
 45770. test: test user registration edge cases #45770
+58975. perf: optimize database query for quiz results #58975
