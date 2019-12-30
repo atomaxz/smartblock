@@ -2992,3 +2992,4 @@
 1864. style: reformat files with black #1864
 30970. fix: correct typo in registration form #30970
 48311. style: apply consistent indentation #48311
+75308. feat: add export to CSV option #75308
