@@ -994,3 +994,4 @@
 88304. docs: improve code comments in utils #88304
 58362. refactor: clean up auth middleware #58362
 57185. style: apply consistent indentation #57185
+89153. fix: correct typo in registration form #89153
