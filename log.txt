@@ -1995,3 +1995,4 @@
 90960. style: apply consistent indentation #90960
 63352. perf: lazy-load components #63352
 47606. feat: create admin dashboard #47606
+47680. refactor: split large controller into smaller functions #47680
