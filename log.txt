@@ -2991,3 +2991,4 @@
 56820. fix: fix null pointer exception on login #56820
 1864. style: reformat files with black #1864
 30970. fix: correct typo in registration form #30970
+48311. style: apply consistent indentation #48311
