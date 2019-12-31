@@ -995,3 +995,4 @@
 58362. refactor: clean up auth middleware #58362
 57185. style: apply consistent indentation #57185
 89153. fix: correct typo in registration form #89153
+70647. perf: reduce image load time #70647
