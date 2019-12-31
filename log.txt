@@ -996,3 +996,4 @@
 57185. style: apply consistent indentation #57185
 89153. fix: correct typo in registration form #89153
 70647. perf: reduce image load time #70647
+44659. test: add integration test for /submit endpoint #44659
